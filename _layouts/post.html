@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css2?family=Muli:wght@500;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <title>{{page.title}}</title>
+  </head>
+  <body class="post">
+    <h1 class="post-title">{{page.title}}</h1>
+    <div class="date">
+      <p class="date-before">Pada:</p><p class="date-in"> {{page.date | date: "%-d %B, %Y"}}</p>
+    </div>
+    <div class="feature-image-div">
+      {% if page.feature-img %}
+        <img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
+      {% endif %}
+    </div>
+    <div class="article-content">
+      {{content}}
+    </div>
+  </body>
+</html>

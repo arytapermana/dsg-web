@@ -1,10 +1,16 @@
-.posts{
-  list-style: none;
-  margin: 1em;
+$dsg-grey: #878787;
+$dsg-black: #0f0f0f;
+$dsg-white: #f4f4f4;
+h1,h2,h3,h4,h5,h6,p,a{
+  font-family: 'Muli', sans-serif;
 }
-
-.posts a{
-    color: #0f0f0f;
-    text-decoration: none;
-    font-weight: bold;
+body{
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
