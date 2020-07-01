@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2020-06-30 11:20:12 +0800
+author: Arya Putra
 categories: jekyll update
 feature-img: "https://ik.imagekit.io/dsg/egs-aermemoriesofold-forgottenkey-g1a-00-1920x1080-242875097_RMPhr1PV4.jpg"
 ---

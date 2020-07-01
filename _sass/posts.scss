@@ -1,32 +1,66 @@
-h1{
+.post .title{
   font-size: 28pt;
 }
-.post .date .date-before{
+.post .title{
+  border-left: solid 5px;
+  border-color: $dsg-black;
+  padding-left: 10px;
+}
+.post .sub-title{
+  margin-top: -10px;
+  color: $dsg-grey;
+  font-weight: 500;
+  font-size: 16pt;
+}
+.post .meta{
+  padding-top: 0px;
+  font-size: 10pt;
+}
+.post .meta .date-before,
+.post .meta .author-before{
+  display: inline;
+  background-color: $dsg-grey;
+  padding: 5px;
+  color: $dsg-white;
+}
+.post .meta .date-in,
+.post .meta .author-in{
   display: inline;
   background-color: $dsg-white;
   padding: 5px;
   color: $dsg-grey;
 }
-.post .date .date-in{
-  display: inline;
-  background-color: $dsg-black;
-  padding: 5px;
-  color: $dsg-white;
+.post .column {
+  float: left;
+  width: 50%;
 }
-.post .post-title{
-  border-left: solid 5px;
-  border-color: $dsg-black;
-  padding-left: 10px;
+.post .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.post .share-button{
+  float: right;
+}
+.post .share-box .f,
+.post .share-box .t,
+.post .share-box .r,
+.post .share-box .l,
+.post .share-box .e{
+  background-color: $dsg-white;
+  padding: 5px 10px;
+  color: $dsg-grey;
 }
 .post .feature-image-div{
-  width: 100%;
+  width: 200px;
   margin: 30px 0px 20px 0px;
 }
 .post .feature-image{
-  max-width:100%;
-  max-height:100%;
-  margin: 0 auto;
+  width:720px;
+  height:400px;
+  text-align: center;
+  object-fit: cover;
   border: solid 10px;
   border-color: $dsg-white;
-  box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 0px 40px -10px rgba(0,0,0,0.3);
 }
