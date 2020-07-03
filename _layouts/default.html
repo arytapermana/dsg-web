@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{page.title}}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Muli:wght@500;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ base.url | prepend: site.url }}/assets/css/styles.css">
+  </head>
+  <body>
+    <div class="default">
+      <div class="header" id="header-nav">
+        <div class="row">
+          <div class="column">
+            <div class="title-div">
+              <div class="title-logo">
+                <a href="{{ base.url | prepend: site.url }}"><img src="{{ base.url | prepend: site.url }}/assets/img/dsg-logo.png" alt="Disekitar Game"></a>
+              </div>
+            </div>
+          </div>
+          <div class="column">
+
+          </div>
+        </div>
+      </div>
+      <div class="content-div">
+      {{content}}
+      </div>
+    </div>
+  </body>
+  <script src="{{ base.url | prepend: site.url }}/assets/js/stick-nav.js"></script>
+</html>

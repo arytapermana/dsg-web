@@ -4,7 +4,7 @@ $dsg-white: #f4f4f4;
 h1,h2,h3,h4,h5,h6,p,a{
   font-family: 'Muli', sans-serif;
 }
-body{
+.home, .post{
   max-width: -webkit-calc(800px - (30px * 2));
   max-width: calc(800px - (30px * 2));
   margin-right: auto;
@@ -13,4 +13,8 @@ body{
   padding-left: 30px;
   margin-top: 30px;
   margin-bottom: 20px;
+}
+html,body {
+    margin:0;
+    padding:0;
 }

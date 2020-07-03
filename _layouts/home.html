@@ -1,12 +1,17 @@
+---
+layout: default
+---
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Disekitar Game</title>
+    <title></title>
     <link href="https://fonts.googleapis.com/css2?family=Muli:wght@500;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
-  <body class="home">
+  <body>
+  <div class="home">
     <a href="{{ post.url }}">
       {% for post in site.posts %}
       <div class="feed">
@@ -34,5 +39,6 @@
       </div>
     </a>
       {% endfor %}
+  </div>
   </body>
 </html>
