@@ -14,9 +14,7 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: file
-  name: feature-img-1
-  label: feature-img
+  default: now
 - name: feature-img
   type: text
   config:
@@ -25,6 +23,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
 - type: text
   name: categories
   label: categories
