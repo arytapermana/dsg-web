@@ -8,13 +8,29 @@ fields:
 - type: text
   name: sub-title
   label: sub-title
-- type: text
-  name: author
-  label: author
 - type: datetime
   name: date
   label: date
   default: now
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Arya P.
+    - Angga Permana
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: author
+- name: categories
+  type: tag_list
+  default:
+  - News
+  label: categories
 - name: feature-img
   type: text
   config:
@@ -24,9 +40,6 @@ fields:
   name: layout
   label: layout
   default: post
-- type: text
-  name: categories
-  label: categories
 pages:
 - _posts/2020-10-04-the-order-new.md
 - _posts/2020-10-05-kekuatan-naruto-mengalahkan-doraemon.md
