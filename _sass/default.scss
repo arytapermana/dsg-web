@@ -1,15 +1,18 @@
 .default .header{
+  z-index: 100;
   transition: all .2s;
   padding-top: 10px;
   padding-bottom: 10px;
-  background: $dsg-white;
+  background: #ffffff;
+  border-bottom: solid 1px;
+  border-color: #d6d6d6;
 }
 .default .header h1{
   margin: 0px;
 }
 .default .header .title-logo img{
   transition: all .2s;
-  width: 382px;
+  width: 312px;
   height: auto;
 }
 .default .column {
@@ -24,17 +27,95 @@
 .default .header .title-div{
   margin-left: 50px;
 }
-.sticky {
+.default .sticky {
   position: fixed;
   top: 0;
   width: 100%;
   box-shadow: 0px 0px 20px -5px rgba(0,0,0,0.3);
   background: rgba(244,244,244,0.95) !important;
+  border-color: $dsg-white !important;
 }
-.sticky + .content-div {
+.default .sticky + .content-div {
   padding-top: 60px;
 }
-.sticky .title-logo img {
-  width: 282px !important;
+.default .sticky .title-logo img {
+  width: 232px !important;
   height: auto;
+}
+.default .topnav {
+  overflow: hidden;
+  float: right;
+  margin-right: 50px;
+}
+.default .topnav a {
+  transition: all .2s;
+  float: left;
+  color: $dsg-black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.default .sticky .topnav a {
+  padding: 6px 16px !important;
+}
+.default .footer{
+  position: relative;
+  background-color: $dsg-black;
+  color: $dsg-white;
+  height: 350px;
+}
+.default .footer .footer-bottom{
+  height: 50px;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  padding-top: 20px;
+  padding-bottom: 40px;
+  border-top: solid 1px;
+  border-color: $dsg-grey;
+  width: 90%;
+}
+.default .bottomnav {
+  overflow: hidden;
+  float: right;
+}
+.default .bottomnav a {
+  transition: all .2s;
+  float: left;
+  color: $dsg-white;
+  text-align: center;
+  padding: 14px 0px 0px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.default .page-wrapper{
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 2.5rem;
+}
+.default .footer-column{
+  width: 90%;
+  margin: 0 auto;
+}
+.default .footer-content{
+  margin-left: -20px;
+  margin-right: -20px;
+}
+.default .footer-content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.default .footer-section {
+  float: left;
+  width: 33.33%;
+  padding: 20px;
+}
+.default .footer-column * {
+  box-sizing: border-box;
+}
+.default .footer-content p{
+  color: $dsg-grey;
 }

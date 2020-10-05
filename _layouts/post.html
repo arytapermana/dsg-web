@@ -7,6 +7,7 @@ layout: default
   <head>
     <meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css2?family=Muli:wght@500;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
     <title>{{page.title}}</title>
   </head>
@@ -17,7 +18,9 @@ layout: default
       <div class="row">
         <div class="column">
           <div class="meta">
-            <p class="date-before">Pada</p><p class="date-in"> {{page.date | date: "%-d %B, %Y"}}</p><p class="author-before">Oleh</p><p class="author-in"> {{page.author}}</p>
+            <p class="date-before"><i class="fa fa-calendar-o" aria-hidden="true"></i></p><p class="date-in"> {{page.date | date: "%-d %B, %Y"}}</p>
+            <p class="author-before"><i class="fa fa-user" aria-hidden="true"></i></p><p class="author-in"> {{page.author}}</p>
+            <p class="category-before"><i class="fa fa-bars" aria-hidden="true"></i></p><p class="category-in">{{page.categories | join: ' | '}}</p>
           </div>
         </div>
         <div class="column">
@@ -31,9 +34,11 @@ layout: default
           <img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
         {% endif %}
       </div>
+      <div class="border"></div>
       <div class="article-content">
         {{content}}
       </div>
+      <div class="border"></div>
     </div>
   </body>
 </html>

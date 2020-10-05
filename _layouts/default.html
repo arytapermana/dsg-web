@@ -5,6 +5,7 @@
     <title>{{page.title}}</title>
     <link href="https://fonts.googleapis.com/css2?family=Muli:wght@500;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ base.url | prepend: site.url }}/assets/css/styles.css">
+    {% include head.html %}
   </head>
   <body>
     <div class="default">
@@ -18,12 +19,52 @@
             </div>
           </div>
           <div class="column">
-
+            <div class="topnav">
+              <a href="{{ base.url | prepend: site.url }}">Home</a>
+              <a href="{{ base.url | prepend: site.url }}/news">News</a>
+              <a href="#news">Article</a>
+              <a href="#contact">Contact</a>
+              <a href="#about">About</a>
+            </div>
           </div>
         </div>
       </div>
       <div class="content-div">
-      {{content}}
+      <div class="page-wrapper">
+        {{content}}
+      </div>
+      </div>
+      <div class="footer">
+        <div class="footer-column">
+          <div class="footer-content">
+            <div class="footer-section left">
+              <h3>Siapa Kami?</h3>
+              <p>Kami adalah tim kecil yang mengembangkan media game terutama topik khusus. Bukan hanya memainkan game tetapi mengatahui hal dibaliknya adalah yang menarik dan pantas untuk kalian dapat ketahui.</p>
+            </div>
+            <div class="footer-section middle">
+              <h3>Terhubung Dengan Komunitas</h3>
+              <p>Jangan lewatkan komunitas kami, kalian dapat menemukan kami juga pada <a href="#">YouTube</a>, <a href="#">Facebook</a>, dan bahkan <a href="#">Spotify</a>. Jadi jangan sunkan untuk mengunjunginya.</p>
+            </div>
+            <div class="footer-section right">
+              <h3>Katakan Hai</h3>
+              <p>Kami sangat senang mendengar pendapat kalian, yuk kirimkan sapaan atau pertanyaan, jangan sunkan untuk menghubungi kami melalui email: <a href="#">hello@disekitargame.com</a></p>
+            </div>
+        </div>
+        </div>
+        <div class="footer-bottom">
+          <div class="row">
+            <div class="column">
+              <p>© 2020 Disekitar Game All rights reserved.</p>
+            </div>
+            <div class="column">
+              <div class="bottomnav">
+                <a href="#contact">Contact</a>
+                <a href="#about">About</a>
+                <a href="#about">Legal</a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </body>
