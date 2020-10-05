@@ -15,8 +15,13 @@ fields:
   name: date
   label: date
 - type: file
-  name: feature-img
+  name: feature-img-1
   label: feature-img
+- name: feature-img
+  type: text
+  config:
+    required: false
+  label: feature-img-url
 - type: text
   name: layout
   label: layout
