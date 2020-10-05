@@ -40,5 +40,3 @@ fields:
   name: layout
   label: layout
   default: post
-pages:
-- _posts/2020-10-04-the-order-new.md
