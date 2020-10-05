@@ -40,3 +40,5 @@ fields:
   name: layout
   label: layout
   default: post
+pages:
+- _posts/testinh-forestry.md
