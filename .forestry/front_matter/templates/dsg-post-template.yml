@@ -1,6 +1,6 @@
 ---
 label: dsg-post-template
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: title
@@ -36,9 +36,18 @@ fields:
   config:
     required: false
   label: feature-img-url
-- type: text
-  name: layout
-  label: layout
+- name: layout
+  type: select
   default: post
+  config:
+    required: false
+    options:
+    - post
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: layout
 pages:
 - _posts/2020-10-05-testinh-forestry.md
