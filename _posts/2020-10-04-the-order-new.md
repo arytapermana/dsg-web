@@ -3,8 +3,8 @@ title: The Order New
 sub-title: Yeah! Let's Do This
 author: Angga
 date: 2020-10-04 16:00:00 +0000
-feature-img: ''
-layout: ''
+feature-img: "/uploads/gnvk6tmrjxzultxc9qblha-1.jpg"
+layout: post
 categories: ayam
 
 ---
