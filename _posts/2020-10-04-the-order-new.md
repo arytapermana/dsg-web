@@ -3,9 +3,10 @@ title: The Order New
 sub-title: Yeah! Let's Do This
 author: Angga
 date: 2020-10-04 16:00:00 +0000
-feature-img: "/uploads/gnvk6tmrjxzultxc9qblha-1.jpg"
+feature-img: https://img.tek.id/img/content/2019/11/06/22195/hideo-kojima-ingin-kojima-productions-memproduksi-film-IEbQw4uHUT.jpg
 layout: post
 categories: ayam
+feature-img-1: ''
 
 ---
 Next, begin to enter the parameters of your load test. In this example we will have 10 virtual users access StackOverflow. We have a 3 second ramp-up-time, a minimum delay of 500 ms, and a maximum delay of 10,000 ms:
