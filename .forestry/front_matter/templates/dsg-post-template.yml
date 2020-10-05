@@ -1,6 +1,6 @@
 ---
 label: dsg-post-template
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: title
