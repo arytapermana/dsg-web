@@ -59,3 +59,5 @@ Desain UI/UX begitu sederhana, dilengkapi dengan icon dapat memudahkan pemain un
 Wanko no Yomeiri \~Inu no Shippo e Youkoso!\~ menawarkan cerita rocom harem sederhana, tingga; main dan nikmati tanpa memilih heroine siapa karena kisahnya linear. Tetapi tetap pemain diberikan kesempatan melihat salah satu heroine mendapatkan perlakuan khusus dari sang MC.
 
 Selain all age yang tidak rapi, suara npc malas juga penggunaan visual CG Chibi berlebihan. Ok ketika menampilkan adegan humor, tetapi ada cerita lain lebih baik menggunakan CG biasa meskipun dibandingkan chibi, pembuatan cg biasa itu sulit.
+
+**Kelebihan :**
