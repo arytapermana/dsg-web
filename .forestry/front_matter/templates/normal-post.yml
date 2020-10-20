@@ -28,6 +28,8 @@ fields:
 - type: list
   name: tags
   label: tags
-- type: file
-  name: image
-  label: image
+- name: image
+  type: text
+  config:
+    required: false
+  label: image-url
