@@ -48,3 +48,5 @@ fields:
   config:
     required: true
   label: image-url
+pages:
+- _posts/wanko-no-yomeiri.md
