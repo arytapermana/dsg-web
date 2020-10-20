@@ -27,3 +27,11 @@ Tentunya bukan hal yang mudah, dimana Toya sendiri merupakan penerus pendeta kui
 Dari sisi cerita sendiri tidak terlalu istimewa, dari kisah kanak-kanak membuat janji yang tidak seharusnya diucapkan di usianya dan menunggu tiba saatnya. Sebuah pendekatan yang bisa dibilang generik.
 
 Kesampingkan formula cerita utama, dikarenakan mengisahkan tentang _"inu girl"_ tidak sekadar memberikan sifat binatang anjing pada umumnya. Tetapi juga memuat sedikit latar mengenai mitologi disana tentang utusan dari para dewa. Tidak terlalu membuat kepala pusing, setidaknya ceritanya lebih berwarna ketimbang rocom cute girl doing cute things.
+
+![](https://ik.imagekit.io/dsg/VN9_7FFmW2Vp8wl.jpg)
+
+Berfokus hanya kepada 2 heroine saja, pesona mereka dibuat sebaik mungkin. Memang saat scene flashback dub usia belia-nya terkesan malas, tetapi ketika remaja seperti kisah VN romance umumnya pesona sebenarnya keluar, apalagi pengisi suaranya sendiri terlibat dengan beberapa game VN besar lainnya.
+
+Sementara untuk NPC sendiri dibilang standar tidak juga, ya seperti bikin video tugas percakapan dalam bahasa Jepang, datar sekali.
+
+![](https://ik.imagekit.io/dsg/VN3_FCWKLcVSKq_.jpg)
