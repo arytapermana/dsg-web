@@ -30,8 +30,8 @@ Kesampingkan formula cerita utama, dikarenakan mengisahkan tentang _"inu girl"_ 
 
 ![](https://ik.imagekit.io/dsg/VN9_7FFmW2Vp8wl.jpg)
 
-Berfokus hanya kepada 2 heroine saja, pesona mereka dibuat sebaik mungkin. Memang saat scene flashback dub usia belia-nya terkesan malas, tetapi ketika remaja seperti kisah VN romance umumnya pesona sebenarnya keluar, apalagi pengisi suaranya sendiri terlibat dengan beberapa game VN besar lainnya.
+Berfokus hanya kepada 2 heroine saja, pesona mereka dibuat sebaik mungkin. Memang saat scene flashback dub usia belia-nya terkesan malas, tetapi ketika remaja seperti kisah VN romance umumnya pesona sebenarnya keluar, apalagi pengisi suaranya sendiri terlibat dengan beberapa game VN besar lainnya. Menariknya ketika ada suaranya backsound akan melemah, begitu selesai berbicara backsound kembali bergema.
 
-Sementara untuk NPC sendiri dibilang standar tidak juga, ya seperti bikin video tugas percakapan dalam bahasa Jepang, datar sekali.
+Sementara untuk dub karakter NPC sendiri dibilang standar tidak juga, ya seperti bikin video tugas percakapan dalam bahasa Jepang, datar sekali.
 
 ![](https://ik.imagekit.io/dsg/VN3_FCWKLcVSKq_.jpg)
