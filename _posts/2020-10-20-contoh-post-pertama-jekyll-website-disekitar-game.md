@@ -20,6 +20,6 @@ Always a center of entertainment for the aristocracy, in the 1870s it also becam
 
 <figure class="video_container">
   <div style="text-align: center;">
-  <iframe style="width:560px;height:10vw;" src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe style="width:560px;height:120vw;" src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
   </div>
 </figure>
