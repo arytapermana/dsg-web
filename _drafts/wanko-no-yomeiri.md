@@ -24,8 +24,6 @@ Tentunya bukan hal yang mudah, dimana Toya sendiri merupakan penerus pendeta kui
 
 ![](https://ik.imagekit.io/dsg/VN4_m2noEbJm6cr.jpg)
 
-Dari sisi cerita sendiri tidak terlalu istimewa, dari kisah kanak-kanak membuat janji yang tidak seharusnya diucapkan di usianya dan menunggu tiba saatnya. Sebuah pendekatan yang bisa dibilang generik.
-
 Kesampingkan formula cerita utama, dikarenakan mengisahkan tentang _"inu girl"_ tidak sekadar memberikan sifat binatang anjing pada umumnya. Tetapi juga memuat sedikit latar mengenai mitologi disana tentang utusan dari para dewa. Tidak terlalu membuat kepala pusing, setidaknya ceritanya lebih berwarna ketimbang rocom cute girl doing cute things.
 
 ![](https://ik.imagekit.io/dsg/VN9_7FFmW2Vp8wl.jpg)
@@ -35,3 +33,7 @@ Berfokus hanya kepada 2 heroine saja, pesona mereka dibuat sebaik mungkin. Meman
 Sementara untuk dub karakter NPC sendiri dibilang standar tidak juga, ya seperti bikin video tugas percakapan dalam bahasa Jepang, datar sekali.
 
 ![](https://ik.imagekit.io/dsg/VN3_FCWKLcVSKq_.jpg)
+
+![](https://ik.imagekit.io/dsg/VN13_fkeHGiscqyD.jpg)
+
+Desain UI/UX begitu sederhana, dilengkapi dengan icon dapat memudahkan pemain untuk memahami ataupun kostumisasi fitur yang ada. Apalagi ketika versi awal aka Japan Version UI/UX ini begitu
