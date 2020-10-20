@@ -19,14 +19,7 @@ Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated
 Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.
 
 <figure class="video_container">
-  <div style="overflow: hidden;
-  padding-top: 56.25%; /* 16:9*/
-  position: relative;">
-  <iframe style="   border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;" src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+  <div style="overflow:hidden;padding-top:56.25%;position:relative;">
+  <iframe style="border:0;height:100%;left:0;position:absolute;top: 0;width:100%;" src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
   </div>
 </figure>
