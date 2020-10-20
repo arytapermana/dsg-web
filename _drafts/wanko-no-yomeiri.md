@@ -34,6 +34,8 @@ Sementara untuk dub karakter NPC sendiri dibilang standar tidak juga, ya seperti
 
 ![](https://ik.imagekit.io/dsg/VN3_FCWKLcVSKq_.jpg)
 
+Membicarakan versi Steam sudah bisa dipastikan all age. Bilamana tertarik dengan scene 18+ bisa mengunduh patch secara terpisah. Sayangnya versi all-age tidaklah rapi, ada sebuah scene mengacu soal seksualitas namun langsung pergantian segmen begitu saja.
+
 ![](https://ik.imagekit.io/dsg/VN13_fkeHGiscqyD.jpg)
 
 Desain UI/UX begitu sederhana, dilengkapi dengan icon dapat memudahkan pemain untuk memahami ataupun kostumisasi fitur yang ada. Apalagi ketika versi awal aka Japan Version UI/UX ini begitu
