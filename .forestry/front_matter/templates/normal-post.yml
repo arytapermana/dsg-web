@@ -45,3 +45,5 @@ fields:
   config:
     required: true
   label: image-url
+pages:
+- _posts/anisotropic-filtering-pada-game-apa-itu.md
