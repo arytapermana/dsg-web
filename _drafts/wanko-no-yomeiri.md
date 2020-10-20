@@ -46,6 +46,10 @@ Sementara untuk dub karakter NPC sendiri dibilang standar tidak juga, ya seperti
 
 Menjajal versi Steam sudah pasti membicarakan cut-content atau all age version, bilamana tertarik akan 18+ maka perlu install patch secara terpisah. Sayangnya cut-nya sendiri sangat kacau, ada titik percakapan semisal melakukan hal lewd, langsung berganti segmen begitu saja.
 
+**Desain UI/UX Tepat Sasaran**
+
 ![](https://ik.imagekit.io/dsg/VN13_fkeHGiscqyD.jpg)
 
-Desain UI/UX begitu sederhana, dilengkapi dengan icon dapat memudahkan pemain untuk memahami ataupun kostumisasi fitur yang ada. Apalagi ketika versi awal aka Japan Version UI/UX ini memban
+Desain UI/UX begitu sederhana, dilengkapi dengan icon dapat memudahkan pemain untuk memahami ataupun kostumisasi fitur yang ada. Apalagi ketika versi awal aka Japan Version UI/UX ini membantu sekali.
+
+**Kesimpulan**
