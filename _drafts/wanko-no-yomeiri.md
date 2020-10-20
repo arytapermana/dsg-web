@@ -69,4 +69,5 @@ Selain all age yang tidak rapi, suara npc malas juga penggunaan visual CG Chibi 
 
 **Kekurangan :**
 
-* 
+* All Age Tidak Rapi
+* Penggunaan CG Chibi
