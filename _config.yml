@@ -4,7 +4,7 @@ title: "Disekitar Game"
 description: "Disekitar Game, Deep Dive World of Gaming!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/dsg-logo.png'
-baseurl: ''
+baseurl: 'http://disekitargame.com'
 google_analytics: 'UA-148714211-1'
 disqus: 'disekitar-game'
 mailchimp-list: 'https://space.us3.list-manage.com/subscribe?u=119b8c921721eaa747d4230ea&id=d8f6b5e860'
@@ -24,7 +24,7 @@ authors:
     description: "Founder"
   john:
     name: angga
-    display_name: Angga Permana
+    display_name: Angga P.
     gravatar: db72fc2b17acc4c0cdba7bff28eb30c8
     email: #
     web: #
