@@ -8,8 +8,19 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: author
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - sal
+    - john
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: author
 - type: list
   name: categories
@@ -20,6 +31,3 @@ fields:
 - type: file
   name: image
   label: image
-- type: text
-  name: rating
-  label: rating
