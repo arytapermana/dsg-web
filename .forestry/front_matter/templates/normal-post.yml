@@ -31,3 +31,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/contoh-post-yang-digunakan-pada-jekyll-website.md
