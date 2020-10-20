@@ -61,3 +61,12 @@ Wanko no Yomeiri \~Inu no Shippo e Youkoso!\~ menawarkan cerita rocom harem sede
 Selain all age yang tidak rapi, suara npc malas juga penggunaan visual CG Chibi berlebihan. Ok ketika menampilkan adegan humor, tetapi ada cerita lain lebih baik menggunakan CG biasa meskipun dibandingkan chibi, pembuatan cg biasa itu sulit.
 
 **Kelebihan :**
+
+* Intro Song
+* UI/UX Membantu dan Unik
+* CG 18+
+* Backsound Memudar Saat Ada Dub
+
+**Kekurangan :**
+
+* 
