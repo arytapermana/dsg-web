@@ -45,5 +45,3 @@ fields:
   config:
     required: true
   label: image-url
-pages:
-- _posts/contoh-post-pertama-jekyll-website-disekitar-game.md
