@@ -2,13 +2,24 @@
 label: Post With Rating
 hide_body: false
 fields:
-- type: text
-  name: layout
-  label: layout
+- name: layout
+  type: select
   default: post
+  config:
+    required: true
+    options:
+    - post
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: layout
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - name: author
   type: select
   default: sal
@@ -35,5 +46,5 @@ fields:
 - name: image
   type: text
   config:
-    required: false
+    required: true
   label: image-url
