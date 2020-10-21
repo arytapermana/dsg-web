@@ -2,7 +2,8 @@
 layout: post
 author: sal
 title: Bagaimana Suara Pada Game Bekerja?
-categories: []
+categories:
+- Info
 tags: []
 image: https://ik.imagekit.io/dsg/Thumbnail-3-1024x576_aPz__dpvN.jpg
 
