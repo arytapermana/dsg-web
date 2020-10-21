@@ -4,6 +4,7 @@ title: "Disekitar Game"
 description: "Disekitar Game, Deep Dive World of Gaming!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/dsg-logo-icon.jpg'
+url: 'https://disekitargame.com'
 baseurl: ''
 google_analytics: 'UA-148714211-1'
 disqus: 'disekitar-game'
