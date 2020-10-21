@@ -16,5 +16,5 @@ comments: false
 </div>
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Pesan*" required></textarea>    
-<input class="btn btn-dark" type="Kirim" value="Send">
+<input class="btn btn-dark" type="submit" value="Kirim">
 </form>
