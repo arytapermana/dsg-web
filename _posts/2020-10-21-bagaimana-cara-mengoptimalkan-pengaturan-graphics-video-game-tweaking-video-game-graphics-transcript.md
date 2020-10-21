@@ -6,7 +6,7 @@ categories:
 - Info
 tags:
 - Transcript
-image: https://youtu.be/8xNkxGg8LHs
+image: https://ik.imagekit.io/dsg/thumbnail_2o-Ao4hRRN.jpg
 
 ---
 {% include youtube-embed.html id="8xNkxGg8LHs" %}
