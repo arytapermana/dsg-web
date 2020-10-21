@@ -1,6 +1,6 @@
 ---
 layout: post
-author: sal
+author: john
 title: Mengenal Supersampling Pada Video Game
 categories:
 - Info
