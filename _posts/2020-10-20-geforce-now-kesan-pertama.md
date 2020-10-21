@@ -6,7 +6,7 @@ categories:
 - Info
 tags:
 - Cloud Gaming
-image: https://ik.imagekit.io/dsg/geforce_now_Zcy5L_jPD.jpg
+image: https://ik.imagekit.io/dsg/akurat_20200307114640_0vO09N_u87lAnbYN_7.jpg
 
 ---
 Di tahun – tahun terakhir ini layanan game streaming cukup meningkat hingga tidak sedikit brand besar ikut mengambil konsep ini, seperti Google Stadia hingga tentunya Nvidia, kali ini kami mencoba layanan Geforce Now salah satu layanan game streaming yang menurut kami cukup menarik. Kenapa tidak Google Stadia?, karena menurut kami Google Stadia cukup sulit dijangkau untuk sekarang ini karena masih tidak tersedia di Indonesia walaupun Geforce Now juga tidak tersedia di Indonesia tapi Google Stadia cukup jauh lebih mahal dibanding Geforce Now dimana pelanggan perlu membeli Controller seharga hampir 2 jutaan, uhh… oh… itu cukup meberi ekspresi “What!?…”.
