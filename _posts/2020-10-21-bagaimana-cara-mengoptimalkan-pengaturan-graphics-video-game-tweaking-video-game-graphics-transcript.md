@@ -24,6 +24,8 @@ Optimal yang dimaksud kali ini adalah mengoptimalkan graphics pada game sesuai d
 
 Sebelum itu ada sedikit catatan!, Kami tidak akan membahas semua pengaturan yang ada di game, tetapi hanya beberapa, yang rata-rata hampir semua game memilikinya.
 
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Thanks to <a href="https://twitter.com/gitlab">@gitlab</a> for joining <a href="https://twitter.com/RailsGirlsCluj">@RailsGirlsCluj</a>! <a href="https://t.co/NOoiqDWKVY">pic.twitter.com/NOoiqDWKVY</a></p>— RailsGirlsCluj (@RailsGirlsCluj) <a href="https://twitter.com/RailsGirlsCluj/status/784847271645028352">October 8, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Yup kalian tidak akan mendengar pengaturan RTX (Real Time Tracing) atau motion blur, karena pengaturan tersebut terdapat pada game tertentu saja.
 
 Ok, jadi tanpa basa-basi lagi mari kita masuk ke pengaturan pertama, yaitu...
