@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Kontak
 permalink: /contact
 comments: false
 ---
