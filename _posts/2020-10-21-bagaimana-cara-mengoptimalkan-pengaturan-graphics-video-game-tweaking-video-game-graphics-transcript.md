@@ -11,6 +11,8 @@ image: https://ik.imagekit.io/dsg/thumbnail_2o-Ao4hRRN.jpg
 ---
 {% include youtube-embed.html id="8xNkxGg8LHs" %}
 
+{% include twitter-embed.html embed-code="<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An app that offered a simple way to get Google’s Stadia cloud gaming service running on iOS is being removed from the App Store.<a href="https://t.co/UMygQwdcLq">https://t.co/UMygQwdcLq</a> <a href="https://t.co/bs2X4vFq9B">pic.twitter.com/bs2X4vFq9B</a></p>&mdash; AlternativeTo (@AlternativeTo) <a href="[https://twitter.com/AlternativeTo/status/1318641645169115146?ref_src=twsrc%5Etfw](https://twitter.com/AlternativeTo/status/1318641645169115146?ref_src=twsrc%5Etfw "https://twitter.com/AlternativeTo/status/1318641645169115146?ref_src=twsrc%5Etfw")">October 20, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>" %}
+
 **\[INTRO\]**
 
 **Arya Putra:** Hi, welcome to Disekitar Game and today, kita akan membahas bagaimana mengatur graphics pada game agar optimal.
