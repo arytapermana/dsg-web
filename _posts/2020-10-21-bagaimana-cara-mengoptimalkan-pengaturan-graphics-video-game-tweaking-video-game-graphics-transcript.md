@@ -30,7 +30,7 @@ Ok, jadi tanpa basa-basi lagi mari kita masuk ke pengaturan pertama, yaitu...
 
 **\[Setting Graphics: Resolution\]**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ynu3TiQL7lc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/Ynu3TiQL7lc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Resolution, pengaturan satu ini cukup banyak yang sudah mengetahuinya, yaitu intinya adalah atur resolusi pada game sesuai dengan resolusi layar.
 
