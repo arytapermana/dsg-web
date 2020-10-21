@@ -9,8 +9,6 @@ tags:
 image: https://ik.imagekit.io/dsg/thumbnail_2o-Ao4hRRN.jpg
 
 ---
-{% include youtube-embed.html id="8xNkxGg8LHs" %}
-
 **\[INTRO\]**
 
 **Arya Putra:** Hi, welcome to Disekitar Game and today, kita akan membahas bagaimana mengatur graphics pada game agar optimal.
@@ -112,3 +110,5 @@ Jadi UI pada game tetap pada resolusi yang sama. cobalah bereksperimen dengan in
 Pengaturan yang kami jelaskan mungkin tidak banyak, jadi jika ada yang kurang dan ingin ditanyakan, ataupun kalian memiliki tips dan trik tersendiri, kalian dapat menyampaikannnya pada kolom komentar dibawah.
 
 Like jika kalian suka, tetunya dislike jika kalian tidak suka, jika berkenan kalian dapat share dan subscribe, dan sampai jumpa di video berikutnya!
+
+{% include youtube-embed.html id="8xNkxGg8LHs" %}
