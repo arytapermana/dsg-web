@@ -15,7 +15,7 @@ image: https://ik.imagekit.io/dsg/thumbnail_2o-Ao4hRRN.jpg
 </div>
 </figure>
 
-{% include youtube-embed.html id=8xNkxGg8LHs %}
+{% include youtube-embed.html id="8xNkxGg8LHs" %}
 
 **\[INTRO\]**
 
