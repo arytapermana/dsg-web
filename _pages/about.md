@@ -19,4 +19,4 @@ Mungkin itu saja, apakah ada pertanyaan?, hubungi kami melalui email: support@di
 
 Terimakasih.
 
-<a target="_blank" href="https://www.youtube.com/embed/xaM4cvbAxk8" class="btn btn-dark"> Kunjungi YouTube Kami &rarr;</a>
+<a target="_blank" href="https://www.youtube.com/embed/xaM4cvbAxk8" class="btn"> Kunjungi YouTube Kami &rarr;</a>
