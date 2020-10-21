@@ -15,6 +15,8 @@ image: https://ik.imagekit.io/dsg/thumbnail_2o-Ao4hRRN.jpg
 </div>
 </figure>
 
+{% include youtube-embed.html id=8xNkxGg8LHs %}
+
 **\[INTRO\]**
 
 **Arya Putra:** Hi, welcome to Disekitar Game and today, kita akan membahas bagaimana mengatur graphics pada game agar optimal.
