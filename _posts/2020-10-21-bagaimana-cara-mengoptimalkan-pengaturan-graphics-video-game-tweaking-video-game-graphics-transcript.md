@@ -1,8 +1,7 @@
 ---
 layout: post
 author: sal
-title: Bagaimana Cara Mengoptimalkan Pengaturan Graphics Video Game? - Tweaking Video
-  Game Graphics [Transcript]
+title: Mengoptimalkan Pengaturan Graphics Video Game [Transcript]
 categories:
 - Info
 tags:
