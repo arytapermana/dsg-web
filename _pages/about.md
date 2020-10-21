@@ -15,7 +15,7 @@ Kami sejauh ini memiliki tim kecil, hanya terdiri dari dua orang dimana saya Ary
 
 kami membangun website ini untuk tujuan ‘bisnis’, tetapi ‘bisnis’ dalam artian berbeda, kami berfokus memberikan konten terbaik yang dapat kami lakukan, walaupun pendapatan juga penting untuk membuat website tetap berjalan, kami yakin bahwa informasi yang ‘baik’ akan mendatangkan mereka yang ‘baik’ juga.
 
-Mungkin itu saja, apakah ada pertanyaan?, hubungi kami melalui email: support@disekitargame.space, kami akan menjawab email dari anda secepat yang kami bisa, jika lebih dari 1×24 jam email tidak mendapat balasan, mohon kirim email reminder yang mengingatkan bahwa anda telah mengirim email.
+Mungkin itu saja, apakah ada pertanyaan?, hubungi kami melalui email: support@disekitargame.com, kami akan menjawab email dari anda secepat yang kami bisa, jika lebih dari 1×24 jam email tidak mendapat balasan, mohon kirim email reminder yang mengingatkan bahwa anda telah mengirim email.
 
 Terimakasih.
 
