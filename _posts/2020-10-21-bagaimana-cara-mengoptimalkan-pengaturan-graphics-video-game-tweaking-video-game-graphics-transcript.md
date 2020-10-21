@@ -9,12 +9,6 @@ tags:
 image: https://ik.imagekit.io/dsg/thumbnail_2o-Ao4hRRN.jpg
 
 ---
-<figure class="video_container">
-<div style="overflow:hidden;padding-top:56.25%;position:relative;">
-<iframe style="border:0;height:100%;left:0;position:absolute;top:0;width:100%;" src="https://www.youtube.com/embed/8xNkxGg8LHs" frameborder="0" allowfullscreen="true"> </iframe>
-</div>
-</figure>
-
 {% include youtube-embed.html id="8xNkxGg8LHs" %}
 
 **\[INTRO\]**
