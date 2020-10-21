@@ -43,7 +43,7 @@ Tapi... Ada sedikit trik yang akan memberikan kesan yang tetap baik pada gambar 
 
 Antialiasing, pengaturan kedua ini mungkin sudah tidak asing lagi, dimana fungsinya menghapus efek aliasing pada game.
 
-Untuk lebih jelasnya kalian dapat cek video â€œApa itu antialiasing pada game?â€ di deskripsi.
+Untuk lebih jelasnya kalian dapat cek video â€œApa itu antialiasing pada game? di deskripsi.
 
 Untuk pengaturan yang kalian dapat gunakan kami sarankan menggunakan FXAA terlebih dahulu karena setting tersebut dapat menghapus efek aliasing dan tetap memberikan performa yang optimal.
 
