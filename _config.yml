@@ -40,7 +40,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-  - jekyll-gist
 
 # Archives
 jekyll-archives:
