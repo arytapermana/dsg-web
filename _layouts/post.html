@@ -19,7 +19,7 @@ post_class: post-template
             <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
             {% endif %}
         </div>
-        <div>
+        <div style="margin-left:10px;">
         Ditulis oleh <a target="_blank" class="text-dark" href="{{ author.web }}"><b>{{ author.display_name }}</b></a> pada
         <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
         {% if page.last_modified_at %}
