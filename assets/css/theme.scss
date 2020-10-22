@@ -794,7 +794,7 @@ body.active-side {
   position: fixed; /* Fixed/sticky position */
   bottom: 20px; /* Place the button at the bottom of the page */
   right: 30px; /* Place the button 30px from the right */
-  z-index: 999; /* Make sure it does not overlap */
+  z-index: 1; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
   background-color: rgba(255, 255, 255, 0.7); /* Set a background color */
