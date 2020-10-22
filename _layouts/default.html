@@ -128,6 +128,10 @@ ga('send', 'pageview');
 <!-- End Footer
 ================================================== -->
 
+<!-- Scroll to Top
+================================================== -->
+<button onclick="topFunction()" id="myBtn" title="Go to top">↑</button>
+
 </div> <!-- /.site-content -->
 
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
@@ -144,6 +148,8 @@ ga('send', 'pageview');
 {% if page.layout == 'post' %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
+
+<script src="{{ site.baseurl }}/assets/js/scroll-top.js"></script>
 
 </body>
 </html>
