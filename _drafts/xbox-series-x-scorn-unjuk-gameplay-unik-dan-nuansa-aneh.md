@@ -13,7 +13,7 @@ image: https://ik.imagekit.io/dsg/Ek4ZVXHVMAA1T5a_iYVLVJKfLs.jfif
 ---
 Sejak pengumumannya ditahun 2016 lalu game satu ini terlihat cukup berbeda dengan game yang tampil disepanjang tahun 2020, nuansa yang diberikan terasa cukup aneh tetapi hal tersebut lah yang menjadi nilai utama dari game besutan Ebb Software tersebut.
 
-Gameplay eksklusif yang dilansir dari GameSpot kali ini menampilkan 13 menit lebih dari penggunaan senjata yang aneh, makhluk yang tidak bisa dijelaskan hingga nuansa yang tidak masuk akal.
+Gameplay eksklusif yang dilansir dari [GameSpot](https://www.gamespot.com/articles/xbox-series-xs-scorn-has-gross-monsters-and-strange-weapons-in-new-gameplay-trailer/1100-6483550/) kali ini menampilkan 13 menit lebih dari penggunaan senjata yang aneh, makhluk yang tidak bisa dijelaskan hingga nuansa yang tidak masuk akal.
 
 {% include youtube-embed.html id="6grwdMemV1o" %}
 
