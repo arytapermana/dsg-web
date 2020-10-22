@@ -563,10 +563,16 @@ img, img:hover {
         }
     }
 }
+.share .share-text{
+  display: none;
+}
 @media only screen and (max-width: 600px){
   .share{
     width: auto;
     z-index: 1;
+  }
+  .share .share-text{
+    display: block;
   }
 }
 
