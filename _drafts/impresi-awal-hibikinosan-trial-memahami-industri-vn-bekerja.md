@@ -48,4 +48,4 @@ Seiiring progress cerita, pemain akan diberikan pilihan untuk memilih rute siapa
 
 Secara keseluruhan VN ini memberikan pemain gambaran bagaimana kehidupan seorang pegawai toko game eroge. Meskipun jika dibandingkan dengan lapangan tidak terlalu make sense (namanya juga game), Sonora memberikan detail cukup mendetail soal keluh kesah industri secara menarik.
 
-Hibikino-san-chi wa Eroge-ya-san! sendiri akan dirilis, 27 November mendatang Japan only.
+Hibikino-san-chi wa Eroge-ya-san! sendiri akan dirilis, 27 November mendatang Japan only. Bagi yang tertarik dengan Trial-nya bisa mengunduh lewat [situs resminya](http://www.cuffs.co.jp/products/hibikino/archive/download.html), size hampir 1Gb.
