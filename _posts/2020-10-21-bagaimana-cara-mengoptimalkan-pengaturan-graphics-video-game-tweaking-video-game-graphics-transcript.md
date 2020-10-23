@@ -2,14 +2,13 @@
 layout: post
 author: sal
 title: Mengoptimalkan Pengaturan Graphics Video Game [Transcript]
-categories:
-- Info
-tags:
-- Transcript
 image: https://ik.imagekit.io/dsg/thumbnail_2o-Ao4hRRN.jpg
-
+categories:
+  - Info
+tags:
+  - Transcript
 ---
-**\[INTRO\]**
+**\[INTRO]**
 
 **Arya Putra:** Hi, welcome to Disekitar Game and today, kita akan membahas bagaimana mengatur graphics pada game agar optimal.
 
@@ -21,7 +20,7 @@ Yup kalian tidak akan mendengar pengaturan RTX (Real Time Tracing) atau motion b
 
 Ok, jadi tanpa basa-basi lagi mari kita masuk ke pengaturan pertama, yaitu...
 
-**\[Setting Graphics: Resolution\]**
+**\[Setting Graphics: Resolution]**
 
 Resolution, pengaturan satu ini cukup banyak yang sudah mengetahuinya, yaitu intinya adalah atur resolusi pada game sesuai dengan resolusi layar.
 
@@ -33,7 +32,7 @@ Jangan terlalu jauh menurunkan resolusi karena berdampak kualitas graphics yang 
 
 Tapi... Ada sedikit trik yang akan memberikan kesan yang tetap baik pada gambar walaupun resolusi yang ada diturunkan, hal tersebut akan dibahas pada pengaturan pada game selanjutnya.
 
-**\[Setting Graphics: Anti-aliasing\]**
+**\[Setting Graphics: Anti-aliasing]**
 
 Antialiasing, pengaturan kedua ini mungkin sudah tidak asing lagi, dimana fungsinya menghapus efek aliasing pada game.
 
@@ -49,7 +48,7 @@ Karena... walaupun resolusi yang turun, MSAA dapat mengatasi efek aliasing denga
 
 contohnya resolusi 720p dengan MSAA 2x sudah cukup untuk memberikan hasil gambar cukup mulus, tapi ini tergantung juga dengan ukuran layar yang ada.
 
-**\[Setting Graphics: Ambient Occlusion\]**
+**\[Setting Graphics: Ambient Occlusion]**
 
 Ambient Occlusion, pengaturan graphics selanjutnya ini berhubungan dengan ambient light atau bisa disebut juga pencahayaan sekitar, tepatnya pada game.
 
@@ -61,7 +60,7 @@ pengaturan satu ini cukup haus frame rate, jadi tetapkan saja off, karena pada g
 
 Sedangkan jika game single player saya sarankan tetapkan off aja karena pengaturan shadow saja sudah cukup menurut kami, kecuali jika kalian ingin mendapatkan kesan graphics yang max dan kekuatan pc yang mumpuni silahkan turn on.
 
-**\[Setting Graphics: Tessellation\]**
+**\[Setting Graphics: Tessellation]**
 
 Tessellation, detail pada game adalah hal yang penting juga tetapi setiap game yang dimainkan tidak memerlukan detail yang sangat-sangat detail, maka hadirlah Tesselation yang memberikan pilihan pengaturan tersebut.
 
@@ -73,7 +72,7 @@ Karena lebih dari itu akan memberikan performa yang turun cukup dratis dari fram
 
 Jika frame rate adalah yang utama, kalian dapat mengaturnya menjadi off saja.
 
-**\[Setting Graphics: Shadow Quality\]**
+**\[Setting Graphics: Shadow Quality]**
 
 Shadow Quality, bayangan pada game adalah hal yang cukup signifikan mempengaruhi performa pada game, tetapi tanpa bayangan game akan terasa kurang sesuatu, seperti minum teh tanpa gula mungkin.
 
@@ -89,7 +88,7 @@ Seperti minum teh kebanyakan gula jadinya, ya... Enak juga sih kebanyakan gula, 
 
 Jika sebelumnya kalian tidak mengaktifkan ambient occlusion pada game, setting shadow menjadi high dapat kalian coba.
 
-\[Setting Graphics: Render Resolution\]
+\[Setting Graphics: Render Resolution]
 
 Dan pengaturan terakhir adalah Render Resolution, biasanya pengaturan ini tidak semua game memilikinya, tetapi rata-rata game modern yang ada belakangan ini sudah mulai memberikan pilihan render resolution.
 
@@ -105,8 +104,10 @@ Sehingga, dengan menurunkan render resolution menjadi 80% atau 90% dan menambah 
 
 Jadi UI pada game tetap pada resolusi yang sama. cobalah bereksperimen dengan ini.
 
-**\[Outro\]**
+**\[Outro]**
 
 Pengaturan yang kami jelaskan mungkin tidak banyak, jadi jika ada yang kurang dan ingin ditanyakan, ataupun kalian memiliki tips dan trik tersendiri, kalian dapat menyampaikannnya pada kolom komentar dibawah.
 
 Like jika kalian suka, tetunya dislike jika kalian tidak suka, jika berkenan kalian dapat share dan subscribe, dan sampai jumpa di video berikutnya!
+
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8xNkxGg8LHs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
