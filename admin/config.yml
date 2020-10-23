@@ -14,5 +14,8 @@ collections:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Image', name: 'image', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
