@@ -6,7 +6,11 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/dsg-logo-icon.jpg">
 
-<title>{{ page.title }} | {{site.name}}</title>
+{% if page.url == '/' %}
+		<title>{{site.name}} | Deep Dive World of Gaming!</title>
+{% else %}
+		<title>{{ page.title }} | {{site.name}}</title>
+{% endif %}
 
 {% seo %}
 
