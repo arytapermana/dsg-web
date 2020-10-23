@@ -17,7 +17,7 @@
       // Visible label
       label: "Youtube",
       // Fields the user need to fill out when adding an instance of the component
-      fields: [{name: 'id', label: 'Youtube Video ID', widget: 'string'}],
+      fields: [{name: 'id', label: 'Youtube Embed Code', widget: 'string'}],
       // Pattern to identify a block as being an instance of this component
       pattern: /^youtube (\S+)$/,
       // Function to extract data elements from the regexp match
@@ -28,13 +28,13 @@
       },
       // Function to create a text block from an instance of this component
       toBlock: function(obj) {
-        <div class="embed-container">' + obj.id + '</div>
+        return '<div class="embed-container">' + obj.id; '<div class="embed-container">'
       },
       // Preview output for this component. Can either be a string or a React component
       // (component gives better render performance)
       toPreview: function(obj) {
         return (
-          <div class="embed-container">' + obj.id + '</div>
+          '<div class="embed-container">' + obj.id + '</div>'
         );
       }
     });
