@@ -19,4 +19,7 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'string' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: "Tags", name: "tags", widget: "list", default: ["news"] }
+      - label: "Author"
+        name: "author"
+        widget: "list"
+        default: ["sal"]
