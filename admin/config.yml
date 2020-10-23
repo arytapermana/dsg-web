@@ -14,12 +14,22 @@ collections:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Image', name: 'image', widget: 'string' }
-      - { label: 'Categories', name: 'categories', widget: 'string' }
-      - { label: 'Tags', name: 'tags', widget: 'string' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - label: "Author"
+      - label: "code-name"
         name: "author"
+        widget: "select"
+        options:
+          - { label: "sal", value: "sal" }
+          - { label: "john", value: "john" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'string' }
+      - label: "Categories"
+        name: "categories"
         widget: "list"
-        default: ["sal"]
+        summary: '{{fields.categories}}'
+        field: {label: Categories, name: categories, widget: string}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        summary: '{{fields.tags}}'
+        field: {label: Tags, name: tags, widget: string}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
