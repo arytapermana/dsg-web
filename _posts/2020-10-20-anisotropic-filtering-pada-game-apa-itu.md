@@ -23,10 +23,6 @@ Maka dari itu pengaturan Anisotropic Filtering dapat digunakan untuk meningkatka
 
 Anisotropic Filtering terdiri dari berbagai pilihan seperti 4x 8x ataupun 16x. Pilihan tersebut akan mempengaruhi semakin jauh texture yang mendekati horizon yang dapat di filter. Tetapi ini akan berpengruh terhadap performa juga, karena Anisotropic Filtering berpengaruh terhadapat bandwidth memory pada PC. Perlu diketahui spesifikasi PC saat ini sudah dapat cukup mumpuni untuk menjalani pengaturang game ini. Jika kalian merasa aneh dan tidak nyaman melihat texture yang mendekati horizon di game, yupp, aktifkan saja.
 
-<div class="embed-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IjT6__o0PFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<div>
-
-youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/IjT6__o0PFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/IjT6__o0PFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Jadi seperti itulah penjelasan Anisotropic Filtering yang dapat kami sampaikan sejelas dan sesingkat mungkin. Jika ada yang ingin ditanyakan atau disampaikan, kalian dapat menyampaikannya pada kolom komentar dibawah. terimakasih!
