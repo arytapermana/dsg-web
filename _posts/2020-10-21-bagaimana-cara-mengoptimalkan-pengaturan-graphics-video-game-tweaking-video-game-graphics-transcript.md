@@ -8,6 +8,10 @@ categories:
 tags:
   - Transcript
 ---
+Dalam memainkan game, kita mungkin tidak selalu nyaman dengan pengaturan default grafik game yang telah digunakan sebelumnya, terkadang laggy, bahkan terasa kurang maksimal. tweaking adalah salah satu cara yang digunakan untuk mengoptimalkan grafik game agar lebih baik, yaitu dengan cara mengutak - atik pengaturannya, jadi mari kita simak lebih jauh mengenai hal yang dibahas sebelumnya pada video berikut.
+
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8xNkxGg8LHs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 **\[INTRO]**
 
 **Arya Putra:** Hi, welcome to Disekitar Game and today, kita akan membahas bagaimana mengatur graphics pada game agar optimal.
@@ -109,5 +113,3 @@ Jadi UI pada game tetap pada resolusi yang sama. cobalah bereksperimen dengan in
 Pengaturan yang kami jelaskan mungkin tidak banyak, jadi jika ada yang kurang dan ingin ditanyakan, ataupun kalian memiliki tips dan trik tersendiri, kalian dapat menyampaikannnya pada kolom komentar dibawah.
 
 Like jika kalian suka, tetunya dislike jika kalian tidak suka, jika berkenan kalian dapat share dan subscribe, dan sampai jumpa di video berikutnya!
-
-<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8xNkxGg8LHs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
