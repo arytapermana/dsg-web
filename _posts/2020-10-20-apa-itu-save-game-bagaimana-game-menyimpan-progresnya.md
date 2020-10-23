@@ -2,10 +2,10 @@
 layout: post
 author: sal
 title: Apa Itu Save Game? – Bagaimana Game Menyimpan Progresnya
-categories: []
-tags: []
 image: https://ik.imagekit.io/dsg/Thumbnail-1-1024x576_xDAcGLsugW.jpg
-
+categories:
+  - Info
+tags: []
 ---
 Ini benar benar _familiar_ bagi kalian, yup kalian para _gamer_ yang melakukan [Save Game](https://youtu.be/y_NaAor4mJ4) pada _game_ yang kalian mainkan. [Save Game](https://youtu.be/y_NaAor4mJ4) adalah sebuah data yang disimpan pada _game_ kalian atau lebih teknisnya bisa dikatakan sebuah bagian informasi digital yang disimpan mengenai kemajuan dalam bermain _game_.
 
