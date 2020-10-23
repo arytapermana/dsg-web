@@ -11,7 +11,7 @@ Disekitar Game adalah media informasi yang memberikan berita seputar game dan ju
 
 Tujuan kami adalah ingin memberikan sudut pandang media informasi pada industri game yang unik, dimana informasi yang diberikan berupa informatif dan tidak berpihak, kami berusaha memberikan pandangan luas kepada pembaca dan penonton kami, agar mereka dapat menafsirkan informasi yang ada menurut pendapat mereka.
 
-Kami sejauh ini memiliki tim kecil, hanya terdiri dari dua orang dimana saya Arya Putra, yang memanajem web, dari menjaga web agar tidak terdapat masalah, melakukan desain pada web, hingga membuat konten pada YouTube, dan satu lagi adalah Angga Permana, dimana ia adalah penulis yang memiliki pandangan unik pada setiap informasi yang didapat, kemudian menyampaikannya dengan tulisan pada posting di web, serta membantu beberapa hal dibelakang yang anda tidak ketahui.
+Kami sejauh ini memiliki tim kecil, hanya terdiri dari dua orang dimana saya Arya Putra, yang memanajemen web, dari menjaga web agar tidak terdapat masalah, melakukan desain pada web, hingga membuat konten pada YouTube, dan satu lagi adalah Angga Permana, dimana ia adalah penulis yang memiliki pandangan unik pada setiap informasi yang didapat, kemudian menyampaikannya dengan tulisan pada posting di web, serta membantu beberapa hal dibelakang yang anda tidak ketahui.
 
 kami membangun website ini untuk tujuan ‘bisnis’, tetapi ‘bisnis’ dalam artian berbeda, kami berfokus memberikan konten terbaik yang dapat kami lakukan, walaupun pendapatan juga penting untuk membuat website tetap berjalan, kami yakin bahwa informasi yang ‘baik’ akan mendatangkan mereka yang ‘baik’ juga.
 
