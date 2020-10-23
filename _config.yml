@@ -13,6 +13,23 @@ include: ["_pages"]
 permalink: /:title/
 email: support@disekitargame.com
 
+#Netlify CMS
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Image', name: 'image', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
 # Authors
 authors:
   sal:
