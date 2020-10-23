@@ -15,8 +15,6 @@ Sejak pengumumannya ditahun 2016 lalu game satu ini terlihat cukup berbeda denga
 
 Gameplay eksklusif yang dilansir dari [GameSpot](https://www.gamespot.com/articles/xbox-series-xs-scorn-has-gross-monsters-and-strange-weapons-in-new-gameplay-trailer/1100-6483550/) kali ini menampilkan 13 menit lebih dari penggunaan senjata yang aneh, makhluk yang tidak bisa dijelaskan hingga nuansa yang tidak masuk akal.
 
-{% include youtube-embed.html id="6grwdMemV1o" %}
-
 Scorn diketahui hanya akan tersedia pada konsol next-gen Xbox Series X/S dan PC, gameplay yang ditampilkan adalah dari Xbox Series X. Mirip dengan Bioshock dari nuansa game horror dengan musuh-musuh yang berkeliling serta seperti terjadi sesuatu yang salah dan pemain perlu mengetahui, mencari, dan menjelajah dunia tersebut.
 
 Rilis game satu ini masih belum diketahui tetapi direncanakan akan hadir di sekitar tahun 2021, jadi tetaplah berada di radar Disekitar Game.
