@@ -39,7 +39,7 @@ ga('send', 'pageview');
 {% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body>
+<body class="animate-in">
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
 		<link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
@@ -152,6 +152,12 @@ ga('send', 'pageview');
 {% endif %}
 
 <script src="{{ site.baseurl }}/assets/js/scroll-top.js"></script>
+
+<script type="text/javascript">
+window.addEventListener("beforeunload", function () {
+  document.body.classList.add("animate-out");
+});
+</script>
 
 </body>
 </html>
