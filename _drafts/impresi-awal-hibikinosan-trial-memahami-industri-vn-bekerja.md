@@ -3,9 +3,10 @@ layout: post
 author: john
 title: Impresi Awal Hibikinosan Trial - Memahami Industri VN Bekerja
 categories:
+- Impression
 - Visual Novel
-- Review
 tags:
+- Sonora
 - Hibikinosan
 rating: 
 image: https://ik.imagekit.io/dsg/screenshot_20201023065234_oZogu07IR.jpg
@@ -24,3 +25,23 @@ Ceritanya sendiri mengambil beberapa perspektif dan menjelaskan secara rinci sei
 Tenang, game ini tidak akan berfokus pada 3 main heroine saja. Versi trial tidak ubahnya prolog dimana memperkenalkan dulu karakter-karakter siapa saja yang terlibat, begitupula dengan karakter pendukung secara menarik.
 
 ![](https://ik.imagekit.io/dsg/screenshot_20201023055901_la8OKdj9o.jpg)
+
+Interaksi antara mc + main + support sendiri begitu hidup dan natural. Menggunakan 2 visual ekspresi membuat penyampaian dialog mudah dicerna, pergantian ekspresinya pun tepat tidak ada yang namanya 1 dulu, yang lain diam sebelum mendapatkan jatah untuk berbicara.
+
+![](https://ik.imagekit.io/dsg/screenshot_20201023073043_raQ-5KbvA.jpg)
+
+Untuk desain karakter tidak ada masalah, lalu bagaimana dengan background? Versi trial tidak terlalu menampilkan banyak detail untuk ini namun hasil yang ditawarkan cukup indah. Warna tidak terlalu kontras, tata cahaya cukup untuk memberikan kesan visual natural.
+
+![](https://ik.imagekit.io/dsg/screenshot_20201023063552_CSw_rec7Qr5.jpg)
+
+CG yang ditawarkan cukup menarik, hampir semuanya diperlihatkan di trial ini. Ia juga memberikan 2 visual ekspresi satu di text seperti biasa, namun bagi kami sendiri penggunaan 2 ekspresi ini tidak terlalu dibutuhkan sebenarnya. Walaupun begitu, ia tetap memberikan pesona untuk membuat hati Anda luluh.
+
+![](https://ik.imagekit.io/dsg/screenshot_20201023063232_JN0yc8LlR.jpg)
+
+Sementara untuk CG chibi sendiri tidak terlalu spesial. Pembawaan beserta joke-nya sudah baik, namun dari sisi presentasi visual? Ya bisa dinilai sendiri salah satunya.
+
+![](https://ik.imagekit.io/dsg/screenshot_20201023072931_y-SJlfjP9Zs.jpg)
+
+Seiiring progress cerita, pemain akan diberikan pilihan untuk memilih rute siapa nanti yang akan ditempuh. Tentunya pilihan yang dihadirkan bersifat non-linear, mengapa begitu? Pemain tidak bisa terus memilih rute yang akan ditempuh, terkadang pilihan heroine yang diinginkan tidak ada, mau tidak mau harus memilih apa yang ada. Skenario ini cukup menarik, karena bisa melihat pesona karakter lain yang anda tidak terlalu minati, kecuali emang pada dasarnya ingin menamatkan semua rute tidak masalah.
+
+![](https://ik.imagekit.io/dsg/screenshot_20201023071458_mmwHxi6ASN9.jpg)
