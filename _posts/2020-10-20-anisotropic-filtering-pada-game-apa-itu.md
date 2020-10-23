@@ -25,6 +25,6 @@ Anisotropic Filtering terdiri dari berbagai pilihan seperti 4x 8x ataupun 16x. P
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/IjT6__o0PFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/IjT6__o0PFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
 Jadi seperti itulah penjelasan Anisotropic Filtering yang dapat kami sampaikan sejelas dan sesingkat mungkin. Jika ada yang ingin ditanyakan atau disampaikan, kalian dapat menyampaikannya pada kolom komentar dibawah. terimakasih!
+
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/IjT6__o0PFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
