@@ -564,7 +564,13 @@ img, img:hover {
     }
 }
 .share .share-text{
-  display: none;
+  text-transform: uppercase;
+  margin-bottom: 80px;
+  margin-left: 3px;
+  font-size: 15pt;
+  -ms-transform: rotate(90deg); /* IE 9 */
+  transform: rotate(90deg);
+  font-weight: 500;
 }
 @media only screen and (max-width: 600px){
   .share{
@@ -572,7 +578,13 @@ img, img:hover {
     z-index: 1;
   }
   .share .share-text{
-    display: block;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 10px;
+    font-size: auto;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg);
   }
 }
 
