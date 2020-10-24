@@ -7,6 +7,7 @@ categories:
   - Info
 tags:
   - Rumor
+  - Rockstar Game
 ---
 GTA
 
