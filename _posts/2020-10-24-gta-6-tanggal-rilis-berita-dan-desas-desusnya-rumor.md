@@ -17,17 +17,10 @@ Rumor yang ada mungkin akan berubah atau bertambah, posting ini akan tetap di up
 * Seri Grand Theft Auto yang baru telah dikembangkan sejak tahun 2012 tetapi tidak berjalan baik hingga tahun 2015, walaupun begitu tim lebih fokus mengerjakan Red Dead Redemption 2.
 * Ini adalah salah satu Rockstar Worldwide Production.
 * Codenamenya adalah PROJECT AMERICAS.
-
-Latar tempatnya adalah Vice City dan ditambah lokasi baru lainnya yang berdasarkan di Rio de Janeiro (Ludendorff jika di GTA 5).
-
-Game akan seimbang antara segi realistis dan arcade tetapi tidak realistis seperti Red Dead Redemption 2.
-
-Satu karakter saja yang dapat dimainkan: pria, bukan wanita.
-
-Latar waktu di tahun sekitar 1970-1980
-
-Kalian akan memainkan karakter yang bernama "Ricardo" yang dapat disebut seorang gembong narkoba, selain itu dipanggil "Kacey" di bagian ceritanya. anda akan dimulai dari seorang penggerutu yang lari dari Vice City sebagai penyeludup kokain ke Amerika Selatan, sebelum anda mendapat koneksi dengan gembong narkoba besar yang membuat anda menjadi naik daun di banyak kota.
-
-Ada penjara besar juga yang memiliki peran nantinya pada bagian di game
-
-Akan ada fitur sistem "chapter" seperti pada Red Dead Redemption 2
+* Latar tempatnya adalah Vice City dan ditambah lokasi baru lainnya yang berdasarkan di Rio de Janeiro (Ludendorff jika di GTA 5).
+* Game akan seimbang antara segi realistis dan arcade tetapi tidak realistis seperti Red Dead Redemption 2.
+* Satu karakter saja yang dapat dimainkan: pria, bukan wanita.
+* Latar waktu di tahun sekitar 1970-1980
+* Kalian akan memainkan karakter yang bernama "Ricardo" yang dapat disebut seorang gembong narkoba, selain itu dipanggil "Kacey" di bagian ceritanya. anda akan dimulai dari seorang penggerutu yang lari dari Vice City sebagai penyeludup kokain ke Amerika Selatan, sebelum anda mendapat koneksi dengan gembong narkoba besar yang membuat anda menjadi naik daun di banyak kota.
+* Ada penjara besar juga yang memiliki peran nantinya pada bagian di game
+* Akan ada fitur sistem "chapter" seperti pada Red Dead Redemption 2
