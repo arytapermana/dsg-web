@@ -30,7 +30,7 @@ Rumor yang ada mungkin akan berubah atau bertambah, posting ini akan tetap di di
 * Sangat terinspirasi dari seri Narcos Netflix.
 * mereka ingin musik yang benar-benar nuansa 70s/80s.
 * Karakter Martin Madrazo dari GTA 5 sebelumnya akan tampil dengan versi lebih muda, anda akan memainkan beberapa misi untuk keluarga Madrazo seperti melibatkan serangan ke geng lain.
-* Dapat membangun sebuah bangunan gembong narkoba mirip dengan Vice City Stories tetapi lebih besar.
+* Dapat membangun sebuah gembong narkoba mirip dengan Vice City Stories tetapi lebih besar.
 * Anda hanya akan dapat membawa senjata "on your person", tidak seperti Red Dead Redemption yang membawanya di punggung belakang.
 * kendaraan personal anda akan seperti kuda pada Red Dead Redemption, seperti menaruh persenjataan maupun alat-alat. body armour juga dapat disimpan di bagasi dan ketika digunakan akan terlihat tidak seperti GTA 5.
 * Akan ada banyak subtitle seperti Max Payne 3, sangat imersif karena Amerika Selatan tidak selalu bahasa inggris tetapi tetap lebih banyak bahasa inggris.
