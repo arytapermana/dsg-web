@@ -49,6 +49,6 @@ Sebelumnya adalah informasi yang didapat dari Reddit dan berikut yang didapat da
 * Plotnya kemudian berputar menjadi ke bagian utara New York dimana kejahatan lebih banyak disana.
 * Dialog yang ada akan lebih banyak dua kali lipat dari GTA 5 dan dengan plot twist yang cukup gila.
 * Cerita utama berhenti sementara dilanjutkan misi sampingan seperti membangun gembong narkoba dan misi polisi yang lebih ke tradisional action game dengan sedikit sentuhan LA Noire.
-* Rilis paling cepat adalah hari libur 2021, tetapi mungkin saja 2022 atau 2023.
+* Rilis paling cepat adalah holiday 2021, tetapi mungkin saja di tahun 2022 atau 2023.
 
 Rumor yang didapat sebelumnya mungkin terasa tidak meyakinkan tetapi jika diingat kembali dari wawancara kepada Leslie Benzies yaitu video game producer di Rockstar saat itu tahun 2013 oleh [GTA V o'clock](https://www.youtube.com/watch?v=_AI2S2_-Yh0) sangat tidak heran Rockstar memang ingin membuat game open world yang lebih detail dan hidup. tapi sejauh ini sepertinya GTA Online masih menjadi focus lainnya dari Rockstar karena pendapatan besarnya. Jadi kita berharap saja informasi resminya akan segera muncul kepermukaan.
