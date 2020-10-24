@@ -20,4 +20,8 @@ Rumor yang ada mungkin akan berubah atau bertambah, posting ini akan tetap di up
 
 Latar tempatnya adalah Vice City dan ditambah lokasi baru lainnya yang berdasarkan di Rio de Janeiro (Ludendorff jika di GTA 5).
 
-game akan seimbang antara segi realistis dan arcade tetapi tidak realistis seperti Red Dead Redemption 2.
+Game akan seimbang antara segi realistis dan arcade tetapi tidak realistis seperti Red Dead Redemption 2.
+
+Satu karakter saja yang dapat dimainkan: pria, bukan wanita.
+
+Latar waktu di tahun sekitar 1970-1980
