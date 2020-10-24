@@ -16,4 +16,4 @@ Rumor yang ada mungkin akan berubah atau bertambah, posting ini akan tetap di up
 
 * Seri Grand Theft Auto yang baru telah dikembangkan sejak tahun 2012 tetapi tidak berjalan baik hingga tahun 2015, walaupun begitu tim tersebut lebih fokus mengerjakan Red Dead Redemption 2.
 
-* Ini adalah salah satu Rockstar Worldwide Production.
+  Ini adalah salah satu Rockstar Worldwide Production.
