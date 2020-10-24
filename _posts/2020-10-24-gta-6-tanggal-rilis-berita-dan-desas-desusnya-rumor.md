@@ -25,3 +25,5 @@ Game akan seimbang antara segi realistis dan arcade tetapi tidak realistis seper
 Satu karakter saja yang dapat dimainkan: pria, bukan wanita.
 
 Latar waktu di tahun sekitar 1970-1980
+
+Kalian akan memainkan karakter yang bernama "Ricardo" yang dapat disebut seorang gembong narkoba, selain itu dipanggil "Kacey" di bagian ceritanya.
