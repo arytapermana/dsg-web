@@ -45,7 +45,7 @@ Sebelumnya adalah informasi yang didapat dari Reddit dan berikut yang didapat da
 * Game berlatar dunia modern Liberty City
 * Awal game mengingatkan pada The Wire.
 * Polisi mencoba mencari geng dan gembong narkoba yang berbasis di klub malam.
-* Ada empat karakter utama yaitu dua anggota polisi dan dua anggota geng.
+* Ada empat karakter utama, dua anggota polisi dan dua anggota geng.
 * Plotnya kemudian berputar menjadi ke bagian utara New York dimana kejahatan lebih banyak disana.
 * Dialog yang ada akan lebih banyak dua kali lipat dari GTA 5 dan dengan plot twist yang cukup gila.
 * Cerita utama berhenti sementara dilanjutkan misi sampingan seperti membangun gembong narkoba dan misi polisi yang lebih ke tradisional action game dengan sedikit sentuhan LA Noire.
