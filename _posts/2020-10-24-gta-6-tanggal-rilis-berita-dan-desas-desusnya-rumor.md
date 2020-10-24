@@ -9,8 +9,6 @@ tags:
   - Rumor
   - Rockstar Game
 ---
-GTA
-
 Grand Theft Auto 6 adalah suatu kemungkinan yang sepertinya tidak kunjung selesai, Rockstar juga masih tidak memberikan pemberitahuan resmi dari seri game open world satu ini. Berbagai media diluar sana telah memberikan begitu banyak rumor yang beredar, walaupun rumor hanyalah rumor yang tidak diketahui asal hingga keaslian informasinya tetapi dengan membandingkan informasi ke informasi baik dari pihak resmi Rockstar hingga rumor yang beredar, informasi tersebut mungkin akan benar.
 
 Rumor yang beredar rata-rata mengacu pada salah satu user [Reddit](https://www.reddit.com/r/GamingLeaksAndRumours/comments/c74e6e/next_grand_theft_auto_title_details_project/?utm_content=body&utm_medium=post_embed&utm_name=2ff889542f8d45a4a54b9351c492a4d8&utm_source=embedly&utm_term=c74e6e) bernama JackOLantern1982 dan sumber lainnya adalah [Fireden](https://redir.fireden.net/v/thread/468461392/#468461392) yang meberikan 28 detail lebih dari GTA 6. Posting dari kedua sumber tersebut sepertinya sudah dihapus dan tidak dapat diakses lagi tetapi dirangkum dari [GamesRadar](https://www.gamesradar.com/gta-6-release-date-news-trailers-map-gameplay-rumours/) berikut adalah detail dari rumor tersebut.
