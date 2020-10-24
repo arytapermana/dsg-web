@@ -16,6 +16,8 @@ Rumor yang ada mungkin akan berubah atau bertambah, posting ini akan tetap di up
 
 * Seri Grand Theft Auto yang baru telah dikembangkan sejak tahun 2012 tetapi tidak berjalan baik hingga tahun 2015, walaupun begitu tim tersebut lebih fokus mengerjakan Red Dead Redemption 2.
 * Ini adalah salah satu Rockstar Worldwide Production.
-* Codenamenya adalah PROJECT AMERICAS
+* Codenamenya adalah PROJECT AMERICAS.
 
-Latar tempatnya adalah Vice City dan lokasi baru lainnya yang berdasarkan Rio de Janeiro
+Latar tempatnya adalah Vice City dan ditambah lokasi baru lainnya yang berdasarkan di Rio de Janeiro (Ludendorff jika di GTA 5).
+
+game akan seimbang antara segi realistis dan arcade tetapi tidak realistis seperti Red Dead Redemption 2.
