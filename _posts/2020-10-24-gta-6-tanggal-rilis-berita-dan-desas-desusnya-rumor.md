@@ -28,4 +28,6 @@ Latar waktu di tahun sekitar 1970-1980
 
 Kalian akan memainkan karakter yang bernama "Ricardo" yang dapat disebut seorang gembong narkoba, selain itu dipanggil "Kacey" di bagian ceritanya. anda akan dimulai dari seorang penggerutu yang lari dari Vice City sebagai penyeludup kokain ke Amerika Selatan, sebelum anda mendapat koneksi dengan gembong narkoba besar yang membuat anda menjadi naik daun di banyak kota.
 
-Akan ada penjara besar juga yang memiliki peran nantinya pada bagian di game
+Ada penjara besar juga yang memiliki peran nantinya pada bagian di game
+
+Akan ada fitur sistem "chapter" seperti pada Red Dead Redemption 2
