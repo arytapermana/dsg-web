@@ -37,7 +37,7 @@ Rumor yang ada mungkin akan berubah atau bertambah, posting ini akan tetap di di
 * Hal lain yang disampaikan pada cerita akan ada sedikit topik membahas krisis HIV dan imigrasi saat itu.
 * Hanya akan ada pada Next-gen konsol alias PS5 dan Xbox One X.
 * GTA 6 menjadi fokus mereka sekarang disamping game lain (seperti Bully 2).
-* Game masih Pre-Alpha, nama, tempat lokasi mungkin berubah.
+* Game masih Pre-Alpha, nama, tempat, lokasi mungkin berubah.
 * Tidak ada informasi apa pun mengenai tanggal lirisnya.
 
 Sebelumnya adalah informasi yang didapat dari Reddit dan berikut yang didapat dari Fireden
