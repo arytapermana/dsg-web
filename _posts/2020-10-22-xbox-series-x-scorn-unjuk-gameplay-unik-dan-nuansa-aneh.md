@@ -2,13 +2,14 @@
 layout: post
 author: sal
 title: Xbox Series X Scorn Unjuk Gameplay Unik dan Nuansa Aneh
-image: https://ik.imagekit.io/dsg/Ek4ZVXHVMAA1T5a_iYVLVJKfLs.jfif
 categories:
-  - News
+- News
 tags:
-  - PC
-  - Xbox Series S
-  - Xbox Series X
+- PC
+- Xbox Series S
+- Xbox Series X
+image: https://ik.imagekit.io/dsg/Ek4ZVXHVMAA1T5a_iYVLVJKfLs.jfif
+
 ---
 Sejak pengumumannya ditahun 2016 lalu game satu ini terlihat cukup berbeda dengan game yang tampil disepanjang tahun 2020, nuansa yang diberikan terasa cukup aneh tetapi hal tersebut lah yang menjadi nilai utama dari game besutan Ebb Software tersebut.
 
