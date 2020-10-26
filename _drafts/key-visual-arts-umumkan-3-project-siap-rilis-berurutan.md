@@ -37,7 +37,7 @@ Scenario: Romeo Tanaka
 
 ![](https://ik.imagekit.io/dsg/Project_Porter_QM_6_oftnRN.jpg)
 
-Bumi telah diambil alih sepenuhnya oleh kelompok mesin yang disebut dengan singularity. Sisa-sisa manusia yang bertahan terpaksa harus hidup lewat bayangan. Suatu hari seorang transporter yang bertahan mendapatkan tugas mengawal sebuah paket Android wanita yang untuk mengganti sebuah anggota keluarga di tempat tujuannya. Meskipun enggan, sang transporter menerima tugas itu. Perjalanan mereka tentu saja tidak mudah karena harus melewati para mesin dan marabahaya lainnya. Disisi lain, android perempuan tersebut menginginkan dirinya sebagai "manusia".
+Bumi telah diambil alih sepenuhnya oleh kelompok mesin yang disebut dengan singularity. Sisa-sisa manusia yang bertahan terpaksa harus hidup lewat bayangan. Suatu hari seorang transporter yang bertahan mendapatkan tugas mengawal sebuah paket Android wanita yang untuk mengganti sebuah anggota keluarga di tempat tujuannya. Meskipun awalnya enggan, sang transporter akhirnya mau menerima tugas itu. Perjalanan mereka tentu saja tidak mudah karena harus melewati para mesin dan marabahaya lainnya. Disisi lain, android perempuan tersebut menginginkan dirinya sebagai "manusia".
 
 Untuk Project Looper sendiri belum ada informasi rilis, besar kemungkinan dalam waktu dekat ini. Sementara Project Lunar dan Porter direncanakan rilis tahun 2021.
 
