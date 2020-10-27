@@ -59,7 +59,7 @@ pagination:
   collection: 'posts'
   per_page: 6
   permalink: '/page/:num/'
-  title: ':title - page :num'
+  title: ':title - Halaman :num'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
@@ -68,11 +68,13 @@ pagination:
 autopages:
   enabled: true
   tags:
+    title: 'Tag'
     permalink: '/tag/:tag'
     layouts:
      - autopage_tags.html
     enabled: true
   categories:
+    title: 'Kategori'
     permalink: '/category/:cat'
     layouts:
       - autopage_cat.html
