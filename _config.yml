@@ -59,7 +59,7 @@ pagination:
   collection: 'posts'
   per_page: 6
   permalink: '/page/:num/'
-  title: ':title - Halaman :num'
+  title: ':title'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
