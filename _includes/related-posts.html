@@ -13,13 +13,13 @@
         <!-- Categories -->
         {% assign sortedCategories = page.categories | sort %}
         {% for category in sortedCategories %}
-        <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl | prepend: site.autopages.categories.permalink | replace: ':cat', title }}{{ category | replace: " ","%20" }}">{{ category }}</a>
+        <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl | prepend: site.autopages.categories.permalink | replace: ':cat', title | downcase }}{{ category | replace: " ","%20" | downcase}}">{{ category }}</a>
         {% endfor %}
 
         <!-- Tags -->
         {% assign sortedTags = page.tags | sort %}
         {% for tag in sortedTags %}
-        <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl | prepend: site.autopages.tags.permalink | replace: ':tag', title}}{{ tag | replace: " ","%20" }}">{{ tag }}</a>
+        <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl | prepend: site.autopages.tags.permalink | replace: ':tag', title | downcase }}{{ tag | replace: " ","%20" | downcase}}">{{ tag }}</a>
         {% endfor %}
       </div>
     </div>
