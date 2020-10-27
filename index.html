@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Home
+pagination:
+  enabled: true
 ---
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <!-- Posts Index
@@ -25,19 +26,5 @@ title: Home
         {% include pagination.html %}
     </span>
     </div>
-
-    <!-- Netlify CMS
-    ================================================== -->
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
   </body>
 </html>

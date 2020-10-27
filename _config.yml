@@ -44,14 +44,41 @@ plugins:
 # Archives
 jekyll-archives:
   enabled:
-    - categories
   layout: archive
   permalinks:
     category: '/category/:name/'
 
 # Pagination
-paginate: 6
-paginate_path: /page:num/
+#paginate: 6
+#paginate_path: /page:num/
+
+# Pagination v2
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 6
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+#Paginate v2 AutoPages
+autopages:
+  enabled: true
+  tags:
+    permalink: '/tag/:tag'
+    layouts:
+     - autopage_tags.html
+    enabled: true
+  categories:
+    permalink: '/category/:cat'
+    layouts:
+      - autopage_cat.html
+    enabled: true
+  collections:
+    enabled: false
 
 # Other
 highlighter: rouge

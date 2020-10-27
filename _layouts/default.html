@@ -6,7 +6,7 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/dsg-logo-icon.jpg">
 
-{% if page.url == '/' %}
+{% if page.url == '/index.html' %}
 		<title>{{site.name}} | Deep Dive World of Gaming!</title>
 {% else %}
 		<title>{{ page.title }} | {{site.name}}</title>
@@ -59,6 +59,8 @@ ga('send', 'pageview');
     <ul>
         <h3>Navigasi</h3>
         <li><a href="{{ site.baseurl }}/">Utama</a></li>
+				<li><a href="{{ site.baseurl }}/category/Info">Info</a></li>
+				<li><a href="{{ site.baseurl }}/category/News">News</a></li>
         <li><a target="_blank" href="https://www.youtube.com/channel/UCC71ynFPWO11J5X6Or84wsw">Video <span class="badge badge-primary">YouTube</span></a></li>
 				<li><a href="{{ site.baseurl }}/about">Tentang</a></li>
 				<li><a href="{{ site.baseurl }}/contact">Kontak</a></li>
@@ -71,7 +73,7 @@ ga('send', 'pageview');
 <!-- End Sidebar Navigation
 ================================================== -->
 
-<div class="site-content {% if page.url == '/' %} firstpage {% endif %}">
+<div class="site-content {% if page.url == '/index.html' %} firstpage {% endif %}">
 
 <div class="container">
 
@@ -85,7 +87,7 @@ ga('send', 'pageview');
 
     <!-- Site Tag
     ================================================== -->
-    {% if page.url == '/' %}
+    {% if page.url == '/index.html' %}
         <p class="sitetag">
             {{ site.description }}
         </p>
