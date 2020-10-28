@@ -1,5 +1,5 @@
-# Memoirs Jekyll Theme
+# Disekitar Game Website
 
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+Check website here [https://disekitargame.com/](https://disekitargame.com/)
 
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+![Disekitar Game](https://ik.imagekit.io/dsg/tkYbuJbVcaW9sxD69h8HGPeHw_U__DkguQxUDntS.png)
