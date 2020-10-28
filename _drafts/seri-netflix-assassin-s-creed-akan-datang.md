@@ -16,7 +16,7 @@ Setelah project seri game Assassin's Creed terbarunya belakangan ini Ubisoft tid
 
 Ubisoft bekerja sama dengan Netflix untuk menampilkan beberapa seri adaptasi gamenya, dengan executive produced oleh Jason Altman dan Danielle Kreinik dilansir dari [GameSpot.](https://www.gamespot.com/articles/multiple-assassins-creed-series-coming-to-netflix-including-live-action-show/1100-6483801/?UniqueID=702975AE-185B-11EB-863F-FA3F16F31EAE&ftag=ftag%3DGSS-05-10aab8e&PostType=link&ServiceType=twitter&TheTime=2020-10-27T13%3A50%3A56)
 
-Pada video yang dipublikasikan melaui twitter resmi Netflix ditampilkan logo yang tidak asing lagi dengan Assassin's Creed, dibarengi dengan logo Netflix dalam bentuk teaser saja.
+Pada video yang dipublikasikan melaui twitter resmi Netflix, ditampilkan logo yang tidak asing lagi dengan Assassin's Creed, dibarengi dengan logo Netflix dalam bentuk teaser saja.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Netflix + Assassin's Creed <a href="https://t.co/yI2sItnMgi">pic.twitter.com/yI2sItnMgi</a></p>— NX (@NXOnNetflix) <a href="https://twitter.com/NXOnNetflix/status/1321081578697621508?ref_src=twsrc%5Etfw">October 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
