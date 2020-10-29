@@ -24,4 +24,4 @@ Hello Games memberikan sentuhan lebih detail dan lebih baik lagi pada game No Ma
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jRnOtGftJek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Untuk lebih detailnya kalian dapat mengunjungi link [berikut](https://www.nomanssky.com/next-generation-update/), untuk rilis update tersebut akan hadir bersamaan dengan waktu rilis PlayStation 5 dan Xbox Series X/S.
+Untuk lebih detailnya kalian dapat mengunjungi link [berikut](https://www.nomanssky.com/next-generation-update/), untuk rilis updatenya akan hadir bersamaan dengan waktu rilis PlayStation 5 dan Xbox Series X/S.
