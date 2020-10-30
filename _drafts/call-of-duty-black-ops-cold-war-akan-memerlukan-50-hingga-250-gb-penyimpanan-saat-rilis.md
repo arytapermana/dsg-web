@@ -20,7 +20,7 @@ Tidak heran lagi game tahunan satu ini dari tahun ke tahun selalu mengalami pemb
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SQKpaiEpsko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Activision dan Treyarch merilis minimum dan rekomendasi sistem yang dibutuhkan untuk menjalankan game tersebut dilansir dari [Polygon](https://www.polygon.com/2020/10/29/21540554/call-of-duty-black-ops-cold-war-storage-requirements-pc), detail tersebut memberikan detail penyimpana yang dibutuhkan yaitu 50GB untuk Multiplayer saja, 175GB untuk semua mode game dan 250GB untuk 4K textures dengan ray tracing.
+Activision dan Treyarch merilis minimum dan rekomendasi sistem yang dibutuhkan untuk menjalankan game tersebut dilansir dari [Polygon](https://www.polygon.com/2020/10/29/21540554/call-of-duty-black-ops-cold-war-storage-requirements-pc), detail tersebut memberikan informasi penyimpanan yang dibutuhkan yaitu 50GB untuk Multiplayer saja, 175GB untuk semua mode game dan 250GB untuk 4K textures dengan ray tracing.
 
 ![](https://ik.imagekit.io/dsg/BOCW_PC_SPECS_4oxTA-tNgD.jpg)
 
