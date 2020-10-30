@@ -14,7 +14,7 @@ image: https://ik.imagekit.io/dsg/BOCW-PC-Trailer-014_4f_3Fhl89H.jpg
 ---
 Sepertinya anda akan perlu menghapus seri Call of Duty sebelumnya dikarenakan seri Call of Duty: Black Ops Cold War sangat haus penyimpanan.
 
-Tidak heran lagi game tahunan satu ini dari tahun ke tahun selalu mengalami pembengkakan ukuran data dari gamenya, bukan lagi haus dari segi performa sistem tetapi penyimpanan juga.
+Tidak heran lagi game tahunan satu ini dari tahun ke tahun selalu mengalami pembengkakan ukuran data dari gamenya, bukan lagi haus dari segi performa sistem, tetapi penyimpanan juga.
 
 <div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SQKpaiEpsko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
