@@ -27,6 +27,6 @@ Ubisoft tidak memberikan detailnya kenapa beberapa game tidak dapat dimainkan pa
 
 Padahal jika dipikirkan lagi semua game Ubisoft yang telah rilis memiliki backward compatible dengan Xbox Series X/S, untuk detail posting blog yang disampaikan Ubisoft dapat dilihat pada link [berikut](https://ubisoftconnect.com/en-US/news/ignt.23726/all-you-need-to-know-on-cross-progression-and-cross-play-with-ubisoft-connect).
 
-Game-game ubisoft juga tidak ada sebelumnya pada list game PlayStation 5 yang tidak mendukung backward compatible, dilansir dari [Gematsu](https://www.gematsu.com/2020/10/assassins-creed-syndicate-assassins-creed-chronicles-series-not-backward-compatible-on-ps5).
+Game-game Ubisoft juga tidak ada sebelumnya pada list game PlayStation 5 yang tidak mendukung backward compatible, dilansir dari [Gematsu](https://www.gematsu.com/2020/10/assassins-creed-syndicate-assassins-creed-chronicles-series-not-backward-compatible-on-ps5).
 
 Berharap Ubisoft memberikan penjelasan tentang ini.
