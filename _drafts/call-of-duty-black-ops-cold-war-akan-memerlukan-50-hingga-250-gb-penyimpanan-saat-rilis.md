@@ -16,11 +16,15 @@ Sepertinya anda akan perlu menghapus seri Call of Duty sebelumnya dikarenakan se
 
 Tidak heran lagi game satu ini dari tahun ke tahun selalu mengalami pembengkakan ukuran data dari gamenya, bukan lagi haus dari segi performa sistem tetapi penyimpanan juga.
 
+<div class="embed-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SQKpaiEpsko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Activision dan Treyarch merilis minimum dan rekomendasi sistem yang dibutuhkan untuk menjalankan game tersebut dilansir dari [Polygon](https://www.polygon.com/2020/10/29/21540554/call-of-duty-black-ops-cold-war-storage-requirements-pc), detail tersebut memberikan detail penyimpana yang dibutuhkan yaitu 50GB untuk Multiplayer saja, 175GB untuk semua mode game dan 250GB untuk 4K textures dengan ray tracing.
 
 ![](https://ik.imagekit.io/dsg/BOCW_PC_SPECS_4oxTA-tNgD.jpg)
 
-Sebelumnya Call of Duty Modern Warfare | Warzone memerlukan penyimpanan hingga 200GB dan setidaknya ada pilihan untuk menghapus mode game yang tidak dibutuhkan.
+Sebelumnya Call of Duty Modern Warfare dan Warzone memerlukan penyimpanan hingga 200GB dan setidaknya ada pilihan untuk menghapus mode game yang tidak dibutuhkan.
 
 Untuk informasi lebih detailnya kalian dapat mengunjungi website resminya [berikut](https://www.callofduty.com/blog/2020/10/Black-Ops-Cold-War-PC-Launch-Trailer), atau dapat dilihat dibawah untuk sistem yang dibutuhkan saja.
 
