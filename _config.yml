@@ -57,7 +57,7 @@ pagination:
   enabled: true
   debug: false
   collection: 'posts'
-  per_page: 6
+  per_page: 9
   permalink: '/page/:num/'
   title: ':title'
   limit: 0
