@@ -31,4 +31,4 @@ Game-game Ubisoft juga tidak ada sebelumnya pada list game PlayStation 5 yang ti
 
 Berharap Ubisoft memberikan penjelasan tentang ini.
 
-Update: Ubisoft menghapus posting tersebut, dengan alasan ketidakakuratan. Perwakilan Ubisoft mengatakan kepada [Gematsu](https://twitter.com/gematsucom/status/1322327097357045760): “Kami telah menarik artikel Ubisoft Connect dan posting forum backward compatible untuk saat ini karena mungkin ada ketidakakuratan yang melibatkan judul game Ubisoft yang akan dapat dimainkan di PS5."
+**Update:** Ubisoft menghapus posting tersebut, dengan alasan ketidakakuratan. Perwakilan Ubisoft mengatakan kepada [Gematsu](https://twitter.com/gematsucom/status/1322327097357045760): “Kami telah menarik artikel Ubisoft Connect dan posting forum backward compatible untuk saat ini karena mungkin ada ketidakakuratan yang melibatkan judul game Ubisoft yang akan dapat dimainkan di PS5."
