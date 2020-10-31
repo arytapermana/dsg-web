@@ -28,3 +28,17 @@ Game ini akan memfokuskan karakter untuk terlibat salah satu dari 3 penguasa wil
 ![](https://ik.imagekit.io/dsg/Waga_15_mg38sOUSd.jpg)
 
 Bukan game berpetualang namanya jika tidak menemukan karakter lain sepanjang perjalanan. Seperti apa yang biasa terjadi pada skema petualang pemain akan terlibat secara langsung / tidak langsung pada karakter pendukung yang ada. Menariknya setiap wilayah menghadirkan desain tidak bisa dipandang sebelah mata.
+
+Unsur politik juga menyelimuti setiap wilayah yang ada. Ada momen dimana pemain sebelum memasuki wilayah utama akan melakukan interaksi dengan warga lokal, bagaimana kondisi wilayah tersebut, hingga sisi lain tidak pernah diprediksi.
+
+![](https://ik.imagekit.io/dsg/Waga_11_iTNLuda3LY.jpg)
+
+Artwork-nya sendiri begitu mempesona. Sebagian besar background common versi trial ini memang biasa saja, namun ada momen dimana Minato Soft memberikan sesuatu yang sangat mendetail. Sebuah lukisan dunia yang dibuat dengan nilai seni tinggi.
+
+![](https://ik.imagekit.io/dsg/Waga_7_kX_4ksk5o.jpg)
+
+Beberapa CG juga terlihat menggoda. Tidak banyak yang ditampilkan untuk heroine, namun mereka cukup berani menampilkan uncencored pada suatu CG tetapi belum keranah 18+.
+
+![](https://ik.imagekit.io/dsg/Waga_19_P_2wCCjnzY.jpg)
+
+Scene CG pertempuran juga tidak kalah menarik, lengkap dengan visual effect memeriahkan layar komputer. Sayang berulang menampilkan cg, common vfx membuatnya terlihat tidak konsisten. Tapi hanya beberapa momen saja.
