@@ -1,11 +1,12 @@
 ---
 layout: post
 author: john
-title: Review Einstein Yori Ai o Komete — Hati Tertusuk-Tusuk
+title: Review Einstein Yori Ai o Komete — Hati Tertusuk Tusuk
 categories:
 - Visual Novel
 - Review
 tags:
+- GLOVETY
 - Einstein Yori Ai o Komete
 rating: 
 image: https://ik.imagekit.io/dsg/Einz_15_51oN0kZJyU.jpg
