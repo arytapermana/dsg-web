@@ -13,7 +13,7 @@ rating:
 image: https://ik.imagekit.io/dsg/AEX1-11_L1XfYPtQEZ.jpg
 
 ---
-Apakah Anda termasuk salah satu orang yang kecewa dengan Aokana kemarin? Jika ia, selamat kekecewaan tersebut akan diperbaiki lewat ekstra konten. Mengapa tidak, dari 4 heroine hanya 2 yang mendapatkan porsi sesuai, sisanya terasa kurang. Alasan tersebutlah membuat developer Sprite bersama publisher HikariField dan NekoNyan merilis "Extra 1".
+Apakah Anda termasuk salah satu orang yang kecewa dengan Aokana kemarin? Jika ia, selamat kekecewaan tersebut akan diperbaiki lewat ekstra konten tambahan. Mengapa tidak, dari 4 heroine hanya 2 yang mendapatkan porsi sesuai, sisanya terasa kurang. Alasan tersebutlah membuat developer Sprite bersama publisher HikariField dan NekoNyan merilis "Extra 1".
 
 Sesuai namanya ia akan menjadi konten ekstra, khususnya karakter Mashiro Arisaka setelah ending di seri original. Mengapa dirinya? Tentu saja ia merupakan karakter dengan rute tersingkat + ending kurang mengigit. Jadi apakah ekstra tambahan ini pantas? Berikut ulasannya:
 
