@@ -15,13 +15,13 @@ image: https://ik.imagekit.io/dsg/AEX1-11_L1XfYPtQEZ.jpg
 ---
 Apakah Anda termasuk salah satu orang yang kecewa dengan Aokana kemarin? Jika ia, selamat kekecewaan tersebut akan diperbaiki lewat ekstra konten. Mengapa tidak, dari 4 heroine hanya 2 yang mendapatkan porsi sesuai, sisanya terasa kurang. Alasan tersebutlah membuat developer Sprite bersama publisher HikariField dan NekoNyan merilis "Extra 1".
 
-Sesuai namanya ia akan menjadi konten ekstra, khususnya karakter Masiro Arisaka setelah ending di seri original. Mengapa dirinya? Tentu saja ia merupakan karakter dengan rute tersingkat dari original. Jadi apakah ekstra tambahan ini pantas? Berikut ulasannya:
+Sesuai namanya ia akan menjadi konten ekstra, khususnya karakter Mashiro Arisaka setelah ending di seri original. Mengapa dirinya? Tentu saja ia merupakan karakter dengan rute tersingkat + ending kurang mengigit. Jadi apakah ekstra tambahan ini pantas? Berikut ulasannya:
 
 **Cerita**
 
 ![](https://ik.imagekit.io/dsg/AEX1-12_7AiBXIzS2t.jpg)
 
-Melanjutkan ending rute Mashiro, dimana Masaya kini harus terus menjadi pelatih agar kekasihnya bisa menjadi pemain Flying Circus hebat. Disisi lain, Mashiro mulai ingin merasakan kasih sayang dari setelah sekian lama ia tidak menemukan kebahagian lain begitu berharga.
+Melanjutkan ending rute Mashiro, dimana Masaya kini harus terus menjadi pelatih agar kekasihnya bisa menjadi pemain Flying Circus hebat. Disisi lain, Mashiro mulai ingin merasakan kasih sayang lebih jauh setelah sekian lama ia tidak menemukan kebahagian lain begitu berharga.
 
 **Tidak Jauh Berbeda**
 
@@ -31,11 +31,11 @@ Karena memang dibuat untuk menambahkan rute Mashiro yang terhitung pendek, jadi 
 
 ![](https://ik.imagekit.io/dsg/AEX-9_MFaAPzDha.jpg)
 
-Penambahan lain selain cerita adalah, beberapa ost beserta intro baru. Dari sisi gampelay animation ada pergerakan karakter ketika berinteraksi seperti berpindah kesana kemari, screenshot diatas.memperlihatkan karakter berindah ketika memasak. Sesuatu yang tidak terlalu signifikan dari original-nya.
+Penambahan lain selain cerita adalah hadirnya beberapa ost beserta intro baru. Dari sisi gampelay animation ada pergerakan karakter lebih banyak ketika berinteraksi seperti berpindah kesana kemari, screenshot diatas.memperlihatkan karakter berindah ketika memasak. Sesuatu yang tidak terlalu signifikan ditampilkan dari original-nya.
 
 ![](https://ik.imagekit.io/dsg/AEX1-6_SP-n1Cbwth.jpg)
 
-Apa jadinya bila langsung menjajal "Extra 1" tanpa memainkan seri awal? Bisa dibilang boleh saja bila memang sedari awal ingin befokus pada kisah romansa komedi Masaya x Mashiro. Namun bila membicarakan garis besarnya yaitu tentang lomba sepatu terbang atau Flying Circus (FC) tentu perlu membiasakan diri atau setidaknya mengetahui kisah singkatnya karena di Extra mimin sekali penjelasan.
+Apa jadinya bila langsung menjajal "Extra 1" tanpa memainkan seri awal? Bisa dibilang boleh saja bila memang sedari awal ingin befokus pada kisah romansa komedi Masaya x Mashiro. Namun bila membicarakan garis cerita besarnya yaitu tentang lomba sepatu terbang atau Flying Circus (FC) tentu perlu membiasakan diri atau setidaknya mengetahui kisah singkatnya karena di "Extra" mimin sekali penjelasan.
 
 **Pesona Mashiro Yang Semakin Manis**
 
