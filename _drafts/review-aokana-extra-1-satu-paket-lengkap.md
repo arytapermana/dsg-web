@@ -13,21 +13,21 @@ rating:
 image: https://ik.imagekit.io/dsg/AEX1-11_L1XfYPtQEZ.jpg
 
 ---
-Apakah Anda termasuk salah satu orang yang kecewa dengan Aokana kemarin? Jika ia, selamat kekecewaan tersebut akan diperbaiki lewat ekstra konten. Mengapa tidak, dari 4 heroine hanya 2 yang mendapatkan porsi sesuai sisanya terasa kurang. Alasan tersebutlah developer Sprite bersama publisher HikariField dan NekoNyan merilis "Extra 1"
+Apakah Anda termasuk salah satu orang yang kecewa dengan Aokana kemarin? Jika ia, selamat kekecewaan tersebut akan diperbaiki lewat ekstra konten. Mengapa tidak, dari 4 heroine hanya 2 yang mendapatkan porsi sesuai, sisanya terasa kurang. Alasan tersebutlah membuat developer Sprite bersama publisher HikariField dan NekoNyan merilis "Extra 1".
 
-Sesuai namanya ia akan menjadi konten ekstra, khususnya karakter Masiro Arisaka. Mengapa dirinya? Tentu saja ia merupakan karakter dengan rute tersingkat dari original. Jadi apakah ekstra tambahan ini pantas? Berikut ulasannya:
+Sesuai namanya ia akan menjadi konten ekstra, khususnya karakter Masiro Arisaka setelah ending di seri original. Mengapa dirinya? Tentu saja ia merupakan karakter dengan rute tersingkat dari original. Jadi apakah ekstra tambahan ini pantas? Berikut ulasannya:
 
 **Cerita**
 
 ![](https://ik.imagekit.io/dsg/AEX1-12_7AiBXIzS2t.jpg)
 
-Melanjutkan ending rute Mashiro, dimana Masaya kini harus terus menjadi pelatih agar bisa menjadi pemain Flying Circus hebat. Disisi lain, Mashiro mulai ingin merasakan kasih sayang dari pacarnya lebih jauh.
+Melanjutkan ending rute Mashiro, dimana Masaya kini harus terus menjadi pelatih agar kekasihnya bisa menjadi pemain Flying Circus hebat. Disisi lain, Mashiro mulai ingin merasakan kasih sayang dari setelah sekian lama ia tidak menemukan kebahagian lain begitu berharga.
 
 **Tidak Jauh Berbeda**
 
 ![](https://ik.imagekit.io/dsg/AEX1-5_7Y1t8MhT_.jpg)
 
-Karena memang dibuat untuk menambahkan rute Mashiro yang terhitung pendek, jadi tidak jauh berbeda. Mulai dari desain, seiyuu hingga UI/UX masih sama dengan Aokana original.
+Karena memang dibuat untuk menambahkan rute Mashiro yang terhitung pendek, jadi tidak jauh berbeda. Mulai dari desain, seiyuu hingga UI/UX masih sama dengan Aokana original. Size game-nya sendiri bisa dibilang setengah dari versi original.
 
 ![](https://ik.imagekit.io/dsg/AEX-9_MFaAPzDha.jpg)
 
