@@ -10,9 +10,9 @@ tags:
 image: https://ik.imagekit.io/dsg/SC14_lbXaOctT8.jpg
 
 ---
-agaguaia
+Sebagian besar pemain apalagi yang kebetulan menyukai anime sudah tidak asing dengan desain beberapa karakter dari game ini. Yep, desain mereka memang bisa dibilang hampir menyerupai hanya beda seiyuu tetapi jika membicarakan karakteristiknya sepanjang game sangat berbeda.
 
-jgygywgdwhgd
+Sis△Camp merupakan game terbaru dari dev. sekaligus publisher Onomatope*Raspberry dimana sesuai judulnya mengisahkan tentang perkemahan bersama para saudari manis. Jadi sejauh mana tema yang diangkat? Berikut ulasannya.
 
 **Cerita**
 
@@ -49,3 +49,17 @@ Absennya CG seperti kegiatan berkemah membuatnya terlihat game yang hanya berfok
 Beruntung developer memasukkan percakapan penting yang berkaitan dengan kegiatan berkemah. Interaksi pendatang yang awam soal perkemahan, peran mc sebagai orang cukup berpengalaman membantu mereka baik dari segi cara memasang tenda, memasak, dll. menjadi salah satu unsur cerita penting jika mengangkat tema soal "perkemahan".
 
 **Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/SC8_1NDRW3du4r.jpg)
+
+Sis△Camp berhasil membuktikan karakter yang begitu mirip tersebut memiliki perbedaan jauh dari kata bootleg. Sayangnya kisah perkemahannya tidak dibuat lebih menarik, tidak ada alasan untuk ikut berkemah seperti apa yang ditawarkan dari produk multimedia lain. Haus akan fan-service game ini membawakannya dengan baik.
+
+Kelebihan:
+
+* Fan-Service
+* Bebas Berpindah-Pindah Rute
+* Tidak Sekadar Bootleg
+
+kekurangan:
+
+* Detail Soal Perkemahan Kurang
