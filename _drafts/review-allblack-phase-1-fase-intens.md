@@ -60,7 +60,7 @@ Sebenarnya kami tidak terlalu keberatan dengan penggambungan 2D art dengan foto 
 
 ALLBLACK Phase 1 menjadi salah satu proyek indie yang cukup kuat dari sisi cerita, dengan durasi permainan mencapai 6 jam tergantung pemain. Apalagi "Phase 1" sendiri menandakan akan ada sekuel kedepannya. Selain pemilihan asset background tidak konsisten, game ini mengenalkan banyak karakter namun kebanyakan jadi supporting dan hilang begitu saja tanpa meninggalkan kesan menarik.
 
-Bila tertarik Anda bisa mengunduhnya secara gratis atau dapat menyumbang berapapun via [Itch.io]() tersedia semua sistem operasi PC saat ini. Juga game ini tersedia di PlayStore, sementara versi Steam segera menyusul.
+Bila tertarik Anda bisa mengunduhnya secara gratis atau dapat menyumbang berapapun via [Itch.io]() tersedia untuk semua sistem operasi PC saat ini. Juga game ini tersedia di PlayStore, sementara versi Steam segera menyusul.
 
 Kelebihan:
 
