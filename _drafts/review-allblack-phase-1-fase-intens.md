@@ -12,9 +12,9 @@ rating:
 image: https://ik.imagekit.io/dsg/AB13_hfa7kOPR5v.jpg
 
 ---
-fefefew
+Perkembangan visual novel cukup pesat membuat beberapa orang tertarik mengembangan game secara indie. Tidak selamanya semua terpenuhi, penggunaan asset terbuka dimanfaatkan unruk menunjang hasil pemikiran para pengembang.
 
-wfewrfewfew
+ALLBLACK Phase 1 dikembangkan oleh NSAID dev. indie Indonesia ini hadir dengan cukup menjanjikan berkat desain visual begitu menarik. Kami sendiri menemukan game ini dari salah satu friendlist membagikan di timeline. Jadi se-intens apa vn ini? Berikut ulasannya.
 
 **Cerita**
 
@@ -32,11 +32,11 @@ Jika Anda terbiasa dengan Ren'py Engine sepertinya sudah tidak asing dengan tata
 
 ![](https://ik.imagekit.io/dsg/AB3_nBLIoWYuX.jpg)
 
-Gaya penceritaan yang dilakukan bergerak lurus tanpa ada pilihan percakapan. Bagaimana bisa dibilang unik? Sepanjang perjalanan pemain akan dibawa ke scene flashback untuk memahami latar belakang dari mc Theodore ini. Bagaimana ia bisa terbangun tanpa memori, siapa dirinya dan siapa yang mengejarnya.
+Gaya penceritaan yang dilakukan bergerak lurus tanpa ada pilihan percakapan. Bagaimana bisa dibilang unik? Sepanjang perjalanan pemain akan dibawa ke scene flashback untuk memahami latar belakang dari mc Theodore ini. Bagaimana ia bisa terbangun tanpa memori, siapa dirinya dan siapa yang mengejarnya. Tanpa dubbing pun ia masih bisa membuat pemain merilik ceritanya lebih jauh.
 
 ![](https://ik.imagekit.io/dsg/AB2_s9HB09Titf.jpg)
 
-Pemain juga bisa memilih chapter tanpa perlu menamatkannya terlebih dahulu. Karena ceritanya bisa dibilang cukup rumit, keputusan memberikan chapter ini pas bisa langsung ke chapter yang dirasa kurang dimengerti.
+Pemain juga bisa memilih chapter berapa tanpa perlu menamatkannya terlebih dahulu. Karena ceritanya bisa dibilang cukup rumit, keputusan memberikan opsi chapter ini pas, bisa secara langsung menuju chapter yang dirasa kurang dimengerti.
 
 **Penuh Aksi**
 
@@ -58,4 +58,15 @@ Sebenarnya kami tidak terlalu keberatan dengan penggambungan 2D art dengan foto 
 
 ![](https://ik.imagekit.io/dsg/AB12_-ay4NVdBTu.jpg)
 
-dsdasdas
+ALLBLACK Phase 1 menjadi salah satu proyek indie yang cukup kuat dari sisi cerita. Apalagi "Phase 1" sendiri menandakan akan ada sekuel kedepannya. Selain pemilihan asset background tidak konsisten, game ini mengenalkan banyak karakter namun kebanyakan jadi supporting dan hilang begitu saja tanpa meninggalkan kesan menarik.
+
+Kelebihan:
+
+* Cerita penuh tanda tanya
+* UI/UX minimalis futuristik
+* Pemilihan SFX beserta penempatannya pas
+
+Kekurangan:
+
+* Pemilihan asset background tidak konsisten
+* Beberapa karakter terlihat kurang mendapatkan porsi
