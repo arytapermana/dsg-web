@@ -55,3 +55,7 @@ Untuk menit-menit awal ia terlihat istimewa baik dari sisi presentasi VFX, SFX d
 Sebenarnya kami tidak terlalu keberatan dengan penggambungan 2D art dengan foto real life dikarenakan developer indie menggambar banyak latar membutuhkan banyak sumberdaya. Tetapi sayangnya, jika jeli terutama membahas cerita ia sangat tidak ada relasi. Salah satu contoh pada cerita, mc tengah berada di Mombasa namun BG berada di New York. Tidak hanya itu, pertengahan cerita menjelang akhir akan banyak menjumpai hal serupa.
 
 **Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/AB12_-ay4NVdBTu.jpg)
+
+dsdasdas
