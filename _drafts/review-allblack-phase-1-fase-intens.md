@@ -12,9 +12,9 @@ rating:
 image: https://ik.imagekit.io/dsg/AB13_hfa7kOPR5v.jpg
 
 ---
-Perkembangan visual novel cukup pesat membuat beberapa orang tertarik mengembangan game secara indie. Tidak selamanya semua terpenuhi, penggunaan asset terbuka dimanfaatkan unruk menunjang hasil pemikiran para pengembang.
+Perkembangan visual novel cukup pesat membuat beberapa orang tertarik mengembangan game secara indie. Tidak selamanya semua bisa terpenuhi, penggunaan asset terbuka dimanfaatkan dengan baik untuk menunjang hasil pemikiran para pengembang.
 
-ALLBLACK Phase 1 dikembangkan oleh NSAID dev. indie Indonesia ini hadir dengan cukup menjanjikan berkat desain visual begitu menarik. Kami sendiri menemukan game ini dari salah satu friendlist membagikan di timeline. Jadi se-intens apa vn ini? Berikut ulasannya.
+ALLBLACK Phase 1 dikembangkan oleh NSAID dev. indie Indonesia ini hadir dengan cukup menjanjikan berkat desain visual begitu menarik. Kami sendiri menemukan game ini dari salah satu friendlist membagikannya di timeline. Jadi se-intens apa vn ini? Berikut ulasannya.
 
 **Cerita**
 
@@ -58,7 +58,9 @@ Sebenarnya kami tidak terlalu keberatan dengan penggambungan 2D art dengan foto 
 
 ![](https://ik.imagekit.io/dsg/AB12_-ay4NVdBTu.jpg)
 
-ALLBLACK Phase 1 menjadi salah satu proyek indie yang cukup kuat dari sisi cerita. Apalagi "Phase 1" sendiri menandakan akan ada sekuel kedepannya. Selain pemilihan asset background tidak konsisten, game ini mengenalkan banyak karakter namun kebanyakan jadi supporting dan hilang begitu saja tanpa meninggalkan kesan menarik.
+ALLBLACK Phase 1 menjadi salah satu proyek indie yang cukup kuat dari sisi cerita, dengan durasi permainan mencapai 6 jam tergantung pemain. Apalagi "Phase 1" sendiri menandakan akan ada sekuel kedepannya. Selain pemilihan asset background tidak konsisten, game ini mengenalkan banyak karakter namun kebanyakan jadi supporting dan hilang begitu saja tanpa meninggalkan kesan menarik.
+
+Bila tertarik Anda bisa mengunduhnya secara gratis atau dapat menyumbang berapapun via [Itch.io]() tersedia semua sistem operasi PC saat ini. Juga game ini tersedia di PlayStore, sementara versi Steam segera menyusul.
 
 Kelebihan:
 
