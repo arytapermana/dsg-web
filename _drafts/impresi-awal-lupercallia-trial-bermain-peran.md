@@ -11,7 +11,7 @@ tags:
 image: https://ik.imagekit.io/dsg/LC16_7_cDAavSwV.jpg
 
 ---
-Keberadaan video game saat ini menjadikan salah satu media terbaik untuk memperkenalkan kebudayaan citarasa klasik. Tema dibungkus semenarik mungkin, lewat cerita, musik hingga pengisi suara yang terlibat.
+Keberadaan video game saat ini menjadikan salah satu media terbaik untuk memperkenalkan kebudayaan citarasa klasik. Tema dibungkus semenarik mungkin lewat cerita, musik hingga pengisi suara yang terlibat.
 
 Meikei no Lupercalia VN garapan developer sekaligus publisher Uguisu Kagura ini dikenal dengan proyek vn long-play (30-50 jam permainan). Proyek terbarunya ini berfokus pada tema pementasan seni teater klasik.
 
