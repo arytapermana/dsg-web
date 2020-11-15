@@ -11,7 +11,7 @@ tags:
 image: https://ik.imagekit.io/dsg/Yureaka_15_jp3sd0ewM7.jpg
 
 ---
-Tidak sedikit developer video game membuat dua atau lebih judul game berbeda tetapi memiliki kaitan atau sering disebut cerita canon. Perbedaan judul sendiri tidak bukan adalah perspektif saja, tapi unsur utama sebagian besar sama. Seperti apa yang ditawarkan dari dev. sekaligus publisher game Jepang — CRYSTALIA.
+Tidak sedikit developer video game membuat dua atau lebih judul game berbeda tetapi memiliki hubungan atau sering disebut cerita canon. Perbedaan judul memang menpertahankan cita rasa ataupum menghadirkan hal baru, tapi unsur utamanya sebagian besar sama. Seperti apa yang ditawarkan dari dev. sekaligus publisher game Jepang — CRYSTALIA.
 
 Yureaka / Akatsuki Yureru Koi Akari menjadi prekuel dari game Kizuna Kirameku Koi Iroha, rilis tahun 2017 lalu. Bagi yang tidak terlalu famiiar akan franchise-nya, ini bisa menjadi awal terbaik untuk menyelam lore-nya lebih lanjut.
 
@@ -44,3 +44,5 @@ Menariknya lagi, dev. tidak sungkan-sungkan memberikan intipan H-scene untuk ver
 ![](https://ik.imagekit.io/dsg/Yureaka_4_SEXNXm_NA.jpg)
 
 Akatsuki Yureru Koi Akari diposisikan menjadi penghubung cerita dari 2 game dengan universe yang sama. Versi trial tidak terlalu menyinggung hal tersebut cukup jauh, tetapi cerita yang ditawarkan cukup menarik apalagi diposisikan menjadi game "pertama" dari timeline.
+
+Yureaka sendiri akan dirilis secara penuh, 25 Desember mendatang Japan Only! Bagi Anda yang tertarik menjajal trial-nya bisa mengunduhnya via [laman resminya](http://crystalia.amusecraft.com/yureaka/download.html). 
