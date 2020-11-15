@@ -11,9 +11,9 @@ tags:
 image: https://ik.imagekit.io/dsg/LC16_7_cDAavSwV.jpg
 
 ---
-yfgww
+Keberadaan video game saat ini menjadikan salah satu media terbaik untuk memperkenalkan kebudayaan citarasa klasik. Tema dibungkus semenarik mungkin, lewat cerita, musik hingga pengisi suara yang terlibat.
 
-adhauidha
+Meikei no Lupercalia VN garapan developer sekaligus publisher Uguisu Kagura ini dikenal dengan proyek vn long-play (30-50 jam permainan). Proyek terbarunya ini berfokus pada tema pementasan seni teater klasik.
 
 ![](https://ik.imagekit.io/dsg/LC3_GyEJItrI-.jpg)
 
@@ -33,5 +33,6 @@ Ketika berada diatas panggung, visual berubah menjadi lukisan klasik untuk mendu
 
 ![](https://ik.imagekit.io/dsg/LC20_U-S4ngG6KV.jpg)
 
-| --- |
-| Meikei no Lupercalia |
+Meikei no Lupercalia menjadi VN paling diatisipasi untuk kami secara personal karena fokusnya adalah pada voice acting. Meskipun begitu, versi trial ini seolah dibuat kurang sebelum versi penuh rilis. Pendukung utama pertujukan seni teater adalah musik yang dipamerkan pada versi trial ini begitu sederhana.
+
+Game ini akan direncanakan rilis, 26 Februari 2021 Japan only! Bagi Anda yang tertarik dengan trial-nya bisa mengunduh via [halaman situs resminya]( "http://kagura.rdy.jp/lupercalia/special.html#Trial"). 
