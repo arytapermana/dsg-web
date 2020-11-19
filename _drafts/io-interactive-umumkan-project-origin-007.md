@@ -18,4 +18,4 @@ Dikembangkan menggunakan Glacier engine, project 007 ini bekerjasama dengan MGM,
 
 Tidak ada informasi lebih lanjut yang dapat dibagikan, Project 007 direncanakan rilis untuk konsol (kemungkinan next-gen) dan PC.
 
-Source : 
+Source : [Website]()
