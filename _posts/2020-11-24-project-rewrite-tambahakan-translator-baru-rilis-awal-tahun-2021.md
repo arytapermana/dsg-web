@@ -15,6 +15,6 @@ Project Rewrite+ merupakan salah satu game dari dev. Key akan mendapatkan versi 
 
 Salah satu translator baru bergabung dalam project berinisial John mengungkapkan rasa senangnya terlibat dengan Key hingga saat ini. Selain itu ia menambahkan bahwa proses terjemahan dan editing masih tetap berjalan, dengan tujuan dapat merilis sesuai waktu yang ditentukan, walaupun mereka juga tidak bisa memastikan 100% tepat waktu.
 
-Rewrite+ akan memuat game original Rewrite dan Rewrite Harvest festa direncanakan rilis untuk PC, Januari 2021 via PC.
+Rewrite+ akan memuat game original Rewrite dan Rewrite Harvest festa direncanakan rilis untuk PC via Steam, Januari 2021.
 
 Source : [Kickstarter](https://www.kickstarter.com/projects/sekaiproject/digital-and-physical-release-of-keys-rewrite/posts/3029833)
