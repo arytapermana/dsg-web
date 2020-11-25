@@ -17,7 +17,7 @@ Game garapan developer 4A games dan publisher Deep Silver menawarkan peningkatan
 
 Disisi lain, franchise Metro yang kini memasuki hari jadi ke-10 tahun sang dev. mengkonfirmasi bahwa apa yang mereka ungkap pada seri baru, Agustus 2019 lalu saat ini tengah berjalan. Menariknya, mereka mulai melirik potensi multiplayer.
 
-<div class="embed-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/4DB9JA1OgiQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/4DB9JA1OgiQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sayangnya tidak ada konfirmasi lanjut soal seri terbaru Metro, namun yang jelas dikembangkan untuk PlayStation 5, Xbox Series, dan PC tentunya. Sementara untuk versi upgrade segera menyusul juga informasi-nya.
 
