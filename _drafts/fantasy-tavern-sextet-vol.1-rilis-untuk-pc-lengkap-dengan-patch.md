@@ -2,8 +2,12 @@
 layout: post
 author: john
 title: Fantasy Tavern Sextet -Vol.1 Rilis Untuk PC Lengkap Dengan Patch
-categories: []
-tags: []
+categories:
+- News
+tags:
+- Fantasy Tavern Sextet
+- IMel
+- Qureate
 image: https://ik.imagekit.io/dsg/Tavern_9G6_VIjbWZlx.jpg
 
 ---
