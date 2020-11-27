@@ -10,9 +10,9 @@ tags:
 image: https://ik.imagekit.io/dsg/N4_28_zM1s5Yi0vdl.jpg
 
 ---
-fhhdh
+Surga Nekomimi telah hadir kembali! Salah satu vn dengan fanbase terbesar ini kembali menghadirkan sekuel setelah cukup lama hilang tanpa kabar. Dijual dengan harga sangat ramah dikantong tidak heran ia menjadi perbicangan hangat baik dari fans lama maupun baru.
 
-gddt
+Masih sama dikembangkan oleh dev. NEKO WORKs dan Re: LieF TranslatioN Nekopara 4 hadir dengan peningkatan signifikan, sekali terjun langsung mimpi basah! Berikut ulasannya:
 
 **Cerita**
 
