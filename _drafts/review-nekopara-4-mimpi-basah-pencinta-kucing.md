@@ -53,3 +53,21 @@ Seiyuu yang memerankannya kini jauh lebih berkesan. Contohnya saat scene karaoke
 Untuk story pada game ini tidak terlalu istimewa, beberapa kali mereka menghadirkan momen haru tidak bisa mencapai audien. Namun, semua terobati dengan kehadiran karakter baru Fraise. Kucing satu ini memiliki daya tarik tersendiri dan kami akan menyambut dengan baik bila ia akan hadir kembali pada episode selanjutnya.
 
 **Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/N4_13_xqXgjGsVObNR.jpg)
+
+Nekopara 4 menjadi sekuel menarik untuk dinikmati, terutama fans lama. Lantas apa jadinya bila Anda terjun tanpa tahu cerita sebelumnya? Kami sendiri menyarankan untuk mengenal dahulu latar belakang setiap heroine-nya karena seri ini tidak menjelaskan lagi, fokus pada konflik dan pengenalan karakter baru.
+
+Salah satu kekecewaan bahkan hingga saat ini adalah "rute adik" kapan! Sejak episode 0 ia selalu hadir sebagai karakter sampingan, meskipun perannya sekarang jauh lebih baik tetap terasa kurang.
+
+Kelebihan :
+
+* Hyrid Animation Begitu Halus
+* Shigure
+* Plot Masih Menarik Untuk Diikuti
+* Scene-scene beragam
+
+Kekurangan:
+
+* Masih Tanpa Rute Shigure
+* Ekspresi Hidup Tetapi Kurang Mengintimidasi
