@@ -1,7 +1,7 @@
 ---
 layout: post
 author: john
-title: Impresi Awal Kokoro No Katachi - Wholesome Heroine
+title: Impresi Awal Kokoro No Katachi Trial - Wholesome Heroine
 categories:
 - Visual Novel
 - Impression
@@ -33,9 +33,10 @@ Ada karakter sampingan bernama Utsugi Kazusa yang akan menemani heroine sepanjan
 
 ![](https://ik.imagekit.io/dsg/screenshot_20201126183958_rnKnMeYMyup.jpg)
 
-Cerita fantasy-nya menjadi daya tarik utama selain heroine wholesome. Bagaimana jadinya jika kita bisa mendengar isi hati sesorang. Apakah kita senang bisa mengetahui rahasianya, apakah ini benar dilakukan. Emosional tersebut membuat kami merasakan sesuatu yang tidak ingin dirasakan saat versi final rilis.
+Cerita fantasy-nya menjadi daya tarik utama selain heroine wholesome. Bagaimana jadinya jika kita bisa mendengar isi hati sesorang. Apakah kita senang bisa mengetahui rahasianya, apakah ini benar dilakukan. Emosional tersebut membuat kami merasakan sesuatu yang tidak ingin dirasakan saat versi final rilis nanti tetapi penasaran juga.
 
 ![](https://ik.imagekit.io/dsg/screenshot_20201126192249_Cbrq-IZperAI.jpg)
 
-| --- |
-| Kokoro no Katachi to Iro to Oto |
+Kokoro no Katachi to Iro to Oto / The shapes and colors and sounds of the heart berhasil menghadirkan kisah yang kemungkinan akan menusuk-nusuk hati saat versi final rilis. Trial-nya juga menawarkan fan-service tetapi tidak ada apa-apanya dibandikan cerita-nya nanti.
+
+Bagi Anda yang tertarik menjajal versi trial-nya bisa menuju [tautan halaman resminya](), size sekitar 500mb.
