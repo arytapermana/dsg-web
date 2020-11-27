@@ -39,4 +39,4 @@ Cerita fantasy-nya menjadi daya tarik utama selain heroine wholesome. Bagaimana 
 
 Kokoro no Katachi to Iro to Oto / The shapes and colors and sounds of the heart berhasil menghadirkan kisah yang kemungkinan akan menusuk-nusuk hati saat versi final rilis. Trial-nya juga menawarkan fan-service tetapi tidak ada apa-apanya dibandikan cerita-nya nanti.
 
-Bagi Anda yang tertarik menjajal versi trial-nya bisa menuju [tautan halaman resminya](), size sekitar 500mb.
+Bagi Anda yang tertarik menjajal versi trial-nya bisa menuju [tautan halaman resminya](), size sekitar 500mb. Versi finalnya akan dirilis, 25 Desember mendatang, Japan only!
