@@ -11,9 +11,9 @@ tags:
 image: https://ik.imagekit.io/dsg/screenshot_20201126185605_AhiJFZBJ6PZv.jpg
 
 ---
-jheujheufw
+Semakin banyak developer game baru terjun ke industri langsung menghadirkan karya begitu dicintai. Hulotte Roi dev. sekaligus publisher vn asal Jepang ini baru saja melepas trial game perdana mereka - Kokoro No Katachi.
 
-dwgqydq
+Impresi awal dari vn ini adalah visual heroine-nya yang begitu mempesona. Namun ketika membaca plot-nya ada seseuatu yang lebih menakjubkan menanti.
 
 ![](https://ik.imagekit.io/dsg/screenshot_20201126172426_gGKS8KC23OB.png)
 
