@@ -42,6 +42,8 @@ Mari kita membahas tentang cerita yang menjadi keraguan beberapa pemain, apalagi
 
 Sepanjang perjalan selain main dan supporting, mc bersama Shirobana akan menjumpai npc roh sepanjang cerita, ada beberapa backstory-nya cukup menarik untuk diikuti namun pujian menarik datang dari voice acting. VA pada game ini tidak bisa dibilang sempurna, namun dibandingkan dengan vn kebanyakan ia hadir begitu niat.
 
+Beberapa intrepetasi masuk akal juga dibawakan dengan baik. Sebagai contoh alasan Shirobana menyukai gelembung sabun adalah gelembung-gelembung tersebut terbang dan menghilang. Jika melihat plot saja sudah dapat ditebak.
+
 **Tidak Hanya Satu Karakter**
 
 ![](https://ik.imagekit.io/dsg/Hokejo_22_cjXgLq8D17gJ.jpg)
@@ -49,3 +51,25 @@ Sepanjang perjalan selain main dan supporting, mc bersama Shirobana akan menjump
 Mode perspektif yaitu dimana tidak hanya mc saja yang mendapatkan fokus cerita bukanlah sesuatu yang baru untuk vn. Sementara game ini memberikan semua bercerita dari sudut pandangnya sepanjang permainan berlangsung, tidak sekadar impresi gimik belaka bahwa setiap cerita/percakapan terjadi itu saling menyatu. Contohnya ketika karakter a dan b berbincang, kemudian perspektif berpindah ke c dan b, segmen selanjutnya mereka akan bertemu dengan tujuan yang sama. Ini memberikan ruang untuk karakter supporting bersinar.
 
 **Sesungguhnya Awayuki Sakiha Adalah Kesempurnaan**
+
+![](https://ik.imagekit.io/dsg/AAAAA_2_x4jV4QBTqkz.jpg)
+
+Mari kesampingkan dulu sang heroine-nya, pesona terkuat kami tertuju pada karakter Awayuki Sakiha. Gadis pengurus penginapan ini paling banyak mendapatkan pengembangan karakter. Dimulai dari perannya sebagai pengurus penginapan, perlahan-lahan mulai terlibat lebih dekat dengan mc. Perubahan karakter yang mulanya dingin tsundere begitu imut.
+
+**Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/Hokejo_8_qEbrVGEz6Cj.jpg)
+
+Hokejo menjadi game perdana Citrus yang berhasil menarik perhatian banyak pemain vn terutama pencinta karakter loli. Meskipun fokusnya sudah terlihat, karakter pendukung memiliki cerita layaknya karakter utama. Tetapi untuk kompleksitas cerita sendiri bisa dibilang kurang. Banyaknya NPC memiliki nama dan dubing bagus, tetapi tidak memiliki desain. Selebihnya, untuk vn terhitung pendek ia sangat pantas untuk dilirik.
+
+Kelebihan:
+
+* Cerita serius tetapi santai
+* Perspektif cerita terhubung
+* Pendalaman karakter
+* Awayuki Sakiha
+
+Kekurangan:
+
+* Ada banyak karakter sampingan tanpa visual
+* CG terhitung minim
