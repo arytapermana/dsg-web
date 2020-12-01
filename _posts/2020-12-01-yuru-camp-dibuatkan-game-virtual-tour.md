@@ -15,4 +15,4 @@ Ditangani oleh Gemsdrop proyek game Yuru Camp akan dibagi menjadi dua judul yait
 
 <div class="videowrapper"><iframe width="640" height="360" src="https://www.youtube.com/embed/qutUBv9CrEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Sayangnya belum ada informasi tentang tanggal pasti. Yuru Camp Virtual akan dirilis untuk PlayStation 4, PC, Switch, Ios, dan Android. Game ini juga mendukung vr sesuai dengan perangkat headset masing-masing platform.
+Sayangnya belum ada informasi tentang tanggal pasti, rencana musim dingin nanti. Yuru Camp Virtual akan dirilis untuk PlayStation 4, PC, Switch, Ios, dan Android. Game ini juga mendukung vr sesuai dengan perangkat headset masing-masing platform.
