@@ -49,5 +49,3 @@ Sepanjang perjalan selain main dan supporting, mc bersama Shirobana akan menjump
 Mode perspektif yaitu dimana tidak hanya mc saja yang mendapatkan fokus cerita bukanlah sesuatu yang baru untuk vn. Sementara game ini memberikan semua bercerita dari sudut pandangnya sepanjang permainan berlangsung, tidak sekadar impresi gimik belaka bahwa setiap cerita/percakapan terjadi itu saling menyatu. Contohnya ketika karakter a dan b berbincang, kemudian perspektif berpindah ke c dan b, segmen selanjutnya mereka akan bertemu dengan tujuan yang sama. Ini memberikan ruang untuk karakter supporting bersinar.
 
 **Sesungguhnya Awayuki Sakiha Adalah Kesempurnaan**
-
-![](https://ik.imagekit.io/dsg/AAAAA_2_x4jV4QBTqkz.jpg)
