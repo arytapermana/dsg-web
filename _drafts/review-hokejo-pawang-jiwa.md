@@ -39,3 +39,15 @@ Proporsi desain karkater siswi SMA-nya juga dibuat menarik dengan banyak pose pe
 Mari kita membahas tentang cerita yang menjadi keraguan beberapa pemain, apalagi tidak kuat soal cerita sedih/kehilangan. Jika membicarakan soal jiwa/roh yang masih menetap di dunia, maka bisa dapat dipastikan bahwa dirinya masih memiliki penyesalan perlu diselesaikan. Disinilah peran sang mc menuntun para jiwa tersesat tersebut untuk menemukan apa yang dicari supaya tenang pergi kesana.
 
 ![](https://ik.imagekit.io/dsg/Hokejo_19__DhugJfcCXri.jpg)
+
+Sepanjang perjalan selain main dan supporting, mc bersama Shirobana akan menjumpai npc roh sepanjang cerita, ada beberapa backstory-nya cukup menarik untuk diikuti namun pujian menarik datang dari voice acting. VA pada game ini tidak bisa dibilang sempurna, namun dibandingkan dengan vn kebanyakan ia hadir begitu niat.
+
+**Tidak Hanya Satu Karakter**
+
+![](https://ik.imagekit.io/dsg/Hokejo_22_cjXgLq8D17gJ.jpg)
+
+Mode perspektif yaitu dimana tidak hanya mc saja yang mendapatkan fokus cerita bukanlah sesuatu yang baru untuk vn. Sementara game ini memberikan semua bercerita dari sudut pandangnya sepanjang permainan berlangsung, tidak sekadar impresi gimik belaka bahwa setiap cerita/percakapan terjadi itu saling menyatu. Contohnya ketika karakter a dan b berbincang, kemudian perspektif berpindah ke c dan b, segmen selanjutnya mereka akan bertemu dengan tujuan yang sama. Ini memberikan ruang untuk karakter supporting bersinar.
+
+**Sesungguhnya Awayuki Sakiha Adalah Kesempurnaan**
+
+![](https://ik.imagekit.io/dsg/AAAAA_2_x4jV4QBTqkz.jpg)
