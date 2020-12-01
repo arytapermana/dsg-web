@@ -23,3 +23,7 @@ Kazami Sora adalah seorang pawang jiwa tengah mencari jiwa saudari-nya yang ters
 Sora yang bekerja di kota tersebut sebagai seorang dokter UKS, ia menyadari bahwa banyak sekali roh yang menjadi murid di sekolah tersebut, tidak hanya itu beberapa penduduk kota juga dipenuhi dengan roh.
 
 **Pesona Karakter Loli Legal**
+
+![](https://ik.imagekit.io/dsg/Hokejo_27_ipo7T4tctld.jpg)
+
+dwww
