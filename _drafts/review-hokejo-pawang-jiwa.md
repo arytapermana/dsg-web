@@ -1,6 +1,6 @@
 ---
 layout: post
-author: sal
+author: john
 title: Review Hokejo - Pawang Jiwa
 categories:
 - Review
