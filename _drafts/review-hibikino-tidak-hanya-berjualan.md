@@ -11,9 +11,9 @@ tags:
 image: https://ik.imagekit.io/dsg/screenshot_20201202111054_4L7hIVylb5Mq.png
 
 ---
-wdwgwgywgdgw
+Sejak berakhirnya bulan November, dimana industri VN Jepang secara berbarengan merilis game-nya ke pasaran. Sulitnya lagi, banyak yang menarik dilepas menjadi pilihan sulit apalagi jika membicarakan soal keuangan. Game Hibikino-san-chi wa Eroge-ya-san! garapan dev. sekaligus publisher Sonora akhirnya dirilis.
 
-ddgwdgwwud
+[Versi impresi dari trial kemarin sudah kami buat sebelumnya](https://disekitargame.com/impresi-awal-hibikinosan-trial-memahami-industri-vn-bekerja/), dimana versi penuh kali ini membawakan banyak kejutan terutama dari sisi cerita. Tetapi masih sama hanya tersedia versi Jepang saja. Seberapa signifikan? Berikut ulasannya.
 
 **Cerita**
 
@@ -48,3 +48,29 @@ Selama segmen common pemain akan diberikan banyak pilihan, yang paling mendapatk
 Ketika memasuki rute heroine, setiap heroine memiliki cerita tersendiri soal industri. Bagaimana mereka mengejar cita-cita mereka, konflik personal, hingga kisah romansa cukup baik untuk vn wholesome heroine.
 
 **Visual Memanjakan Mata**
+
+![](https://ik.imagekit.io/dsg/screenshot_20201202114904_9UmH5J_79Z-U.png)
+
+Semakin memasuki lebih dalam, cg background sendiri sangat detail. Perubahan dari siang ke malam dengan tata cahaya terlihat indah. Tidak hanya visual diluar, desain interior juga diperlakukan serupa.
+
+![](https://ik.imagekit.io/dsg/screenshot_20201023065234_oZogu07IR.jpg)
+
+Contoh sederhanya bisa terlihat ketika berada didalam toko Hibikino. Sebagian besar detail gambar game fisik-nya terlihat jelas tanpa blur berlebihan. Tetapi tidak semua background memiliki perubahan detail.
+
+**Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/screenshot_20201202125638_JDeP5Em4l9b.png)
+
+Hibikino-san-chi wa Eroge-ya-san! menjadi salah satu vn yang cocok bagi Anda untuk terjun kedalam industri kreatif anime eroge. Perspektif toko eroge lengkap dengan keluh kesahnya sangat relevan di lapangan meskipun tidak bisa dibilang sepenuhnya akurat. Jika membicarakan kelemahan entah mengapa minim suara npc jadi terasa kurang padahal rerata suara npc ya begitulah.
+
+**Kelebihan:**
+
+* Wholesome heroine
+* Tidak sekadar jualan
+* Visual dinamis
+* Adanya kesempatan mengenal karakter lebih lanjut meskipun sejak awal tidak tertarik
+
+**Kekurangan:**
+
+* Minim suara npc
+* Beberapa cameo terasa dipaksakan
