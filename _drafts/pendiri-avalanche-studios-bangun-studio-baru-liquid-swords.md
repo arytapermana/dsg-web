@@ -13,8 +13,8 @@ Avalanche Studios dikenal dengan project Just Creator, founder sekaligus origina
 
 ![](https://ik.imagekit.io/dsg/Liquid_Swords_-bCZRFnratX.jpg)
 
-Selama 1 tahun hiatus dalam industri game, tentunya fokus pada studio ini sang founder ingin menciptakan sesuatu yang baru, terlepas dari franchise Just Cause yang membangun namanya hingga saat ini. Saat ini pihaknya masih perlu mempersiapkan studio ini secara matang sebelum diungkapkan sepenuhnya ke publik. 
+Selama 1 tahun hiatus dalam industri game, tentunya fokus pada studio ini sang founder ingin menciptakan sesuatu yang baru, terlepas dari franchise Just Cause yang membangun namanya hingga saat ini. Saat ini pihaknya masih perlu mempersiapkan studio ini secara matang sebelum diungkapkan sepenuhnya ke publik.
 
-Tidak ada informasi lebih lanjut, rencana mereka akan mengungkap tentang founding partner, lokasi studio dan teknologi-nya, kemungkinan besar game engine pada awal tahun 2021.
+Tidak ada informasi lebih lanjut, rencana mereka akan mengungkap tentang founding partner, lokasi studio dan teknologi-nya kemungkinan besar game engine, pada awal tahun 2021.
 
 Source : [Liquid Swords via Facebook](https://web.facebook.com/LiquidSwordsStudios/posts/139554754594524?_rdc=1&_rdr)
