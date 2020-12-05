@@ -11,7 +11,7 @@ image: https://ik.imagekit.io/dsg/_________image_2020123154531_znp4TaNkYIY.jpg
 ---
 sssaada
 
-daada
+Untuk impresi trial sudah kami buatkan via DisekitarAnime karena saat itu web tengah proses maintenance. Maka sesuai judul Anda akan melihat persaingan ketat para heroine dalam mendapatkan hati sang mc. Se-menarik apa persaingan mereka? Berikut ulasannya:
 
 **Cerita**
 
@@ -37,7 +37,7 @@ Semua berubah ketika diberikan memasuki rute cinta-nya sekali lagi. Visual pendu
 
 ![](https://ik.imagekit.io/dsg/_________image_202012424624_zLYnL8ZkYJP.jpg)
 
-Tidak lengkap jika harem tanpa seorang heroine tsundere. Menariknya, karakter yang disuarai oleh seiyuu Shirotsuki Kaname sangat niat. Sebagian besar scene common tertuju padanya, tidak mengherankan bilamana pemain termasuk kami memutuskan untuk menuju rute-nya pertama.
+Tidak lengkap jika harem tanpa seorang heroine tsundere. Menariknya, karakter yang disuarai oleh seiyuu Shirotsuki Kaname sangat niat. Sebagian besar scene common tertuju padanya, tidak mengherankan bilamana pemain termasuk kami memutuskan untuk menuju rute-nya pertama tanpa basa-basi.
 
 ![](https://ik.imagekit.io/dsg/_________image_202012435148_wCgDeCxxate.jpg)
 
@@ -51,7 +51,7 @@ Seperti apa yang kami bahas ketika menjajal versi trial, letterbox akan berwarna
 
 ![](https://ik.imagekit.io/dsg/_________image_2020123152821_alEp8t2ebGj.jpg)
 
-Ketika common mode perspektif menjadi hal wajar untuk memperkenalkan pesona dari setiap heroine. Memasuki rute heroine, entah mengapa mode perspektif tetap ada dan masih memperlihatkan sisi lain dari karakter yang tidak dipilih.
+Ketika common mode perspektif menjadi hal wajar untuk memperkenalkan pesona dari setiap heroine. Memasuki rute heroine, entah mengapa mode perspektif tetap ada dan masih memperlihatkan sisi lain dari karakter yang tidak dipilih. Ada juga momen dimana ini menceritakan tentang siapa dan mengapa.
 
 ![](https://ik.imagekit.io/dsg/_________image_202012321651_Ee9VwBlMTqBh.jpg)
 
@@ -60,3 +60,18 @@ Disisi lain mode opsi perspektif menjadi penyelamat. Jika opsional dari sudut pa
 ![](https://ik.imagekit.io/dsg/_________image_2020124183316_oHVA_FDdKLHf.jpg)
 
 Opsi dari perspektif heroine jarang akan Anda temukan, dan hanya tersedia pada rute tertentu sebelum hilang selamanya. Berperan sebagai heroine dan mengambil keputusan soal mc itu sendiri, memahami perasaannya lebih jauh sesuatu yang jarang ditawarkan vn kebanyakan.
+
+**Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/_________image_202012315442_t_kWCJmx9mu.jpg)
+
+**Kelebihan:**
+
+* Mantan terindah
+* Pesona Harizome Shione sulit ditolak
+* Semua heroine termasuk supporting mendapatkan H-scene
+* Mode opsi dari perspektif heroine
+
+**Kekurangan:**
+
+* Mode heroine berlebihan
