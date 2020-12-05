@@ -9,15 +9,15 @@ tags:
 image: https://ik.imagekit.io/dsg/_________image_2020123154531_znp4TaNkYIY.jpg
 
 ---
-sssaada
+Hype November akhir begitu banyaknya vn yang rilis berbarengan menyebabkan sulit mengambil keputusan sambil menjaga agar dompet tidak terjaga. Ren'ai x Royale aka Koirowa garapan dev. sekaligus publisher ASa Project menjadi vn Jepang paling diatisipasi kehadirannya sejak versi trial rilis kemarin.
 
-Untuk impresi trial sudah kami buatkan via DisekitarAnime karena saat itu web tengah proses maintenance. Maka sesuai judul Anda akan melihat persaingan ketat para heroine dalam mendapatkan hati sang mc. Se-menarik apa persaingan mereka? Berikut ulasannya:
+Untuk [impresi trial sudah kami buatkan via DisekitarAnime](https://disekitaranime.life/impresi-awal-koirowa-trial-menemukan-cinta-atau/) karena saat itu web tengah proses maintenance. Maka sesuai judul Anda akan melihat persaingan ketat para heroine dalam mendapatkan hati sang mc. Se-menarik apa persaingan mereka? Berikut ulasannya:
 
 **Cerita**
 
 ![](https://ik.imagekit.io/dsg/Koirowa_2_PSNxDVqMyJ3.jpg)
 
-Mengisahkan tentang Komachi Hirotaka yang tidak bisa melepaskan ingatan teman masa kecilnya dimana menjadi cinta pertamanya. Meskipun saat itu ia memiliki seorang pacar, dengan berat hati memutus hubungannya karena masih memiliki cinta dalam soal cinta pertama.
+Mengisahkan tentang Komachi Hirotaka yang tidak bisa melepaskan ingatan teman masa kecilnya dimana juga menjadi cinta pertamanya. Meskipun beberapa saat kemudian ia memiliki seorang pacar, dengan berat hati memutus hubungannya karena masih memiliki cinta mendalam soal cinta pertama.
 
 Memasuki masa remaja, ia dikelilingi wanita cantik di sekolahnya, semuanya dengan terang-terangan menyukai dirinya. Merasa bingung, ia menghabiskan waktu untuk menilai para wanita tersebut termasuk teman masa kecil dan mantan juga muncul secara tidak diduga.
 
@@ -65,6 +65,8 @@ Opsi dari perspektif heroine jarang akan Anda temukan, dan hanya tersedia pada r
 
 ![](https://ik.imagekit.io/dsg/_________image_202012315442_t_kWCJmx9mu.jpg)
 
+Ren'ai x Royale aka Koirowa sangat memfasilitasi gamer soal wholesome heroine. Presetasinya baik main ataupun supporting character dibawakan dengan baik secara visual dan karakteristik. Selain keluhan soal mode perspektif yang terlalu berlebihan, ada hal positif lain meskipun tidak terlalu wah sekali adalah ost yang ditawarkan.
+
 **Kelebihan:**
 
 * Mantan terindah
@@ -74,4 +76,4 @@ Opsi dari perspektif heroine jarang akan Anda temukan, dan hanya tersedia pada r
 
 **Kekurangan:**
 
-* Mode heroine berlebihan
+* Mode perspektif heroine berlebihan
