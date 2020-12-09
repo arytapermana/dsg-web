@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sal
-title: Xbox Game Bar "Task Manager" Memudahkan Melihat Apa yang Memberatkan Sistem
+title: Xbox Game Bar (Task Manager) Memudahkan Melihat Apa yang Memberatkan Sistem
 categories:
 - Info
 tags:

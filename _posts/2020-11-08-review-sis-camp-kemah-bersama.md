@@ -6,7 +6,7 @@ categories:
 - Visual Novel
 - Review
 tags:
-- Onomatope*Raspberry
+- Onomatope Raspberry
 image: https://ik.imagekit.io/dsg/SC14_lbXaOctT8.jpg
 
 ---
