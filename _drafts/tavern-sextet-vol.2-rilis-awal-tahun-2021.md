@@ -4,7 +4,8 @@ author: john
 title: Tavern Sextet Vol. 2 Rilis Awal Tahun 2021
 categories:
 - News
-tags: []
+tags:
+- Qureate
 image: https://ik.imagekit.io/dsg/Tavern_11_eYomh64pd.jpg
 
 ---
