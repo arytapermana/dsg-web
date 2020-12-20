@@ -2,8 +2,12 @@
 layout: post
 author: john
 title: Review Fxxx Me Royally!! - Jangan Liat Judul
-categories: []
-tags: []
+categories:
+- Visual Novel
+- Review
+tags:
+- Fxxx
+- MangaGamer
 image: https://ik.imagekit.io/dsg/PH14_3IahzJteO_t.jpg
 
 ---
