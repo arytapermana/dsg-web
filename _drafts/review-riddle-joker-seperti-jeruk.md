@@ -6,13 +6,14 @@ categories:
 - Visual Novel
 - Review
 tags:
+- NekoNyan
 - Yuzu Soft
 image: https://ik.imagekit.io/dsg/RJ11_VZJ-5tp7e6y.jpg
 
 ---
-www
+Oke untuk visual novel satu ini sepertinya tidak mengherankan menjadi perbincangan hangat bahkan hype-nya masih hingga saat ini. Apalagi rilis tidak terlalu bentrok dengan game lain menjadikannya tanpa pesaing dari minggu tersebut, walaupun harga ya bisa dibilang sepadan juga.
 
-wwww
+Lahir dari tangan dingin Yuzusoft untuk pasar Jepang, 2018 lalu menerima review baik dari para kritikus. Dimana versi ENG-nya seperti jeruk. Mengapa? Berikut ulasannya:
 
 **Cerita**
 
