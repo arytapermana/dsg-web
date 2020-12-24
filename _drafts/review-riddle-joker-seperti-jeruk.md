@@ -35,3 +35,17 @@ Begitupula dengan CG apalagi, tidak dapat dipungkiri perbedaanya tidak jauh berb
 ![](https://ik.imagekit.io/dsg/RJ11_VZJ-5tp7e6y.jpg)
 
 Bisa dibilang ia menjadi salah satu game dengan ukuran terbesar dari vn lainnya kebanyakan. Size mencapai 9 GB lebih bukanlah gimmick belaka. Sebagian besar habis dari CG high render serta gerakan dinamis karakter setiap interaksinya tanpa campur tangan 3D.
+
+![](https://ik.imagekit.io/dsg/RJ20_O4gM09RxD.jpg)
+
+UI pada game ini cukup ramai dan lengkap, dimana ia juga menawarkan fitur slide bagi pengguna laptop 2 in one, kostumisasi mouse, hingga menggunakan gamepad seperti Xbox/PlayStation controller.
+
+![](https://ik.imagekit.io/dsg/RJ2_XC_3x3PRY.jpg)
+
+Another view / mode perspektif untuk heroine dan karakter pendukung sudah biasa Anda lihat, maka pada vn ini ia menawarkan interaksi dari kacamata NPC disepanjang cerita bahkan ketika sudah memasuki rute heroine sekalipun. Tetap jangan berharap banyak soal dubbing untuk para NPC.
+
+![](https://ik.imagekit.io/dsg/RJ14_2vjNj8Mx9C.jpg)
+
+Scene chibi mode juga memiliki gerakan dinamis dengan animasi sederhananya dapat dimengerti mengapa membutuhkan kapasitas penyimpan besar selain backsound dan animasi intro yang akan dibahas selanjutnya.
+
+**Seperti Jeruk**
