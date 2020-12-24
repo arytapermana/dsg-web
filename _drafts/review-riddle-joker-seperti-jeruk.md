@@ -27,3 +27,11 @@ Satoru dan Nanami merupakan agen mata-mata rahasia ditugaskan untuk menyusup ke 
 Kualitas Yuzusotf tidak perlu diragukan lagi! Dari sisi background sendiri ia memang minim, justru dengan begitu hasil yang ditawarkan begitu mempesona termasuk common char.
 
 ![](https://ik.imagekit.io/dsg/RJ25_BB4afck52.jpg)
+
+Begitupula dengan CG apalagi, tidak dapat dipungkiri perbedaanya tidak jauh berbeda. Seperti screenshot diatas bisa terlihat ekspresi karakter begitu hidup sesuai takarir.
+
+**Size Besar Sepadan**
+
+![](https://ik.imagekit.io/dsg/RJ11_VZJ-5tp7e6y.jpg)
+
+Bisa dibilang ia menjadi salah satu game dengan ukuran terbesar dari vn lainnya kebanyakan. Size mencapai 9 GB lebih bukanlah gimmick belaka. Sebagian besar habis dari CG high render serta gerakan dinamis karakter setiap interaksinya tanpa campur tangan 3D.
