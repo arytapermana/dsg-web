@@ -17,4 +17,4 @@ berjudul "A Perfect Day" trailer berdurasi 30 detik tersebut menampilakn pesan d
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="640" height="360" src="https://www.youtube.com/embed/60VWf-Jpqu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></div></iframe>
 
-Sumire sendiri akan dirilis untuk platform Nintendo Switch dan PC via Steam, tahun 2021 mendatang.
+Sumire sendiri akan dirilis untuk platform Nintendo Switch dan PC via Steam, tahun 2021 mendatang. Tersedia versi JP dan ENG.
