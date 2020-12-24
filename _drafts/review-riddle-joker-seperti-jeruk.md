@@ -7,7 +7,7 @@ categories:
 - Review
 tags:
 - Yuzu Soft
-image: https://ik.imagekit.io/dsg/RJ10_5eiQ6hRA9nUb.jpg
+image: https://ik.imagekit.io/dsg/RJ11_VZJ-5tp7e6y.jpg
 
 ---
 www
@@ -32,7 +32,7 @@ Begitupula dengan CG apalagi, tidak dapat dipungkiri perbedaanya tidak jauh berb
 
 **Size Besar Sepadan**
 
-![](https://ik.imagekit.io/dsg/RJ11_VZJ-5tp7e6y.jpg)
+![](https://ik.imagekit.io/dsg/RJ10_5eiQ6hRA9nUb.jpg)
 
 Bisa dibilang ia menjadi salah satu game dengan ukuran terbesar dari vn lainnya kebanyakan. Size mencapai 9 GB lebih bukanlah gimmick belaka. Sebagian besar habis dari CG high render serta gerakan dinamis karakter setiap interaksinya tanpa campur tangan 3D.
 
@@ -49,3 +49,37 @@ Another view / mode perspektif untuk heroine dan karakter pendukung sudah biasa 
 Scene chibi mode juga memiliki gerakan dinamis dengan animasi sederhananya dapat dimengerti mengapa membutuhkan kapasitas penyimpan besar selain backsound dan animasi intro yang akan dibahas selanjutnya.
 
 **Seperti Jeruk**
+
+![](https://ik.imagekit.io/dsg/RJ28_U2OZjmnN7.jpg)
+
+Alasan kami memilih judul ini bukan karena dev. sendiri memiliki logo seperti jeruk, tetapi pengalamannya memang seperti jeruk. Bagaimana rasa sebuah jeruk? Manis, asam bahkan pahit jika tidak sengaja mengigit batunya.
+
+![](https://ik.imagekit.io/dsg/RJ32_sr8xpH_ux.jpg)
+
+Flowchart memberikan gambaran cabang cerita mana yang Anda ambil. Cabang akan berhenti bila sudah memasuki heroine rute. Menariknya, mode ini sangat membantu bila Anda lupa membuat save baru, ingin menuju ke rute lain tanpa harus capek menunggu skip mode. Cukup pilih scene yang memiliki cabang cerita, pilih yang lain.
+
+![](https://ik.imagekit.io/dsg/RJ22_AvyABejdX.jpg)
+
+Terlepas dari plot tentang agen klandestin, vn ini memiliki cerita dan konflik cukup ringan. Politik maupun konspirasinya bisa diterima mudah di otak, kecuali penjelasan soal role Astral terkadang membingungkan. Selain itu, Anda tetap mendapatkan momen bahagia, haru lengkap dengan ost sesuai, rasanya ya seperti jeruk.
+
+![](https://ik.imagekit.io/dsg/RJ33_Tlhe7nzHHOq.jpg)
+
+10 Chapter untuk setiap heroine masih kurang? Ada after story siap mewarnai hati kembali. Selain cerita lanjutan, ada tambahan H-scene baru jika sudah mengistall patch 18+. 
+
+**Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/RJ29_pmKFYUXRrPt_.jpg)
+
+Riddle Joker menjadi vn wajib dimaikan untuk menemani akhir tahun 2020 sembari menunggu lebih banyak lagi karya YuzuSoft menuju Pasar barat dikemudian hari. Game ini nyaris sempurna, kelemahan paling sering ditemui adalah takarir yang masih membuat ambigu meskipun sudah update patch terbaru hanya membantu beberapa persen saja.
+
+Kelebihan:
+
+* Visual memanjakan mata
+* Hazuki
+* Cerita tidak seberat dibayangkan
+* Flowchart sasaran
+* Easter egg dari karya sebelumnya
+
+Kekurangan:
+
+* Translate masih bikin ambigu meskipun sudah update
