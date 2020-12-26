@@ -5,11 +5,14 @@ title: Review Kokoro No Katachi - Hati Terhubung
 categories:
 - Visual Novel
 - Review
-tags: []
+tags:
+- Hulotte Roi
+- Kokoro No Katachi
+- JP
 image: https://ik.imagekit.io/dsg/KK25_DN6VSeuwatDQ.jpg
 
 ---
-Selamat hari raya Natal kami ucapkan. Dimana kemarin selain menjadi momen terbaik khususnya bagi umat Kristen, juga banyak vn menarik rilis berbarengan. Dev./publisher Hulotte Roi lewat karya perdannya yaitu Kokoro No Katachi akhirnya telah tiba.
+Sebelumnya, izinkan kami mengucapkan selamat hari raya Natal meskipun telat. Dimana kemarin selain menjadi momen terbaik khususnya bagi umat Kristen, juga banyak vn menarik rilis berbarengan. Dev./publisher Hulotte Roi asal Jepang, lewat karya perdannya yaitu Kokoro No Katachi akhirnya telah tiba.
 
 [Impresi trial](https://disekitargame.com/impresi-awal-kokoro-no-katachi-wholesome-heroine/) sudah kami tulis sebelumnya, sudah bisa menebak bahwa pengalaman wholesome heroine menjadi fokus utamanya. Dua hati terpisah akan terhubung, berikut ulasannya:
 
