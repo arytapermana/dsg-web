@@ -8,7 +8,6 @@ categories:
 tags:
 - Hulotte Roi
 - Kokoro No Katachi
-- JP
 image: https://ik.imagekit.io/dsg/KK25_DN6VSeuwatDQ.jpg
 
 ---
