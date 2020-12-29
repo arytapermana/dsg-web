@@ -48,4 +48,4 @@ Setting pada game juga begitu kompleks, namun sayang UI/UX terasa begitu flat. S
 
 Senkyou no Clarias menjadi salah satu game VN JRPG menarik untuk dinanti, terlepas siapa yang menulis skenario ceritanya. Tidak begitu mengherankan bila game ini ditunda,karena kontennya sendiri menarik. Harapan kami sendiri versi penuh memberikan sedikit kebebasan, khususnya pengguna machine translator karena beberapa titik tidak bisa diterjemahkan, apalagi ketika memasuki mode RPG.
 
-Versi Trial bisa Anda unduh via [situs resminya](http://products.web-giga.com/clarias/#Download). Game ini akan dirilis, 26 Februari 2021 Japan Only!
+Versi Trial bisa Anda unduh via [situs resminya](http://products.web-giga.com/clarias/#Download). Game ini akan dirilis, 26 Februari 2021 untuk PC - Japan Only!
