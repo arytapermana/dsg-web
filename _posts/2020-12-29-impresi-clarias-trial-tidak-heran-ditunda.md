@@ -4,7 +4,10 @@ author: john
 title: Impresi Clarias Trial - Tidak Heran Ditunda
 categories:
 - Impression
-tags: []
+tags:
+- Team Baldrhead
+- Giga
+- Clarias
 image: https://ik.imagekit.io/dsg/ClariasTrial_IHBIYRMSt2_AT3NdCn5MhY.jpg
 
 ---
