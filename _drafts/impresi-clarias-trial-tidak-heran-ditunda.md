@@ -43,3 +43,9 @@ Sistem open worldnya bukan eksplorasi melainkan pergi ke tempat 1 atau lainnya, 
 ![](https://ik.imagekit.io/dsg/ClariasTrial_NQFg0hLia3_0zukMIEuOu0.png)
 
 Setting pada game juga begitu kompleks, namun sayang UI/UX terasa begitu flat. Setidaknya UI lain seperti stat party mudah dipahami jika bisa berbahasa Jepang tentunya.
+
+![](https://ik.imagekit.io/dsg/ClariasTrial_OP46DXbwPp_JkZQJKLhcmj.jpg)
+
+Senkyou no Clarias menjadi salah satu game VN JRPG menarik untuk dinanti, terlepas siapa yang menulis skenario ceritanya. Tidak begitu mengherankan bila game ini ditunda,karena kontennya sendiri menarik. Harapan kami sendiri versi penuh memberikan sedikit kebebasan, khususnya pengguna machine translator karena beberapa titik tidak bisa diterjemahkan, apalagi ketika memasuki mode RPG.
+
+Versi Trial bisa Anda unduh via [situs resminya](http://products.web-giga.com/clarias/#Download). Game ini akan dirilis, 26 Februari 2021 Japan Only!
