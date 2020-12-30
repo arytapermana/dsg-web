@@ -1,7 +1,7 @@
 ---
 layout: post
 author: john
-title: Otak Dibalik NieR Tengah Garap 2 Judul Baru
+title: Otak Dibalik NieR Tengah Kembangkan 2 Judul Baru
 categories:
 - News
 tags:
