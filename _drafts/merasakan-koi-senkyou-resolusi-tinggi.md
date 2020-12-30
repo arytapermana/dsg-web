@@ -1,7 +1,7 @@
 ---
 layout: post
 author: john
-title: Merasakan Koi Senkyou Resolusi Tinggi
+title: Merasakan Sensasi Koi Senkyou Dengan Resolusi Tinggi
 categories:
 - Testing
 tags:
