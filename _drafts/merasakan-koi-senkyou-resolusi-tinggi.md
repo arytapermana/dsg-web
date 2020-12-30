@@ -28,3 +28,11 @@ Transisi scene kini tidak hanya diam saja, beberapa kali ia akan menawarkan kame
 ![](https://ik.imagekit.io/dsg/KC5_QAnrdgQBMX3Z.jpg)
 
 Serasa dubbing ulang, suara interaksi char lebih hd dan memanjakan telinga. sfx lebih terasa segar, bila Anda juga kebetulan mempunyai versi original bandingkan dengan menggunakan speaker ataupun headset mendukung akan terasa sekali perbedaan signifikannya.
+
+![](https://ik.imagekit.io/dsg/KC9_kSB89HLCiC.jpg)
+
+Background menawarkan detail tajam, saking tajamnya detail pendukung seperti siswa contohnya bisa terlihat wajahnya dengan jelas, menariknya malah desainnya lebih cantik daripada main char ataupun supporting char.
+
+![](https://ik.imagekit.io/dsg/KC13_T2dJpl6WuLe9.jpg)
+
+Koi to Senkyo to Chocolate High Resolution menjadi visual yang wajib dinikmati, apalagi tidak memainkan versi original dan hanya menontop adaptasi anime. Sayangnya, hingga saat ini belum di translate resmi, padahal melihat kesuksesan Aokana game ini juga menjual. Semoga patch translate dari fans dapat cepat diimplementasikan untuk versi ini.
