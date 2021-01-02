@@ -13,7 +13,7 @@ image: https://ik.imagekit.io/dsg/yureaka_gE2wkefGMl_02uzT1wq6.jpg
 ---
 Game ini menjadi salah satu paling diatisipasi akhir tahun kemarin. Pesona kuat dev./publisher Crystalia dan diposisikan menjadi awal dari franchise "Kirameku" tentu banyak orang tertarik, termasuk kami ada cerita gantung berusaha untuk ditambal.
 
-Impresi kami sebelumnya, menyebutkan bahwa game ini begitu manis. Namun menyelam lebih jauh, kemanisannya mulai pudar. Mengapa begitu? Berikut ulasannya:
+[Impresi kami](https://disekitargame.com/impresi-awal-yureaka-trial-sebuah-intipan-manis/) sebelumnya, menyebutkan bahwa game ini begitu manis. Namun menyelam lebih jauh, kemanisannya mulai pudar. Mengapa begitu? Berikut ulasannya:
 
 **Cerita**
 
