@@ -11,9 +11,9 @@ tags:
 image: https://ik.imagekit.io/dsg/yureaka_gE2wkefGMl_02uzT1wq6.jpg
 
 ---
-dfehue
+Game ini menjadi salah satu paling diatisipasi akhir tahun kemarin. Pesona kuat dev./publisher Crystalia dan diposisikan menjadi awal dari franchise "Kirameku" tentu banyak orang tertarik, termasuk kami ada cerita gantung berusaha untuk ditambal.
 
-ehefsfes
+Impresi kami sebelumnya, menyebutkan bahwa game ini begitu manis. Namun menyelam lebih jauh, kemanisannya mulai pudar. Mengapa begitu? Berikut ulasannya:
 
 **Cerita**
 
@@ -60,3 +60,19 @@ Rute heroine biasanya: "bertemu-jadian-eue" seperti vn lain pada umumnya. Memang
 Special scene juga tidak terlalu memberikan impactfull. Kami sebenarnya tidak terlalu mempermasalahkan karena cerita guru x murid termasuk terlarang, dan apa yang diberikan memang keputusan agak baik. Namun bila game sebelumnya dapat perlakuan baik, mengapa ini dikurangi?
 
 **Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/yureaka_lrMGEz1yvB_SlBY8qwx_PB.jpg)
+
+Akatsuki Yureru Koi Akari / Yureaka bisa dibilang proyek setengah niat. Beberapa kualitas Crystalia masih dipertahankan dengan baik, cerita yang cukup serius namun santai, dan banyak momen komedi-nya. Walaupun rocom, pengurangan konten rute heroine menjadi hal yang kurang bagi pemain hidung belang, tanpa konten 18+ pun tidak begitu emosional.
+
+**Kelebihan:**
+
+* Penuh aksi
+* Visualisasi masih khas
+* Cerita Serius tetapi santai
+* Setsugekka
+
+**Kekurangan:**
+
+* Rute heroine tidak semenarik common
+* Sekadar jualan fan-service menjelang akhir permainan
