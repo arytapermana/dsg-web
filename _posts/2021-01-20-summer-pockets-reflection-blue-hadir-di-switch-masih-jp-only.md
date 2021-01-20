@@ -18,4 +18,4 @@ div class="embed-responsive embed-responsive-16by9"><iframe width="625" height="
 
 Summer Pockets: Reflection Blue Switch Edition akan tersedia via E-shop musim panas mendatang dengan harga kisaran 8000 yen (Rp. 1,08 jt). Jika kebetulan memiliki versi original, pemain cukup membayar dengan harga 3000 yen (Rp. 406rb). Apakah menurut Anda pantas untuk dibeli?
 
-Source : [Gemats](https://www.gematsu.com/2021/01/summer-pockets-reflection-blue-coming-to-switch-this-summer-in-japan)
+Source : [Gematsu](https://www.gematsu.com/2021/01/summer-pockets-reflection-blue-coming-to-switch-this-summer-in-japan)
