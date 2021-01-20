@@ -10,7 +10,7 @@ tags:
 image: https://ik.imagekit.io/dsg/Summer_Pocket_lxRLDsIuD.jpg
 
 ---
-Sudah membuat banyak pemain meneteskan air mata, seri Reflection Blue malah menambah luka lebih baru. Meskipun saat ini masih dirilis untuk JP, tetapi banyak yang sudah memainkan entah memiliki skill bahasa Jepang tinggi maupun menggunakan machine translator. Agar bisa dinikmati di mana saja, versi handheld dipersiapkan.
+Sudah membuat banyak pemain meneteskan air mata, seri Reflection Blue malah menambah luka lebih baru. Meskipun saat ini masih dirilis untuk JP, tetapi banyak yang sudah memainkan entah memiliki skill bahasa Jepang tinggi maupun menggunakan machine translator. Agar bisa dinikmati di mana saja, versi handheld dipersiapkan oleh Key developer sekaligus publisher.
 
 Reflection Blue merupakan versi tambahan dari versi original, dimana memuat rute lanjutan dari heroine Umi Katou, Miki Nomura, dan Shizuku Mizuori; rute baru untuk Shiki Kamiyama dan beberapa penambahan gameplay lainnya.
 
