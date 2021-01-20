@@ -14,7 +14,7 @@ Sudah membuat banyak pemain meneteskan air mata, seri Reflection Blue malah mena
 
 Reflection Blue merupakan versi tambahan dari versi original, dimana memuat rute lanjutan dari heroine Umi Katou, Miki Nomura, dan Shizuku Mizuori; rute baru untuk Shiki Kamiyama dan beberapa penambahan gameplay lainnya.
 
-div class="embed-responsive embed-responsive-16by9"><iframe width="625" height="352" src="https://www.youtube.com/embed/6mVO6VRT_7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="625" height="352" src="https://www.youtube.com/embed/6mVO6VRT_7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><div>
 
 Summer Pockets: Reflection Blue Switch Edition akan tersedia via E-shop musim panas mendatang dengan harga kisaran 8000 yen (Rp. 1,08 jt). Jika kebetulan memiliki versi original, pemain cukup membayar dengan harga 3000 yen (Rp. 406rb). Apakah menurut Anda pantas untuk dibeli?
 
