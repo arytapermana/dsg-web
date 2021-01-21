@@ -14,7 +14,7 @@ Salah satu game genre survival-horror paling dinanti yaitu Resident Evil 8: Vill
 
 Informasi datang dari live-stream spesial mereka beberapa jam lalu, bahwa game ini tetap untuk konsol current-gen dan dirilis berbarengan dengan versi next-gen dan PC. Pre-order juga telah dibuka.
 
-Game ini mengambil latar beberapa tahun setelah event RE7 dimana Ethan dan Mia hidup rukun. Suatu hari ia harus terlibat lagi dengan pengalaman horror di sebuah pedesaan dingin terpencil.
+Game ini mengambil latar beberapa tahun setelah event RE7 dimana Ethan dan Mia hidup damai. Suatu hari ia harus terlibat lagi dengan pengalaman horror di sebuah pedesaan dingin terpencil.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//LG-u73YG9xw' frameborder='0' allowfullscreen></iframe></div>
 
