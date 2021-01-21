@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: disekitargame.com
+Token: b25ae5f1881f6d5a7002f835e9cea92c3d58806023be746d483ca7d6017d4b2e
