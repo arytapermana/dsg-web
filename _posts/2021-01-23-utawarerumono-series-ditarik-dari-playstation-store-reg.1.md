@@ -6,7 +6,7 @@ categories:
 - News
 tags:
 - Atlus
-image: https://ik.imagekit.io/dsg/Utawarerumono_AEQzhrUCyVj.jpg
+image: https://ik.imagekit.io/dsg/Utawarerumono_Mask_of_Truth_Krac9CWwb.jpg
 
 ---
 Merilis untuk pasar lain adalah kesepakatan pihak pengembang dan penerbit. Dimana ada yang bersifat mutlak dan sementara hingga kontrak berakhir. Game visual novel Utawarerumono series akan ditarik dari PlayStation Network untuk pasar Barat.
