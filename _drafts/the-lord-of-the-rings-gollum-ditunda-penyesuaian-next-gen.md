@@ -16,3 +16,5 @@ Awalnya game ini akan dirilis tahun ini dan mereka juga yang akan menjadi publis
 Sesuai namanya cerita akan berfokus pada sosok karakter Gollum dikarang oleh J.R.R. Tolkien. Namanya sempat disebut di beberapa karya, namun kini akan dieksplorasi lebih lanjut yang awalnya hanyalah seorang budak.
 
 The Lord of the Rings: Gollum akan dirilis untuk platform PlayStation 4, PlayStation 5, Xbox One, Xbox X, Switch, dan PC via [Steam](https://store.steampowered.com/app/1265780/The_Lord_of_the_Rings_Gollum/) tahun 2021. Nacon akan menjadi publisher kedua untuk game ini.
+
+Source : [Gematsu](https://www.gematsu.com/2021/01/the-lord-of-the-rings-gollum-delayed-to-2022-nacon-to-co-publish)
