@@ -33,3 +33,7 @@ Karena bersifat trial, beberapa momen tidak dijelaskan secara rinci. Ini lebih m
 Rute heroine masih tetap memberikan opsi mau mengambil keputusan apa, sayangnya ia terlalu signifikan mengingat trial hanya menjadi berbeda isi percakapannya saja.
 
 ![](https://ik.imagekit.io/dsg/_________n590CLdZMY_cVnapgb1pVF.jpg)
+
+Waga Himegimi ni Eikan o Trial 2 memberikan kesempatan melihat potensi heroine yang diberikan, sebagaimana menariknya nanti bila menuju ke masing-masing rute. Sayangnya ia tidak memberikan intipan mengenai scene 18+ walaupun ada beberapa CG Ecchi.
+
+Bila Anda ingin menikmati trial kedua ini bisa menuju [laman resminya](http://minatosoft.com/wagahime/special/trial.html#Trial02), dengan size sekitar 600 MB.
