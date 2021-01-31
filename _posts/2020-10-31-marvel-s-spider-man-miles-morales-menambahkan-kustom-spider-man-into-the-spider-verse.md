@@ -1,17 +1,18 @@
 ---
-layout: post
-author: sal
 title: 'Marvel’s Spider-Man: Miles Morales Menambahkan Kustom Spider-Man: Into the
   Spider-Verse'
+date: 2020-10-31 00:00:00 Z
 categories:
 - News
 tags:
 - PlayStation 5
 - Spider-Man
 - Marvel
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/spmml_k9lqVRcXz.jpg
-
 ---
+
 Tidak lama lagi peluncuran konsol next-gen dari PlayStation dan juga game yang cukup ditunggu-tunggu Marvel’s Spider-Man: Miles Morales yang juga hadir di PlayStation 5, mengumumkan konten barunya yaitu kustom Spider-Man: Into the Spider-Verse.
 
 Bukan hanya kustom tetapi akan ada gaya yang cukup identik dengan salah satu animasi Sony Interactive Entertainment ini, dari gerakan dengan efek low visual frequency (bisa dimatikan jika tidak suka), hingga cara berayun yang tipikal.

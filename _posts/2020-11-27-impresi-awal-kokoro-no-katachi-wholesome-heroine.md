@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Impresi Awal Kokoro No Katachi Trial - Wholesome Heroine
+date: 2020-11-27 00:00:00 Z
 categories:
 - Visual Novel
 - Impression
 tags:
 - Kokoro No Katachi
 - Hulotte Roi
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/screenshot_20201126185605_AhiJFZBJ6PZv.jpg
-
 ---
+
 Semakin banyak developer game baru terjun ke industri langsung menghadirkan karya begitu dicintai. Hulotte Roi dev. sekaligus publisher vn asal Jepang ini baru saja melepas trial game perdana mereka - Kokoro No Katachi.
 
 Impresi awal dari vn ini adalah visual heroine-nya yang begitu mempesona. Namun ketika membaca plot-nya ada seseuatu yang lebih menakjubkan menanti.

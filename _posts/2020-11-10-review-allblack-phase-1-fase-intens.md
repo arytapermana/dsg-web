@@ -1,17 +1,18 @@
 ---
-layout: post
-author: john
 title: Review ALLBLACK Phase 1 - Fase Intens
+date: 2020-11-10 00:00:00 Z
 categories:
 - Visual Novel
 - Review
 tags:
 - ALLBLACK
 - NSAID
+layout: post
+author: john
 rating: 
 image: https://ik.imagekit.io/dsg/AB13_hfa7kOPR5v.jpg
-
 ---
+
 Perkembangan visual novel cukup pesat membuat beberapa orang tertarik mengembangan game secara indie. Tidak selamanya semua bisa terpenuhi, penggunaan asset terbuka dimanfaatkan dengan baik untuk menunjang hasil pemikiran para pengembang.
 
 ALLBLACK Phase 1 dikembangkan oleh NSAID dev. indie Indonesia ini hadir dengan cukup menjanjikan berkat desain visual begitu menarik. Kami sendiri menemukan game ini dari salah satu friendlist membagikannya di timeline. Jadi se-intens apa vn ini? Berikut ulasannya.

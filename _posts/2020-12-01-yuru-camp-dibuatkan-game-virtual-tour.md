@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: Yuru Camp Dibuatkan Game Virtual Tour
+date: 2020-12-01 00:00:00 Z
 categories:
 - News
 tags:
 - Yuru Camp
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Yuru_Camp_Virtual_2xFhIHfmtx5.jpg
-
 ---
+
 Hype musim kedua dari anime tentang perkemahan — Yuru Camp berdasarkan adapatasi manga karya Afro ini tidak dapat dibendung lagi. Sembari menunggu kedatangannya, sebuah proyek game dari seri tersebut dibuat berupa virtual tour.
 
 Ditangani oleh Gemsdrop proyek game Yuru Camp akan dibagi menjadi dua judul yaitu Laid-Back Camp -Virtual- Lake Motosu dan Laid-Back Camp -Virtual- Fumoto Campsite. Trailer perdannya yaitu vol. 1 memperlihatkan Nandeshiko bersama Rin.

@@ -1,14 +1,15 @@
 ---
-layout: post
-author: sal
 title: Tampilan Pertama Tom Holland Sebagai Nathan Drake Pada Uncharted Movie
+date: 2020-10-22 00:00:00 Z
 categories:
 - News
 tags:
 - Movie
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/tom-holland-uncharted_n8b2IWNl6.jpg
-
 ---
+
 Rumor yang beredar sebelumnya atau bisa dikatakan sudah cukup lama bahwa Tom Holland atau biasa banyak yang mengenal sebagai aktor Spiderman pada seri layar lebar Marvel terbaru belakangan ini, akan menjadi aktor dari Uncharted movie dan hal itu benar.
 
 Informasi yang dilansir dari [Game Informer](https://www.gameinformer.com/2020/10/22/first-look-at-tom-holland-as-nathan-drake-in-uncharted-movie-nolan-north-approved), Nolan North yaitu seseorang yang banyak berperan di dunia game, terutama Nathan Drake, menyampaikan tweet yang berisi "Proud to have Tom Holland continuing the Drake legacy! Absolutely smashing it!" serta memberikan 3 foto termasuk foto North yang melakukan meeting dengan Holland.

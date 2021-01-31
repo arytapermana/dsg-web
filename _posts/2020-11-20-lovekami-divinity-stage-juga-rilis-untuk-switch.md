@@ -1,17 +1,18 @@
 ---
-layout: post
-author: john
 title: LoveKami -Divinity Stage- Juga Rilis Untuk Switch
+date: 2020-11-20 00:00:00 Z
 categories:
 - News
 tags:
 - MoeNovel
 - Pulltop
 - LoveKami
+layout: post
+author: john
 rating: 
 image: https://ik.imagekit.io/dsg/LoveKami_I8D_P0wjD8oj.jpg
-
 ---
+
 Konsol Handheld Switch memiliki pasar tersendiri dalam persaingan video game. Kemudahan memaikan dimana saja, kapan saja menjadikan konsol ini tidak ada lawan hingga saat ini. Apalagi jika digunakan untuk membaca sebuah visual novel sambil rebahan itu menenangkan. Sesautu yang akan dihadirkan oleh publisher MoeNovel merilis salah satu game karya developer Pulltop — LoveKami -Divinity Stage-.
 
 Game ini pertamakali dirilis untuk PC via Steam, 2016 lalu ini mengisahkan tentang para dewi yang turun kedunia menerapkan budaya Divine Idol, nama panggung dewi tersebut adalah L☆SEVEN.

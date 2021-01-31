@@ -1,13 +1,13 @@
 ---
-layout: post
-author: sal
 title: Bagaimana Suara Pada Game Bekerja?
+date: 2020-10-20 00:00:00 Z
 categories:
 - Info
-tags: []
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/Thumbnail-3-1024x576_aPz__dpvN.jpg
-
 ---
+
 Kita bermain game, waktu demi waktu, tapi tahukah kalian bagaimana semua itu bekerja, semua yang tampil di layar monitor PC yang kita gunakan, maksud saya adalah bukan bagaimana cara bekerja semuanya, Tapi lebih spesifik, yaitu suara atau bisa disebut sound, yaitu sound effect yang ada di game, baik itu sound effect, background music, bahkan desain seni musik yang digunakan, yang dimaksud desain seni musik adalah contohnya bagaimana sebuah background musik pada game berubah ubah setiap waktu ketika kita memainkannya, dari adegan intense berubah menjadi musik intense atau ketika adegan yang tidak begitu memerlukan energi musik berjalan santai. Masih banyak lagi contoh lainnya, jadi marik kita mulai!
 
 <figure class="video_container">

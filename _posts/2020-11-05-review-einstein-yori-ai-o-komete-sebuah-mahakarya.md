@@ -1,17 +1,18 @@
 ---
-layout: post
-author: john
 title: Review Einstein Yori Ai o Komete — Hati Tertusuk Tusuk
+date: 2020-11-05 00:00:00 Z
 categories:
 - Visual Novel
 - Review
 tags:
 - GLOVETY
 - Einstein Yori Ai o Komete
+layout: post
+author: john
 rating: 
 image: https://ik.imagekit.io/dsg/Einz_15_51oN0kZJyU.jpg
-
 ---
+
 Spoiler dimana-mana? Selamat Anda baru saja melihat game terbaru dari developer game GLOVETY - Einstein Yori Ai o Komete. Menjadi anak perusahaan dari Visual Arts seperti yang sudah dipastikan beberapa staff terkenal akan terlibat pada game ini.
 
 Einstein Yori Ai o Komete sendiri menawarkan pengalaman serupa dari apa yang "VA" sering lakukan, mulai dari cerita, visual, hingga musik romansa kentara. Ceritanya sendiri akan siap membuat hati terasa ditusuk-tusuk. Mengapa begitu? Berikut ulasannya:

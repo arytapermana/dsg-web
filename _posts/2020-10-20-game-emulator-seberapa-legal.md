@@ -1,14 +1,15 @@
 ---
-layout: post
-author: sal
 title: Game Emulator, Seberapa Legal?
+date: 2020-10-20 00:00:00 Z
 categories:
 - Info
 tags:
 - Emulator
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/emulator_nZmsD2HTO8.jpg
-
 ---
+
 Mungkin tidak banyak yang mempemasalahkan ini karena cukup banyak orang yang lebih berfokus pada memainkan gamenya sehingga tidak begitu perlu diketahui bagi beberapa orang, namun tidak sedikit orang juga yang memperhitungkan hal seperti ini seperti beberapa waktu lalu salah satu user menanyakannya pada pada lingkup YouTube kami mengenai Game Emulator, “legal ngga sih?”, mari kita bahas lebih mendalam lagi menurut beberapa perspective yang berbeda.
 
 ## Game Emulator tidak masalah tetapi bukan berarti legal juga

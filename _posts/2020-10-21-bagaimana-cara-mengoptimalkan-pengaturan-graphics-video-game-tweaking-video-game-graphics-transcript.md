@@ -1,13 +1,15 @@
 ---
+title: Mengoptimalkan Pengaturan Graphics Video Game [Transcript]
+date: 2020-10-21 00:00:00 Z
+categories:
+- Info
+tags:
+- Transcript
 layout: post
 author: sal
-title: Mengoptimalkan Pengaturan Graphics Video Game [Transcript]
 image: https://ik.imagekit.io/dsg/thumbnail_2o-Ao4hRRN.jpg
-categories:
-  - Info
-tags:
-  - Transcript
 ---
+
 Dalam memainkan game, kita mungkin tidak selalu nyaman dengan pengaturan default grafik game yang telah digunakan sebelumnya, terkadang laggy, bahkan terasa kurang maksimal. tweaking adalah salah satu cara yang digunakan untuk mengoptimalkan grafik game agar lebih baik, yaitu dengan cara mengutak - atik pengaturannya, jadi mari kita simak lebih jauh mengenai hal yang dibahas sebelumnya pada video berikut.
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8xNkxGg8LHs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

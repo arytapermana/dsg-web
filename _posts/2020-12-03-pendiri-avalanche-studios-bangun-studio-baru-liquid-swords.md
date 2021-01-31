@@ -1,12 +1,11 @@
 ---
+title: Pendiri Avalanche Studios Bangun Studio Baru — Liquid Swords
+date: 2020-12-03 00:00:00 Z
 layout: post
 author: john
-title: Pendiri Avalanche Studios Bangun Studio Baru — Liquid Swords
-categories: []
-tags: []
 image: https://ik.imagekit.io/dsg/Just_Cause_4_lSqOIpBqUwe.jpg
-
 ---
+
 Dalam mengembangkan sebuah video game lebih jauh terkadang studio inti saja tidak cukup untuk menanganinya, apalagi jika meracik hal baru dari citarasa yang dibangun cukup lama. Mendirikan studio baru untuk visi berfokus pada karya lain adalah opsi terbaik.
 
 Avalanche Studios dikenal dengan project Just Creator, founder sekaligus original creator - Christofer Sundberg mengumumkan bahwa pihaknya telah membangun studio pengembang baru bernama Liquid Swords. Berlokasi di Stockholm, Swedia studio ini berfokus dalam pengembangan game action open-world, explosions, shareable experiences, dan memorable game moments untuk platform next-gen, stream game, dan tentu saja PC.

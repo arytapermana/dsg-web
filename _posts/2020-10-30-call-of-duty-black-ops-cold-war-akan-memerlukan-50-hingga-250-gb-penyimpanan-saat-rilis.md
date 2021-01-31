@@ -1,17 +1,18 @@
 ---
-layout: post
-author: sal
 title: 'Call of Duty: Black Ops Cold War Memerlukan 50 Hingga 250 GB Penyimpanan Saat
   Rilis'
+date: 2020-10-30 00:00:00 Z
 categories:
 - News
 tags:
 - System Requirement
 - PC
 - Call of Duty
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/BOCW-PC-Trailer-014_4f_3Fhl89H.jpg
-
 ---
+
 Sepertinya anda akan perlu menghapus seri Call of Duty sebelumnya dikarenakan seri Call of Duty: Black Ops Cold War sangat haus penyimpanan.
 
 Tidak heran lagi game tahunan satu ini dari tahun ke tahun selalu mengalami pembengkakan ukuran data dari gamenya, bukan lagi haus dari segi performa sistem, tetapi penyimpanan juga.

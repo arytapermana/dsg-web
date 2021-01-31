@@ -1,13 +1,13 @@
 ---
-layout: post
-author: sal
 title: Apa Itu Ping? – Cara Mengatasi Lag Pada Game Online
+date: 2020-10-20 00:00:00 Z
 categories:
 - Info
-tags: []
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/ping_CVQIb7STH.jpg
-
 ---
+
 Mungkin tidak sedikit orang telah mengetahui apa itu ping, yaitu sebuah bilangan yang memberikan informasi seberapa baik koneksi dengan mengindikasikan seberapa realtime sebuah data diterima, tetapi jika dari teknisnya ping adalah sebuah signal yang dikirim ke host dimana mengharapkan respon, dan dengan hal tersebut, tujuannya adalah untuk mengetahui apakah host yang dikirimkan signal tersedia atau tidak, maupun digunakan untuk mengecek seberapa lama respon yang diterima antara host dan client.
 
 ![](https://ik.imagekit.io/dsg/ping-cmd_FFR78Zd7H.jpg)

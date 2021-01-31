@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: Netflix Anime Tomb Raider Reboot Tengah Dibuat?
+date: 2021-01-27 00:00:00 Z
 categories:
 - News
 tags:
 - Tomb Raider
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Rises_2wsr0ckZrqX.jpg
-
 ---
+
 Salah satu video game dengan reboot terbaik ini memang sudah selesai dari segi cerita dalam bentuk trilogi. Meskipun banyak juga yang kurang menyukai ending yang ditawarkan, tetapi melihat Lara Croft rasa modern begitu memanjakan mata.
 
 Tidak diduga-duga, Netflix mengumumkan proyek anime digarap oleh Legendary Entertainment. Cerita akan berada diantara trilogi tersebut, entah prekuel maupun sekuel.

@@ -1,14 +1,14 @@
 ---
-layout: post
-author: john
 title: Kimi Ga Nozomu Eien Versi Inggris Tengah Dikerjakan
+date: 2020-10-24 00:00:00 Z
 categories:
 - News
 - Visual Novel
-tags: []
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Kimi_Ga_Nozomu_MCwC6rhPY4D.jpg
-
 ---
+
 Apa yang membedakan nuasa klasik dengan modern dari industri khusunya visual novel? Yup, detail karakter anime-nya sendiri. Ciri khas era 90-an sampai awal 20-an desainnya tidak berubah. Apalagi tidak sedikit pula developer ingin merilis ulang karya terbaiknya dimasa lalu ke pemain modern. Salah satunya, _Kimi Ga Nozomu Eien_ aka _KimiNozo._
 
 Gamenya sendiri pertama kali dirilis untuk Jepang tahun 2001 dengan review begitu positif, juga mendapatkan adaptasi anime. Age sebagai sang developer dan publisher sendiri memiliki rencana merilis versi Inggris dari 4 game mereka sebelumnya, dan KimiNozo mendapatkan suara terbanyak.

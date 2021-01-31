@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Review Hibikino - Tidak Hanya Berjualan
+date: 2020-12-02 00:00:00 Z
 categories:
 - Visual Novel
 - Review
 tags:
 - Sonora
 - Hibikino-san
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/screenshot_20201202111054_4L7hIVylb5Mq.png
-
 ---
+
 Sejak berakhirnya bulan November, dimana industri VN Jepang secara berbarengan merilis game-nya ke pasaran. Sulitnya lagi, banyak yang menarik dilepas menjadi pilihan sulit apalagi jika membicarakan soal keuangan. Game Hibikino-san-chi wa Eroge-ya-san! garapan dev. sekaligus publisher Sonora akhirnya dirilis.
 
 [Versi impresi dari trial kemarin sudah kami buat sebelumnya](https://disekitargame.com/impresi-awal-hibikinosan-trial-memahami-industri-vn-bekerja/), dimana versi penuh kali ini membawakan banyak kejutan terutama dari sisi cerita. Tetapi masih sama hanya tersedia versi Jepang saja. Seberapa signifikan? Berikut ulasannya.

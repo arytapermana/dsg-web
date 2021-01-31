@@ -1,7 +1,6 @@
 ---
-layout: post
-author: john
 title: Saviors of Sapphire Wings Perlihatkan Gameplay, Rilis Tahun 2021
+date: 2020-11-04 00:00:00 Z
 categories:
 - Game
 - News
@@ -9,9 +8,11 @@ tags:
 - NIS America
 - Saviors of Sapphire Wings
 - JRPG
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Saviors_of_Sapphire_Wings_4yfZjS2Qbe.jpg
-
 ---
+
 JRPG Anime menjadi salah satu alasan mengapa game yang mengusung sistem gameplay turn-base masih hidup hingga saat ini. Dengan tema khas yaitu kepahlawanan dan persahabatan (party), hampir sebagian besar menggunakan formula ini. Formula yang sama ditawarkan dari game Saviors of Sapphire Wings.
 
 Publisher "Nippon Ichi Software (NIS) America" merilis sebuah video baru, dimana memperkenalkan apa saja fitur gameplay yang tersedia di game ini. Pemain akan dibawa berpetualangan dan menghadapi kerasnya dungeon lengkap dengan musuh beragam, bagaimana pemain harus mengatur strategi kemenangan.

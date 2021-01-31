@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Review Hokejo - Pawang Jiwa
+date: 2020-12-01 00:00:00 Z
 categories:
 - Review
 tags:
 - Hokejo
 - Citrus
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Hokejo_20_iFMvufnbjsE9.jpg
-
 ---
+
 Akhir November kemarin menjadi hari-hari yang begitu panas. Pasalnya banyak vn rilis berbarengan saat itu, menarik hingga bingung untuk menjajalnya meskipun kebanyakan adalah versi RAW (Japanese).  Salah satunya adalah Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu garapan dev./publisher Citrus.
 
 Impresi awal kami tuliskan via [DisekitarAnime](https://disekitaranime.life/impresi-awal-hokejo-trial-terlirik-untuk-sekelas-trial/) sebelum web ini aktif. Apa yang ditawarkan dari sisi cerita cukup memancing rasa penasaran, meskipun sebagian besar setuju bahwa alasan meliriknya adalah desain heroine loli-nya. jadi mengapa judul review kali ini adalah "Pawang Jiwa"? Berikut ulasannya.

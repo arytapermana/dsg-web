@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: 'Wanting Wings: Her and Her Romance Rilis November'
+date: 2020-10-31 00:00:00 Z
 categories:
 - Visual Novel
 - News
 tags:
 - MangaGamer
 - Wanting Wings
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Wanting_Wings_lmXoumgkk1.jpg
-
 ---
+
 Mendekati bulan November berdarah, banyak game menarik yang dapat membuat dompet menjerit keras. Tidak hanya AAA saja, VN versi Barat aka English Version juga banyak salah satunya Wanting Wings: Her and Her Romance yang siap meramaikan "Bloody November".
 
 Memiliki judul asli "Kimihane: Kanojo to Kanojo no Koi Suru", vn Yuri garapan developer BaseSon Light - Wanting Wings: Her and Her Romance merupakan gabungan 2 seri tersebut yaitu Ikkagetsu dan Nikagetsu Chotto\~. Versi English akan ditangani oleh publisher MangaGamer.

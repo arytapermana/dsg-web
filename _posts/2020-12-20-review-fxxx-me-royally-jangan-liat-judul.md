@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Review Fxxx Me Royally!! - Jangan Liat Judul
+date: 2020-12-20 00:00:00 Z
 categories:
 - Visual Novel
 - Review
 tags:
 - Fxxx
 - MangaGamer
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/PH14_3IahzJteO_t.jpg
-
 ---
+
 Otome video game berbasis cerita yang ditargetkan untuk para wanita, tentu pemain akan berperan sebagai karakter wanita. Ia memang tidak sebanyak vn dengan pria sebagai protagonis, namun tidak sedikit pula Otome yang menawarkan pengalaman menarik, bahkan nyaman dimainkan untuk gamer pria.
 
 Ohime-sama datte XXX Shitai!! VN yang dirilis pertama kali untuk pasar Jepang 2018 lalu, kini versi Eng sudah hadir dibawah naungan publisher MangaGamer. Dari judul saja sudah bisa menebak ini akan menawarkan apa. Tetapi jangan liat judul saja! Mengapa begitu? Berikut ulasannya:

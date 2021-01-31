@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Majikoi! Versi Barat Rilis Musim Dingin Mendatang
+date: 2020-11-06 00:00:00 Z
 categories:
 - Visual Novel
 - News
 tags:
 - JAST USA
 - Majikoi!
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Majikoi_Opening_VEAFpPou7V.jpg
-
 ---
+
 Sudah mendapatkan patch dan adaptasi anime, franchise Majikoi! ini sepertinya akan dibawa lebih jauh untuk fans terutama untuk pasar Barat atau tidak terlalu fasih berbasa Inggris.
 
 JAST USA akan menjadi publisher dari game garapan Minato Soft yang eksis 2009 lalu. Tidak ada perubahan signifikan selain takarir, visual masih mengusung aspek rasio 4:3. Sebuah teaser pengumuman dirilis menggunakan footage adaptasi anime-nya.

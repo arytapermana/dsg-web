@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: Mengenal Supersampling Pada Video Game
+date: 2020-10-20 00:00:00 Z
 categories:
 - Info
 tags:
 - Setting Game
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Supersampling-1024x576_nF0HIuAY8.jpg
-
 ---
+
 Pernahkah Anda melihat sebuah video game berjalan di-resolusi seperti 1920x1080p terlihat lebih tajam halus? Yap, itu adalah fitur supersampling. Supersampling sendiri merupakan bagian dari Anti-Aliassing dimana fungsinya menghapus efek bergerigi pada video game. Untuk video tentang anti-aliasing sudah kami bahas dan disini akan lebih spesifik membahas tentang SSAA (Supersampling Anti-aliasing).
 
 <figure class="video_container">

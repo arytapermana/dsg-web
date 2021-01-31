@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Sumire Lepas Trailer Baru, Rilis Tahun 2021
+date: 2020-12-24 00:00:00 Z
 categories:
 - Switch
 - PC
 - News
 tags:
 - Sumire
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Sumire_New_Trailer_MObXgNOAY.jpg
-
 ---
+
 Cerita naratif dalam video game, tanpa dialog sekalipun dapat menjelaskan maknanya sekompleks apapun ceritanya. Pendekatan seperti ini akan dibawakan dari game "Sumire" dari dev/publisher gameTomo.
 
 berjudul "A Perfect Day" trailer berdurasi 30 detik tersebut menampilakn pesan diiringi dengan ost begitu emosional.

@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: 'The Lord of the Rings: Gollum Ditunda, Penyesuaian Next-Gen'
+date: 2021-01-26 00:00:00 Z
 categories:
 - News
 tags:
 - The Lord of the Rings
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Lord_of_The_Ring_xDsK4gNj6iV.jpg
-
 ---
+
 Konsol next-gen yang sudah ada didepan mata membuka para developer untuk mengembangkan game mereka jauh dari limitasi current-gen. Tentu saja, akan memakan waktu apalagi untuk banyak platform. The Lord of the Rings: Gollum seri terbaru dari garapan developer Daedalic Entertainment.
 
 Awalnya game ini akan dirilis tahun ini dan mereka juga yang akan menjadi publisher, tetapi ditunda karena tim perlu menyesuaikan potensi next-gen dengan harapan dapat memenuhi ekspetasi fans LOTR baik dari game sebelumnya maupun film.
