@@ -5,6 +5,8 @@ categories:
 - News
 tags:
 - ReZero
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Re_Zero_Prophecy_Opening_7M29p5N6n_.jpg
 ---
 
