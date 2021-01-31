@@ -1,15 +1,14 @@
 ---
-layout: post
-author: john
 title: Menjelang Rilis, Opening Re:ZERO The Prophecy Dilepas
+date: 2021-01-21 00:00:00 Z
 categories:
 - News
 tags:
 - ReZero
 image: https://ik.imagekit.io/dsg/Re_Zero_Prophecy_Opening_7M29p5N6n_.jpg
-
 ---
-Versi anime part 2 tengah bersaing keras, dimana banyak franchise kuat untuk musim ini. Sementara adaptasi game tidak terlalu bentrok dengan judul lain. Membangun momentum sebelum rilis perdana, opening dari Re:ZERO – Starting Life in Another World: The Prophecy of the Throne dilepas. 
+
+Versi anime part 2 tengah bersaing keras, dimana banyak franchise kuat untuk musim ini. Sementara adaptasi game tidak terlalu bentrok dengan judul lain. Membangun momentum sebelum rilis perdana, opening dari Re:ZERO – Starting Life in Another World: The Prophecy of the Throne dilepas.
 
 Dikembangkan oleh Chime Corporation dan publikasi oleh Spike Chunsoft, game ini merupakan game cerita baru franchise Re:Zero dari kreator utama Tappei Nagatsuki dan Ilustrator Shinichirou Otsuka. Versi game mengambil kisah 1 bulan sejak Subaru hidup di dunia lain, ia harus terlibat konflik perebutan tahta selanjutnya dari 5 kandidat utama. Sebuah ramalan mengatakan bahwa kandidat misterius ke-6 akan mengacau dan merebut paksa kekosongan tersebut.
 

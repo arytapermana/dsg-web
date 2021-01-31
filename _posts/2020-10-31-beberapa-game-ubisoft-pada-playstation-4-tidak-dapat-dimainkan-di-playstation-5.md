@@ -1,16 +1,17 @@
 ---
-layout: post
-author: sal
 title: Beberapa Game Ubisoft Pada PlayStation 4 Tidak Dapat Dimainkan di PlayStation
   5
+date: 2020-10-31 00:00:00 Z
 categories:
 - News
 tags:
 - Compatible
 - Ubisoft
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/nQ9PyNGD7z_rsBy3yGpNa.jpg
-
 ---
+
 Beberapa game Ubisoft akan tidak dapat dimainkan pada konsol generasi terbaru dari Sony yaitu PlayStation 5, seperti Assassin’s Creed Syndicate yang cukup aneh karena game tersebut dapat dikatakan masih cukup baru.
 
 Ubisoft tidak memberikan detailnya kenapa beberapa game tidak dapat dimainkan pada konsol next-gen tersebut, untuk list game tersebut berikut.

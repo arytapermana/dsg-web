@@ -1,12 +1,13 @@
 ---
+title: Apa Itu Save Game? – Bagaimana Game Menyimpan Progresnya
+date: 2020-10-20 00:00:00 Z
+categories:
+- Info
 layout: post
 author: sal
-title: Apa Itu Save Game? – Bagaimana Game Menyimpan Progresnya
 image: https://ik.imagekit.io/dsg/Thumbnail-1-1024x576_xDAcGLsugW.jpg
-categories:
-  - Info
-tags: []
 ---
+
 Ini benar benar _familiar_ bagi kalian, yup kalian para _gamer_ yang melakukan [Save Game](https://youtu.be/y_NaAor4mJ4) pada _game_ yang kalian mainkan. [Save Game](https://youtu.be/y_NaAor4mJ4) adalah sebuah data yang disimpan pada _game_ kalian atau lebih teknisnya bisa dikatakan sebuah bagian informasi digital yang disimpan mengenai kemajuan dalam bermain _game_.
 
 pada awal perkembangan _game_, [Save Game](https://youtu.be/y_NaAor4mJ4) pada game sebenarnya tidak dibutuhkan karena _game_ saat itu rata rata memiliki durasi yang pendek , tapi ketika awal perkembangan PC alias personal komputer dan berbagai _console_ game muncul di pasaran, [Save Game](https://youtu.be/y_NaAor4mJ4) mulai digunakan dan sudah diterapkan, contohnya Space Invaders menggunakan [Save Game](https://youtu.be/y_NaAor4mJ4) untuk menyimpan data _highscore_, sampai sistem [Save Game](https://youtu.be/y_NaAor4mJ4) dengan _password_, seingat kami _game_ yang menggunakan ini contohnya adalah Rumble Racing pada _console_ Playstation 1 walaupun saat itu Playstation 1 sudah menggunakan _memory card_.

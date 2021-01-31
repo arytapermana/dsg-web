@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Review Riddle Joker - Seperti Jeruk
+date: 2020-12-24 00:00:00 Z
 categories:
 - Visual Novel
 - Review
 tags:
 - NekoNyan
 - Yuzu Soft
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/RJ11_VZJ-5tp7e6y.jpg
-
 ---
+
 Oke untuk visual novel satu ini sepertinya tidak mengherankan menjadi perbincangan hangat bahkan hype-nya masih hingga saat ini. Apalagi rilis tidak terlalu bentrok dengan game lain menjadikannya tanpa pesaing dari minggu tersebut, walaupun harga ya bisa dibilang sepadan juga.
 
 Lahir dari tangan dingin Yuzusoft untuk pasar Jepang, 2018 lalu menerima review baik dari para kritikus. Dimana versi ENG-nya seperti jeruk. Mengapa? Berikut ulasannya:

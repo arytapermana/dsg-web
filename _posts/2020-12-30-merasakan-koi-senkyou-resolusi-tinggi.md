@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: Merasakan Sensasi Koi Senkyou Dengan Resolusi Tinggi
+date: 2020-12-30 00:00:00 Z
 categories:
 - Testing
 tags:
 - Koi Senkyou
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/KC1_B7qg2Fn6GA.jpg
-
 ---
+
 Sprite kini mulai bangkit kembali berkat kesuksesan penjualan Aokana termasuk EX-1 membuat mereka aktif di industri visual novel. Koi to Senkyo Chocolate merupakan game yang dirilis pada tahun 2010, merayakan hari jadi ke-10 tahun versi High Resolution dirilis untuk pasar Jepang.
 
 Menggunakan engine yang sama dengan Aokana, "High Resolution" menawarkan upscale dari 4:3 menjadi 16:9 dengan resolusi max 4K. Walaupun kami hanya mempunyai monitor 2K, keindahan visualnya tetap memanjakan mata.

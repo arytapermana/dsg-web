@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Impresi Awal Gikei Trial - Memotret Ulang Sejarah
+date: 2020-11-23 00:00:00 Z
 categories:
 - Impression
 tags:
 - Visual Novel
 - Irne
 - Gikei
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/GIKEI_screenshot_2020_11_22_14_54_34_qT2B9-MNp7y.jpg
-
 ---
+
 Keberadaan video game sebagai media untuk memperkenalkan sekaligus melestarikan sebuah warisan sejarah memang terhitung efektif. Developer bebas berkreasi entah mau memotret sesuai sejarah atau berdasarkan sejarah.
 
 Developer sekaligus publisher Inre kembali menghadirkan VN dengan tema sejarah klasik Jepang. Tentunya mereka tidak mempresentasikan secara akurat, tetapi tema yang dihadirkan cukup menarik.

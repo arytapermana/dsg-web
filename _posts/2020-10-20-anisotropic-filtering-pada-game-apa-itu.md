@@ -1,14 +1,16 @@
 ---
+title: Anisotropic Filtering Pada Game, Apa itu?
+date: 2020-10-20 00:00:00 Z
+categories:
+- Info
+tags:
+- Setting Game
+- Anisotropic Filtering
 layout: post
 author: sal
-title: Anisotropic Filtering Pada Game, Apa itu?
 image: https://ik.imagekit.io/dsg/pic_1-1024x576_aUCmLcJA-.png
-categories:
-  - Info
-tags:
-  - Setting Game
-  - Anisotropic Filtering
 ---
+
 Anisotropic filtering atau disingkat ([AF](https://youtu.be/IjT6__o0PFE)) adalah pengaturan graphics yang umum ada di setiap game. Pengaturan ini ada di pilihan menu “Texture Filtering”, atau yang serupa dengan pengaturan tersebut. Biasanya juga selalu berdampingan dengan “Trilinear” ataupun “bilinear”. Ketika kita bermain game 3d, pengaturan filtering ini akan cukup berpengaruh dalam menampilkan hasil gambar di bagian yang mendekati horizon.
 
 ![Bagian horizon pada game.](https://ik.imagekit.io/dsg/pic_2-1024x576_FIIGdw5D6.png "Bagian horizon pada game.")

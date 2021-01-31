@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: Review Tavern Sextet Vol. 1 - Sederhana Diawal
+date: 2020-12-15 00:00:00 Z
 categories:
 - Review
 tags:
 - Qureate
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Tavern_13_0UU2UN6_Q.jpg
-
 ---
+
 Hybrid animation visual novel menjadi trendy beberapa developer. Kelebihan memberikan gerakan ekstra dan mimik bibir menjadi alasan utama. Tavern Sextet merupakan game garapan dev./publisher qureate & iMel Inc. rilis awal untuk platform Switch, November lalu. Versi terbaru yang dirilis untuk PC memiliki penambahan konten, tentu saja patch.
 
 Melihat sepak terjang mereka, ada beberapa asset yang dipergunakan kembali, bisa dibilang ada cerita baru dari universe sama. Alasan mengapa vn ini kami bilang Sederhana Diawal, berikut ulasannya:

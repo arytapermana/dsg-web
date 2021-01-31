@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: Penggalangan Dana Tokyo:Reconnect Penuhi Target
+date: 2021-01-13 00:00:00 Z
 categories:
 - News
 tags:
 - Koneko
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/TR7_f0A8qIKYWA.jpg
-
 ---
+
 Tampil begitu menjanjikan dengan merilis demo cukup besar, tetapi sepadan dengan ukuran kecuali di beberapa titik perlu penyesuaian. Apalagi bersifat baru terjun ke industri, dana dan pengalaman menjadi perhatian utama. Developer sekaligus publisher Koneko berhasil menangani masalah pertama soal pendanaan,
 
 Sempat menghapus halaman penggalangan dana via Kickstarter, pihaknya kembali meyakinkan para donatur untuk membantu dalam pengembangan game visual novel Tokyo:Reconnect. Dibuka 4 Desember lalu sampai 19 Januari nanti, berhasil terkumpul $17,378 atau 240 juta Rupiah sejak berita ini ditulis, melebihi beberapa persen dari target. Tidak lupa pula pihaknya mengucapkan terimakasih. 

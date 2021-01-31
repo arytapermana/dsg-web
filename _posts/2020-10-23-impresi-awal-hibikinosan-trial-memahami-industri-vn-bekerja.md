@@ -1,17 +1,18 @@
 ---
-layout: post
-author: john
 title: Impresi Awal Hibikinosan Trial - Memahami Industri VN Bekerja
+date: 2020-10-23 00:00:00 Z
 categories:
 - Impression
 - Visual Novel
 tags:
 - Sonora
 - Hibikinosan
+layout: post
+author: john
 rating: 
 image: https://ik.imagekit.io/dsg/screenshot_20201023065234_oZogu07IR.jpg
-
 ---
+
 Memasuki penghujung bulan, banyak sekali VN menarik menanti. Meskipun masih berbahasa Jepang, berkat bantuan aplikasi terjemahan setidaknya pemain yang tidak terlalu fasih berbahasa Jepang bisa menikmatinya meskipun hasil terjemahaannya kadang sedikit ngawur.
 
 Hibikosan merupakan karya terbaru dari developer sekaligus publisher - Sonora. Memang sejak awal eksisnya mereka tidak pernah merilis untuk pasar lain, meskipun begitu game buatan mereka cukup menarik, apalagi game ini walaupun masih trial sudah memberikan hype untuk menjajal versi penuhnya nanti.

@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Review Nekopara 4 - Mimpi Basah Pencinta Kucing
+date: 2020-11-27 00:00:00 Z
 categories:
 - Visual Novel
 - Review
 tags:
 - Nekopara
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/N4_28_zM1s5Yi0vdl.jpg
-
 ---
+
 Surga Nekomimi telah hadir kembali! Salah satu vn dengan fanbase terbesar ini kembali menghadirkan sekuel setelah cukup lama hilang tanpa kabar. Dijual dengan harga sangat ramah dikantong tidak heran ia menjadi perbicangan hangat baik dari fans lama maupun baru.
 
 Masih sama dikembangkan oleh dev. NEKO WORKs dan Re: LieF TranslatioN Nekopara 4 hadir dengan peningkatan signifikan, sekali terjun langsung mimpi basah! Berikut ulasannya:

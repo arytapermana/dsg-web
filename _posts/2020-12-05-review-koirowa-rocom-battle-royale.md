@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: Review Koirowa - Rocom Battle Royale
+date: 2020-12-05 00:00:00 Z
 categories:
 - Review
 tags:
 - Asa Project
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/_________image_2020123154531_znp4TaNkYIY.jpg
-
 ---
+
 Hype November akhir begitu banyaknya vn yang rilis berbarengan menyebabkan sulit mengambil keputusan sambil menjaga agar dompet tidak terjaga. Ren'ai x Royale aka Koirowa garapan dev. sekaligus publisher ASa Project menjadi vn Jepang paling diatisipasi kehadirannya sejak versi trial rilis kemarin.
 
 Untuk [impresi trial sudah kami buatkan via DisekitarAnime](https://disekitaranime.life/impresi-awal-koirowa-trial-menemukan-cinta-atau/) karena saat itu web tengah proses maintenance. Maka sesuai judul Anda akan melihat persaingan ketat para heroine dalam mendapatkan hati sang mc. Se-menarik apa persaingan mereka? Berikut ulasannya:

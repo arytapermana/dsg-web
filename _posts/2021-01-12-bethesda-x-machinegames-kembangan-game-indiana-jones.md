@@ -1,7 +1,6 @@
 ---
-layout: post
-author: john
 title: 'Bethesda x MachineGames Kembangan Game Indiana Jones '
+date: 2021-01-12 00:00:00 Z
 categories:
 - News
 tags:
@@ -9,9 +8,11 @@ tags:
 - MachineGames
 - Bethesda Softworks
 - Indiana Jones
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Indiana_Jones_ksTYlSHMOUX.jpg
-
 ---
+
 Semenjak dibelinya Bethesda dibawah bendera Microsoft, mereka masih mempunyai beberapa pr multiplatform sebelum resmi merilis game ekslusif untuk Xbox ataupun PC. Tidak berlangsung cukup lama, sebuah project game baru diumumkan.
 
 Bersama dev. MachineGames (Wolfeinstein) berkolaborasi dengan Lucasfilm Games mereka akan mengembangkan Indiana Jones terbaru. Game tersebut akan ditangani oleh produser Todd Howard, teaser memperlihatkan perlengkapan untuk berpetualang. 

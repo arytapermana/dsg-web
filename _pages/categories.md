@@ -1,6 +1,7 @@
 ---
-layout: categories
 title: Categories
-permalink: /categories/
+permalink: "/categories/"
 published: false
+layout: categories
 ---
+

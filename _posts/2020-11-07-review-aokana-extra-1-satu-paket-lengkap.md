@@ -1,7 +1,6 @@
 ---
-layout: post
-author: john
 title: Review Aokana Extra 1 - Satu Paket Lengkap
+date: 2020-11-07 00:00:00 Z
 categories:
 - Visual Novel
 - Review
@@ -9,10 +8,12 @@ tags:
 - NekoNyan
 - Sprite
 - Aokana
+layout: post
+author: john
 rating: 
 image: https://ik.imagekit.io/dsg/AEX1-11_L1XfYPtQEZ.jpg
-
 ---
+
 Apakah Anda termasuk salah satu orang yang kecewa dengan Aokana kemarin? Jika ia, selamat kekecewaan tersebut akan diperbaiki lewat ekstra konten tambahan. Mengapa tidak, dari 4 heroine hanya 2 yang mendapatkan porsi sesuai, sisanya terasa kurang. Alasan tersebutlah membuat developer Sprite bersama publisher HikariField dan NekoNyan merilis "Extra 1".
 
 Sesuai namanya ia akan menjadi konten ekstra, khususnya karakter Mashiro Arisaka setelah ending di seri original. Mengapa dirinya? Tentu saja ia merupakan karakter dengan rute tersingkat + ending kurang mengigit. Jadi apakah ekstra tambahan ini pantas? Berikut ulasannya:

@@ -1,14 +1,15 @@
 ---
-layout: post
-author: sal
 title: Geforce Now, Kesan Pertama
+date: 2020-10-20 00:00:00 Z
 categories:
 - Info
 tags:
 - Cloud Gaming
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/akurat_20200307114640_0vO09N_u87lAnbYN_7.jpg
-
 ---
+
 Di tahun – tahun terakhir ini layanan game streaming cukup meningkat hingga tidak sedikit brand besar ikut mengambil konsep ini, seperti Google Stadia hingga tentunya Nvidia, kali ini kami mencoba layanan Geforce Now salah satu layanan game streaming yang menurut kami cukup menarik. Kenapa tidak Google Stadia?, karena menurut kami Google Stadia cukup sulit dijangkau untuk sekarang ini karena masih tidak tersedia di Indonesia walaupun Geforce Now juga tidak tersedia di Indonesia tapi Google Stadia cukup jauh lebih mahal dibanding Geforce Now dimana pelanggan perlu membeli Controller seharga hampir 2 jutaan, uhh… oh… itu cukup meberi ekspresi “What!?…”.
 
 **Note:** karena server Geforce Now hanya tersedia di sekitaran benua amerika dan eropa (karena itu tidak tersedia secara resmi untuk Indonesia) jadi gameplay pastinya memiliki respon yang lebih lambat dari biasanya seperti 400ms sampai bahkan 800ms lebih jadi kami tidak mempermasalahkan ini sebelumnya. jadi jika kalian ingin mencoba kalian dapat menggunakan vpn untuk klaim gratis 1 jamnya setelah itu kalian tidak perlu vpn lagi.

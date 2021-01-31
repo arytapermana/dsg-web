@@ -1,15 +1,16 @@
 ---
-layout: post
-author: sal
 title: Xbox Game Bar (Task Manager) Memudahkan Melihat Apa yang Memberatkan Sistem
+date: 2020-10-30 00:00:00 Z
 categories:
 - Info
 tags:
 - Xbox
 - Windows
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/xbox-game-bar_A_lHBoo5lb.jpg
-
 ---
+
 Microsoft meluncurkan update terbarunya yang berhubungan dengan Xbox Game Bar pada Windows 10, update tersebut memberikan fitur dan akses baru untuk melihat sumber daya yang digunakan pada sistem, dari Xbox Game Bar.
 
 ![](https://ik.imagekit.io/dsg/xbox-game-bar-1_TBOjNw21Ih.jpg)

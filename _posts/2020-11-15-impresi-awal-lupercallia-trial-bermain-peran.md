@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Impresi Awal Lupercallia Trial - Bermain Peran
+date: 2020-11-15 00:00:00 Z
 categories:
 - Visual Novel
 - Impression
 tags:
 - Meikei no Lupercalia
 - Uguisu Kagura
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/LC16_7_cDAavSwV.jpg
-
 ---
+
 Keberadaan video game saat ini menjadikan salah satu media terbaik untuk memperkenalkan kebudayaan citarasa klasik. Tema dibungkus semenarik mungkin lewat cerita, musik hingga pengisi suara yang terlibat.
 
 Meikei no Lupercalia VN garapan developer sekaligus publisher Uguisu Kagura ini dikenal dengan proyek vn long-play (30-50 jam permainan). Proyek terbarunya ini berfokus pada tema pementasan seni teater klasik.

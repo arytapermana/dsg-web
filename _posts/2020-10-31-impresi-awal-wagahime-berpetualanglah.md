@@ -1,14 +1,14 @@
 ---
-layout: post
-author: john
 title: Impresi Awal Wagahime Trial - Berpetualanglah
+date: 2020-10-31 00:00:00 Z
 categories:
 - Visual Novel
 - Impression
-tags: []
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Waga_20_7iyo3Gc78Q4.jpg
-
 ---
+
 Minato Soft developer sekaligus publisher game vn asal Jepang yang dikenal dengan karyanya yaitu "Maji de" series. Sebagian besar proyek mereka adalah game tersebut, bukan berarti game-nya hanya itu saja. Dev tersebut juga membuat game lain, kali ini proyek barunya yaitu Wagahime versi Trial resmi dirilis.
 
 Waga Himegimi ni Eikan o merupakan vn yang berfokus pada cerita seorang petualang untuk menentukan kehidupan seperti apa yang ingin ditempuh. Trial menawarkan gameplay kurang lebih 5 jam tergantung pemain.

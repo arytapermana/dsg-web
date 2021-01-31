@@ -1,7 +1,6 @@
 ---
-layout: post
-author: sal
 title: " Cyberpunk 2077 Optimalisasi Awal Rilis Tidak Sesuai Ekspektasi"
+date: 2020-12-12 00:00:00 Z
 categories:
 - News
 tags:
@@ -9,9 +8,11 @@ tags:
 - Xbox
 - PlayStation
 - " Cyberpunk 2077"
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/screen-image-city-01_1920-0f50b05c_wthMwAl36LF.jpg
-
 ---
+
 Cyberpunk 2077 adalah salah satu game yang cukup membangun hype yang besar dan sangat ditunggu-tunggu, dari berbagai komersial hingga bekerja sama dengan berbagai brand-brand besar didunia demi mempromosikan game yang cukup hype satu ini.
 
 Tidak semua hype berakhir dengan ending yang pantas juga, Cyberpunk 2077 awal rilis kemarin ternyata tidak semua berjalan baik, terutama bagian optimalisasinya yang dapat dikatakan "Buruk", walau komunitas online rata-rata menyebutkan optimalisasinya buruk berada pada konsol, tetapi bagi kami optimalisasinya juga buruk pada PC, dan yang kami tahu Cyberpunk 2077 berjalan baik di Stadia, jika kalian penasaran tentang optimalisasinya lebih jauh kalian dapat berselancar di dunia online karena pastinya sudah banyak yang melakukan publikasi.

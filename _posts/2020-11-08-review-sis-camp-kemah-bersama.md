@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Review Sis△Camp - Kemah Bersama
+date: 2020-11-08 00:00:00 Z
 categories:
 - Visual Novel
 - Review
 tags:
 - Onomatope Raspberry
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/SC14_lbXaOctT8.jpg
-
 ---
+
 Sebagian besar pemain apalagi yang kebetulan menyukai anime sudah tidak asing dengan desain beberapa karakter dari game ini. Yep, desain mereka memang bisa dibilang hampir menyerupai hanya beda seiyuu tetapi jika membicarakan karakteristiknya sepanjang game sangat berbeda.
 
 Sis△Camp merupakan game terbaru dari dev. sekaligus publisher Onomatope*Raspberry dimana sesuai judulnya mengisahkan tentang perkemahan bersama para saudari manis. Jadi sejauh mana tema yang diangkat? Berikut ulasannya.

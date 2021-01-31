@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Key Visual Arts Umumkan 3 Project Siap Rilis Berurutan
+date: 2020-10-26 00:00:00 Z
 categories:
 - Game
 - News
 tags:
 - Visual Arts
 - Key
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Key_New_Project_mFy9Dky3bNU.jpg
-
 ---
+
 Tidak tanggung-tangung secara terbuka developer sekaligus publisher Key Visual Arts lewat sesi live-streaming kemarin memberikan informasi bahwa mereka tengah memiliki beberapa project yang siap dirilis mendatang.
 
 Melalui situs resminya, Key melepas detail sipnosis singkat dari 3 VN berjudul Project: LOOPER, Project: LUNAR, dan Project: PORTE. Tidak diketahui apakah ketiga game ini akan memiliki keterkaitan? Tidak ada yang tahu pasti.

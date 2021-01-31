@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Dragon Age Baru Akan Tampil Di Panggung The Game Award
+date: 2020-12-05 00:00:00 Z
 categories:
 - News
 tags:
 - EA
 - BioWare
 - Dragon Age
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Dragon_Age_u-07Jn0Gxrp.jpg
-
 ---
+
 Meskipun developer BioWare mengalami banyak drama mulai dari game yang mereka kembangkan, masalah staff tetapi mereka mulai membenahi diri. Sesuatu yang tidak disangka-sangka diumukan yaitu seri baru dari franchise Dragon Age.
 
 Informasi datang dari host Geoff Keighley bahwa game RPG tersebut yang dikembangkan oleh dev. BioWare dan publisher EA akan hadir ke panggung The Game Award nanti. Sebuah visual baru diperlihatkan. Ini akan menjawab seri terbaru Dragon Age yang sempat mereka umumkan di TGA 2018 lalu tanpa kejelasan apapun sampai saat ini.

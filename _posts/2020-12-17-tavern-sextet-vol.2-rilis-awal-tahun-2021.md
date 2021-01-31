@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Tavern Sextet Vol. 2 Rilis Awal Tahun 2021
+date: 2020-12-17 00:00:00 Z
 categories:
 - Visual Novel
 - News
 tags:
 - Qureate
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Tavern_11_eYomh64pd.jpg
-
 ---
+
 Rilisnya vol.1 kemarin memberikan indikasi bahwa sekuel akan segera hadir. Benar sekali, konten yang kurang dari versi sebelumnya akan dirilis mendatang. Juga sudah ada informasi soal tanggl rilis pasti.
 
 Volume kedua ini melanjutkan kisah protagonis yang terlempar ke dunia lain dan menjadi pegawai tavern. Sebuah trailer pengumuman dengan 3 bahasa setiap region dilepas.

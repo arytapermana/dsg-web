@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Impresi Awal Yureaka Trial - Sebuah Intipan Manis
+date: 2020-11-15 00:00:00 Z
 categories:
 - Visual Novel
 - Impression
 tags:
 - CRYSTALIA
 - Yureaka
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Yureaka_15_jp3sd0ewM7.jpg
-
 ---
+
 Tidak sedikit developer video game membuat dua atau lebih judul game berbeda tetapi memiliki hubungan atau sering disebut cerita canon. Perbedaan judul memang menpertahankan cita rasa ataupum menghadirkan hal baru, tapi unsur utamanya sebagian besar sama. Seperti apa yang ditawarkan dari dev. sekaligus publisher game Jepang — CRYSTALIA.
 
 Yureaka / Akatsuki Yureru Koi Akari menjadi prekuel dari game Kizuna Kirameku Koi Iroha, rilis tahun 2017 lalu. Bagi yang tidak terlalu famiiar akan franchise-nya, ini bisa menjadi awal terbaik untuk menyelam lore-nya lebih lanjut.

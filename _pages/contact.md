@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Kontak
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 comments: false
 ---
 
