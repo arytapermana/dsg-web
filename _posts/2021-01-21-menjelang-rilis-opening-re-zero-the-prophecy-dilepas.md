@@ -5,7 +5,7 @@ title: Menjelang Rilis, Opening Re:ZERO The Prophecy Dilepas
 categories:
 - News
 tags:
-- Re:Zero
+- ReZero
 image: https://ik.imagekit.io/dsg/Re_Zero_Prophecy_Opening_7M29p5N6n_.jpg
 
 ---
