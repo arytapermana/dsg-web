@@ -27,16 +27,16 @@ authors:
     display_name: Arya P.
     gravatar: 01bcc0368a8e3c305e2b497d369fbee2
     email: kadekarya4@gmail.com
-    web: 
-    twitter: 
+    web:
+    twitter:
     description: Founder
   john:
     name: angga
     display_name: Angga P.
     gravatar: db72fc2b17acc4c0cdba7bff28eb30c8
-    email: 
-    web: 
-    twitter: 
+    email:
+    web:
+    twitter:
     description: Founder
 plugins:
 - jekyll-paginate
@@ -46,7 +46,7 @@ plugins:
 - jekyll-archives
 - jekyll-figure
 jekyll-archives:
-  enabled: 
+  enabled:
   layout: archive
   permalinks:
     category: "/category/:name/"
@@ -54,7 +54,7 @@ pagination:
   enabled: true
   debug: false
   collection: posts
-  per_page: 9
+  per_page: 15
   permalink: "/page/:num/"
   title: ":title"
   limit: 0
