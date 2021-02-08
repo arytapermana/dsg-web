@@ -8,7 +8,7 @@ tags:
 - Microsoft
 - Steam
 - Forza Horizon
-image: https://store.steampowered.com/app/1293830/Forza_Horizon_4/
+image: https://ik.imagekit.io/dsg/Forza_4_Steam_Edition_pBjN4t-uwOt.jpg
 
 ---
 Tidak mengherankan bila begitu banyak peminat dari franchise game simulasi arcade balapan mobil teranyar milik Microsoft - Forza Horizon. Dimana menjadi salah satu judul yang membuat konsol Xbox dan Microsoft Store laku selain berlangganan Gamepass. Menuju pasar yang lebih banyak, pihaknya mulai ekspansi kembali.
