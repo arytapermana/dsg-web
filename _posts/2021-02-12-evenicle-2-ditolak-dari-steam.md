@@ -15,4 +15,4 @@ Pihak Steam sepertinya telah menarik game tersebut dari store-nya, menurut [Stea
 
 Alisoft sendiri belum memberikan komentar mengapa game mereka ditarik dari platform sejuta umat tersebut. Beberapa media gaming besar berusaha menghubungi untuk detail lebih lanjut, tetapi belum ada respon. Apakah mereka akan merombak ulang agar bisa diterima? Mencari jalan tengah, ataupun tidak jadi dirilis via Steam seperti beberapa game sebelumnya? Kita tunggu saja. Demo Evenicle 2 saat ini masih tersedia, dan masih bisa diunduh bila Anda tertarik.
 
-Source : [NoisyPixel](https://noisypixel.net/evenicle-2-banned-on-steam/)
+Source: [NoisyPixel](https://noisypixel.net/evenicle-2-banned-on-steam/)
