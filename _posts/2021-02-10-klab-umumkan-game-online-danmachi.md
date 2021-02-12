@@ -16,4 +16,4 @@ KLab merupakan perusahaan video game online asal Jepang ingin mengadaptasi franc
 
 Tidak ada informasi lebih lanjut, tetapi game online ini direncanakan rilis di seluruh dunia nantinya. Sementara untuk anime S4 akan tayang di tahun 2022.
 
-Source : KLab via [PR Newswire](https://www.prnewswire.com/news-releases/klab-to-develop-a-new-game-based-on-tv-anime-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-for-worldwide-distribution-301225504.html)
+Source: KLab via [PR Newswire](https://www.prnewswire.com/news-releases/klab-to-develop-a-new-game-based-on-tv-anime-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-for-worldwide-distribution-301225504.html)
