@@ -10,7 +10,7 @@ tags:
 image: https://ik.imagekit.io/dsg/333_hero_lg_tt3-KfVRWOi.jpg
 
 ---
-Remaster dan remake menjadi tren beberapa tahun terakhir untuk para developer/publisher game. Ketika sebuah game berhasil di masa emasnya remaster atau remake adalah pilihan yang cukup menarik memberikan bukan hanya kesan baru tetapi sebuah pengalaman yang lebih baik lagi di sistem hardware yang lebih modern dibanding sebelumnya.
+Remaster dan remake menjadi tren beberapa tahun terakhir untuk para developer/publisher game. Ketika sebuah game berhasil di masa emasnya remaster atau remake adalah pilihan yang cukup menarik, memberikan bukan hanya kesan baru tetapi sebuah pengalaman yang lebih baik lagi di sistem hardware yang lebih modern dibanding sebelumnya.
 
 Seri Mass Effect kali ini menjadi sorotan dikarenakan beberapa waktu belakangan ini BioWare dan EA mengumumkan "Mass Effect Legendary Edition" dimana menampilkan petualangan Shepard yang lebih imersif dari segi visual sebagaimana video game remaster disajikan. Namun mengapa remaster, dimana sebenarnya remake mungkin akan menjadi sorotan yang lebih menarik dan memberikan kesan game yang ada terasa lebih segar dari masa lampaunya sebagaimana video game belakangan yang dibuat ulang seperti Resident Evil 3, dan Crash Bandicoot N. Sane Trilogy.
 
