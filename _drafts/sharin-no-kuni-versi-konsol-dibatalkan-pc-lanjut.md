@@ -5,6 +5,7 @@ title: Sharin no Kuni Versi Konsol Dibatalkan, PC Lanjut
 categories:
 - News
 tags:
+- Frontwing
 - Sharin no Kuni
 image: https://ik.imagekit.io/dsg/Sharin_no_Kuni_fqtBFKQ1v.jpg
 
