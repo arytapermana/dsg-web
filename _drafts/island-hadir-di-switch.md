@@ -18,4 +18,4 @@ Game ini mengisahkan tentang Sanzenkai Setsuna terbangun di pulau Urashima tanpa
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//ypE19KT-kY0' frameborder='0' allowfullscreen></iframe></div>
 
-Island Switch Version akan dirilis, 8 April mendatang. Hanya versi Jepang yang mendapatkan fisik, sementara Barat hanya tersedia dalam bentuk digital.
+Island Switch Version akan dirilis berbarengan, 8 April mendatang. Hanya versi Jepang yang mendapatkan fisik, sementara Barat hanya tersedia dalam bentuk digital.
