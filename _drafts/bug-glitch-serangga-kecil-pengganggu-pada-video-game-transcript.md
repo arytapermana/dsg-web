@@ -2,7 +2,8 @@
 layout: post
 author: sal
 title: 'Bug/Glitch: Serangga Kecil Pengganggu Pada Video Game [Transcript]'
-categories: []
+categories:
+- Info
 tags:
 - Glitch
 - Bug
