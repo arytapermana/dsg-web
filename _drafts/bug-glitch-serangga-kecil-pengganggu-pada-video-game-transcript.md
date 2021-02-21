@@ -11,6 +11,10 @@ image: https://ik.imagekit.io/dsg/thumbnail_xOe094ICw.png
 ---
 Istilah _bug_ di dunia komputasi pertama kali digunakan pada tahun 1946, saat Grace Hopper tengah mengembangkan _project_ komputer Harvard Mark II dan Harvard Mark III. Ia menemukan seekor serangga di dalam perangkat yang mengakibatkan malfungsi pada komputer tersebut. _Bug_ atau _glitch_ dapat memberikan efek positif dan negatif, salah satu hal buruk paling fatal yang dapat terjadi karena _bug_ adalah _not respoding_. Lalu apa saja efek positif yang dihasilkan? Mari kita simak video berikut ini.
 
+<div class="embed-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OOM7K-reYyk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 \[INTRO\]
 
 **Arya Putra:** Hi, _welcome to_ Disekitar Game _and today_ kita akan membahas _bug_ atau _glitch_.
