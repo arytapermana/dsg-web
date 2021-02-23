@@ -862,3 +862,39 @@ body.active-side {
     from { opacity: 0; }
     to { opacity: 1; }
 }
+
+//external link icon
+a[href^="http://"] {
+    background: url(/assets/images/external-link-symbol.png) center right no-repeat;
+    padding-right: 19px;
+}
+
+a[href^="https://"] {
+    background: url(/assets/images/external-link-symbol.png) center right no-repeat;
+    padding-right: 19px;
+}
+
+a[href^="https://disekitargame.com/"]  {
+    background: none;
+    padding-right: 0;
+}
+
+a[href^="https://twitter.com/"]  {
+    background: none;
+    padding-right: 0;
+}
+
+a[href^="https://www.facebook.com/"]  {
+    background: none;
+    padding-right: 0;
+}
+
+a[href^="https://www.linkedin.com/"]  {
+    background: none;
+    padding-right: 0;
+}
+
+a[href^="https://www.youtube.com/"]  {
+    background: none;
+    padding-right: 0;
+}
