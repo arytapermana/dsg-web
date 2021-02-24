@@ -32,4 +32,4 @@ UI pengaturannya dibuat minimalis namun elegan. Konfigurasi yang ditawarkan star
 
 Himukai Chihiro wa Shigoto ga Tsuzukanai menjadi salah satu vn wholesome yang pantas dinanti untuk bulan depan. Apalagi openingnya sendiri sangat indah untuk diputar berulang-ulang. Cerita lebih personal, dan cukup membuat Anda ingin cepat-cepat mempunyai pasangan.
 
-Bila Anda ingin memainkan versi trialnya bisa mengunduh via [laman resminya](http://s-mi-le.com/product/05_hi/special_trial/index.html). Saat ini hanya dipastikan rilis versi JP only, pada tanggal 23 Maret mendatang.
+Bila Anda ingin memainkan versi trialnya bisa mengunduh via [laman resminya](http://s-mi-le.com/product/05_hi/special_trial/index.html). Saat ini hanya dipastikan rilis versi JP only, pada tanggal 26 Maret mendatang.
