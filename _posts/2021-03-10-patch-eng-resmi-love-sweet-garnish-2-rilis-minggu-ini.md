@@ -1,7 +1,7 @@
 ---
 layout: post
 author: john
-title: Patch ENG Resmi Love Sweet Garnish 2 RIlis Minggu Ini
+title: Patch ENG Resmi Love Sweet Garnish 2 Rilis Minggu Ini
 categories:
 - News
 tags:
