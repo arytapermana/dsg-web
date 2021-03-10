@@ -16,4 +16,4 @@ Sejak awal rilis via [Steam](https://store.steampowered.com/app/1419480/Loves_Sw
 
 Love’s Sweet Garnish 2 merupakan vn garapan developer Canvas+Garden bersama Sekai Project, rilis perdana tahun 2018 lalu di Jepang untuk PC mengisahkan tentang kelanjutan cerita sebulan semenjak cafe Milk Hall Caramella dibuka kembali. Sukses, pihaknya membutuhkan tenaga kerja baru, heroine Ciel dan Koron datang untuk membantu.
 
-Love’s Sweet Garnish 2 EN Translate akan dirilis, 15 Maret mendatang.
+Koi ni, Kanmi o Soete 2/Love’s Sweet Garnish 2 EN Translate akan dirilis, 15 Maret mendatang.
