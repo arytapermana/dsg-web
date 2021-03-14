@@ -34,4 +34,4 @@ Bagi yang mengikuti sepak terjang Atelier Kaguya, hampir semua game-nya mendapat
 
 Ane wa Tsurezure Naru Mama ni \~Otouto no Ecchi na Osewa wa Ama-Ero JK Sisters ni Omakase!\~ menjadi game nukige yang layak dinanti pada akhir bulan Maret mendatang, apalagi penyuka tipe onee-san. Tidak ada yang cukup menarik dari trial ini selain vanilla yang begitu kental.
 
-Game ini akan dirilis untuk region JP only, 26 Maret mendatang. Bagi Anda yang tertarik mencoba versi trial, bisa mengunjungi tautan halaman web resminya.
+Game ini akan dirilis untuk region JP only, 26 Maret mendatang. Bagi Anda yang tertarik mencoba versi trial, bisa mengunjungi [tautan halaman web resminya](http://www.a-kaguya.com/products_cc/anemama/download.html).
