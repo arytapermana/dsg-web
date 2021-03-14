@@ -1,7 +1,7 @@
 ---
 layout: post
 author: john
-title: Impresi Ane wa Tsurezure...Trial - Dimanjakan
+title: Impresi Awal Ane wa Tsurezure...Trial - Dimanjakan
 categories:
 - Impression
 tags:
