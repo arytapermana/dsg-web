@@ -10,9 +10,9 @@ tags:
 image: https://ik.imagekit.io/dsg/HarmonEy_8_g91mRIDzv4p.jpg
 
 ---
-ee
+Hachimitsu Soft senang sekali dalam bereksperimen menghadirkan pengalam kisah romansa indah dari beberapa kehidupan. Proyek translate mereka juga perlahan mulai mucul ke permukaan. HarmonEy sendiri merupakan visual novel dengan "harmonis" sebagai daya tarik utama.
 
-wadwadaw
+Tentu sebagaian orang setuju, alasan utama memainkan vn ini adalah desain sang heroine utama. Judul bukan gimik belaka, sesuatu yang banyak diharapkan para pasangan agar tetap harmonis. Seberapa harmonis? Berikut ulasannya:
 
 **Cerita**
 
