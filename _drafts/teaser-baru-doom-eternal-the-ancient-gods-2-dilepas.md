@@ -10,7 +10,7 @@ tags:
 image: https://ik.imagekit.io/dsg/Doom_Eternal_Ancient_Gods_2BFyq__He.jpg
 
 ---
-Sejak diakusisinya Bethesda Softwork ke tangan Microsoft proyek baru mereka dipastikan ekslusif. Untungnya apa yang sempat diumumkan sebelumnya akan tetap rilis untuk multi-platform, salah satunya dlc kedua dari Doom Eternal.
+Sejak diakusisinya Bethesda Softwork oleh Microsoft proyek game terbaru mereka dipastikan ekslusif. Untungnya apa yang sempat diumumkan sebelumnya akan tetap rilis untuk multi-platform, salah satunya dlc kedua dari Doom Eternal.
 
 Pertempuran sang demon slayer akan terus berlanjut, sebuah teaser baru memperlihatkan Doom Guy yang kini harus menghadapi ancaman sebelumnya yang semakin liar.
 
