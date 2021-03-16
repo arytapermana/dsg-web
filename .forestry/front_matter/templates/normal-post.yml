@@ -46,6 +46,7 @@ fields:
     required: true
   label: image-url
 pages:
+- _posts/10-video-game-dengan-bad-ending-menarik.md
 - _posts/2020-10-20-anisotropic-filtering-pada-game-apa-itu.md
 - _posts/2020-10-20-apa-itu-ping-cara-mengatasi-lag-pada-game-online.md
 - _posts/2020-10-20-apa-itu-save-game-bagaimana-game-menyimpan-progresnya.md
