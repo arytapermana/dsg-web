@@ -1,9 +1,11 @@
 ---
 layout: post
-author: sal
+author: john
 title: PlayStation "Play at Home 2021" Tawarkan 10 Game Gratis PS4
-categories: []
-tags: []
+categories:
+- News
+tags:
+- PlayStation
 image: https://ik.imagekit.io/dsg/Horizon_Zero_Dawn_-suTJqlUu89.jpg
 
 ---
