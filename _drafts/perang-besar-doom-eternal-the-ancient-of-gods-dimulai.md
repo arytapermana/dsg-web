@@ -1,7 +1,7 @@
 ---
 layout: post
 author: john
-title: 'Perang Besar DOOM Eternal: The Ancient of Gods Dimulai '
+title: 'Perang Besar DOOM Eternal: The Ancient of Gods 2 Dimulai '
 categories:
 - News
 tags:
