@@ -1,7 +1,7 @@
 ---
 layout: post
 author: john
-title: 'Tsukihime: A Piece of Blue Glass Pastikan Tanggal Rilis'
+title: 'Tsukihime: A Piece of Blue Glass Pastikan Tanggal Rilis, JP Pertama'
 categories:
 - News
 tags:
