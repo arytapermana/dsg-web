@@ -35,3 +35,9 @@ interaksi menggunakan chatting masih fix, artinya tidak ada pilihan mau merespon
 ![](https://ik.imagekit.io/dsg/Yubisaki_13_FiNy3ZTSB.jpg)
 
 Sebagai penutup trial, mereka memberikan intipan route acak dimana juga menampilkan scene 18+ yang cukup segar, sebagaimana segarnya? Mainkan sendiri!
+
+![](https://ik.imagekit.io/dsg/Yubisaki_14_eVmZUX_B8u-.jpg)
+
+Yubisaki Connection memang vn yang layak untuk diantisipasi perilisannya pada tanggal, 30 April mendatang. Hampir semua terlihat menarik, hanya pada trial konsep chatting masih dibilang cukup lemah. Semoga final nanti apa yang mereka coba tawarkan berakhir dengan manis.
+
+Saat ini hingga rilis nanti masih JP Only, tetapi beberapa karya Hooksoft sudah ada yang rilis di Barat dan kemungkinan game ini akan mendapatkan hal serupa tergantung nanti popularitasnnya seperti apa. Bagi Anda yang tertarik memainkan versi trialnya bisa mengunjungi [situs resminya](http://www.hook-net.jp/yubisaki/), size 1.16 GB.
