@@ -1,7 +1,7 @@
 ---
 layout: post
 author: john
-title: Cyberpunk 2077 Playstation Version Kini Tergantung Sony
+title: Cyberpunk 2077 PlayStation Version Kini Tergantung Sony
 categories:
 - News
 tags:
