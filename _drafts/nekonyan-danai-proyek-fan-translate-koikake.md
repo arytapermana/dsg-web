@@ -11,18 +11,6 @@ Melihat potensi pasar yang menyakinkan beberapa translator resmi mulai melirik p
 
 Tentu saja proyek yang akan mereka sepakati untuk awal debut adalah salah satu proyek sakral yairu Koikake vn salah satu cukup banyak orang memainkan di Indonesia.
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
 ![](https://ik.imagekit.io/dsg/Flying_Sena_yEjlIkbPAo.jpg)
 
 # **April Fool Boys!**
