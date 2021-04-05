@@ -11,9 +11,9 @@ tags:
 image: https://ik.imagekit.io/dsg/Yukiiro_Sign_Thumbnail_UWyW0hxNO.jpg
 
 ---
-sss
+Ketika banyak vn route menawarkan banyak heroine untuk diajak kencan, Wonder Fool bermain dengan hanya 3 saja saja. Yukiiro Sign menjadi karya keempat dengan kualitas yang meningkat pesat untuk developer sekaligus publisher yang terjun ke industri visual novel. 
 
-sss
+Seperti apa yang sempat mereka tawarkan di trial, salju di musim dingin menjadi kisah utama yang merepresentasikan cerita baik mc maupun karakter-karakter lain yang terlibat. Mengapa berjudul "Saling Berbagi Kehangatan"? Berikut ulasannya:
 
 **Cerita**
 
@@ -39,12 +39,37 @@ Anda juga dapat berkreasi dengan warna atau lebih dikenal dengan color grading d
 
 **Saling Berbagi Kehangatan**
 
+![](https://ik.imagekit.io/dsg/Yukiiro_Sign-6_fP9F7S7N3.jpg)
+
+Persahabat terbaik adalah bagaimana bisa menerima perbedaan suka-duka dan lain-lainnya. Seperti kebanyakan slice-of-life, interaksi percakapan sehari-hari ditampilkan menggunakan aplikasi pepesanan ketika tidak berkumpul memangnlah bukan sesuatu baru. Kita masuk ke poin sebenarnya.
+
+![](https://ik.imagekit.io/dsg/Yukiiro_Sign_all_heroine_Xx1-HkHoT.jpg)
+
+Seperti kebanyakan vn dating simulation pula, akan ada bumbu drama kental terutama ketika mulai atau sudah memasuki rute heroine. Berbagai ketidakseimbangan pasti terjadi, jika tidak segera diselesaikan bisa berujung bubarnya ikatan yang selama ini mereka jaga karena masalah percintaan. Disini pemain akan melihat bagaimana mereka mulai kembali menghangatkan diri ketika dingin menusuk hati terjadi.
+
 **Pesona Svetlana Yang Sulit Diabaikan!**
 
 ![](https://ik.imagekit.io/dsg/Yukiiro_Sign_SS4_9D_G9AOsK.jpg)
 
 Manakah heroine yang terbaik untuk diikuti jalan ceritanya? Tentu saja Svetlana Gurchenko! Gadis Rusia ini menawarkan harapan dan impian dari kenyataan yang pahit ini. Perannya dalam circle selalu berupaya agar semua bisa bersama dalam canda-tawa. Seringkali ia bertingkah kikuk tetapi tetap menerima apa adanya. Walaupun nanti tidak bermaksud spoiler lebih lanjut, pesona sesungguhnya yang akan membuat jauh lebih mencintai karakter fiksi ini.
 
-Kesimpulan
+**Kesimpulan**
 
- 
+![](https://ik.imagekit.io/dsg/Yukiiro_Sign_Cover_3uXuY-U3M.jpg)
+
+Yukiiro Sign menjadi vn dengan kisah slice of life drama romance menarik untuk diikuti bagi Anda yang ingin mencari kisah dengan sedikit karakter. Durasi medium yang kisaran 10-30 jam tergantung pemain, akan membawa pengalaman indahnya musim dingin.
+
+Namun seperti biasa tidak bisa dibilang sempurna pula, ost yang ditawarkan memang epic dan menawan, tetapi seringkali pula penempatnya berlebihan bahkan ketika scene biasa sekalipun. Bukan kekurangan yang fatal, tetapi kedepannya semoga diperhatikan untuk karya selanjutanya.
+
+Kelebihan:
+
+* Cerita melebihi ekspetasi
+* Visual yang meningkat
+* Perpustakaan musik yang menarik
+* Scene 18+
+* Svetlana Gurchenko
+
+Kekurangan:
+
+* MC tanpa peran utama di awal
+* Penempatan musik terkadang tidak sesuai
