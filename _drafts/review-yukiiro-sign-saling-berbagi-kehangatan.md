@@ -37,6 +37,14 @@ Wonder Fool dalam perkembangnya begitu signifikan. Jika Anda memperhatikan rilis
 
 Anda juga dapat berkreasi dengan warna atau lebih dikenal dengan color grading dengan cg yang ada. Walaupun kebanyakan memperlihatkan salju karena ya memang menjadi bagian dari cerita utama.
 
+**Saling Berbagi Kehangatan**
+
 **Pesona Svetlana Yang Sulit Diabaikan!**
 
 ![](https://ik.imagekit.io/dsg/Yukiiro_Sign_SS4_9D_G9AOsK.jpg)
+
+Manakah heroine yang terbaik untuk diikuti jalan ceritanya? Tentu saja Svetlana Gurchenko! Gadis Rusia ini menawarkan harapan dan impian dari kenyataan yang pahit ini. Perannya dalam circle selalu berupaya agar semua bisa bersama dalam canda-tawa. Seringkali ia bertingkah kikuk tetapi tetap menerima apa adanya. Walaupun nanti tidak bermaksud spoiler lebih lanjut, pesona sesungguhnya yang akan membuat jauh lebih mencintai karakter fiksi ini.
+
+Kesimpulan
+
+ 
