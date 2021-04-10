@@ -29,7 +29,7 @@ Kedua adalah game versi remake. Remake merupakan output dari proses merancang da
 
 Kita ambil contoh pada game Resident Evil 2 keluaran tahun 2019. Versi remake ini dirancang untuk meniru sebanyak mungkin dari versi original keluaran tahun 1998. Walaupun terdapat pembaruan kontrol dan penambahan gameplay, namun hal tersebut tidak merubah plot cerita original dari game Resident Evil 2 itu sendiri.
 
-### Reboot
+## Reboot
 
 Terakhir adalah game versi reboot. Secara harfiah, reboot dapat diartikan sebagai menghidupkan kembali suatu franchise. Berbeda dengan remake yang hanya membangun ulang sebagian, reboot akan merombak keseluruhan apa yang ditawarkan dari versi original menjadi sebuah game baru. Game versi reboot hanya mengambil nama character dan tema-nya saja. Selain kedua hal tersebut, semua aspek dalam game seperti storyline, visual, gameplay, character design, akan dibuat baru dan tidak ada sangkut pautnya dengan game pendahulunya. 
 
@@ -37,7 +37,7 @@ Terakhir adalah game versi reboot. Secara harfiah, reboot dapat diartikan sebaga
 
 Dapat dikatakan juga, reboot seperti sebuah game dengan universe yang berbeda. Serupa dengan remake, game versi reboot dibuat untuk menggaet pasar modern dengan perkembangan teknologi yang membuatnya lebih relevan untuk dimainkan oleh gamer masa kini. Beberapa contoh dari game versi reboot adalah Tomb Raider, Call of Duty Modern Warfare 2019, Hitman 2016, Need for Speed 2015, Prey 2017, dan lain-lain.
 
-#### Video Penjelasan
+##### Video Penjelasan
 
 <div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Izp5VNnf04Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
