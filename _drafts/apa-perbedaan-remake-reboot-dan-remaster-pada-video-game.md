@@ -2,7 +2,8 @@
 layout: post
 author: sal
 title: Apa Perbedaan Remake, Reboot dan Remaster Pada Video Game?
-categories: []
+categories:
+- Info
 tags:
 - Remaster
 - Reboot
