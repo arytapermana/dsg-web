@@ -322,6 +322,7 @@ img, img:hover {
 }
 @media only screen and (min-width: 768px){
   .firstpage {
+      .first-thumb{
       .blog-grid-item:nth-child(1) {
           grid-column-start: 1;
           grid-column-end: 3;
@@ -358,6 +359,7 @@ img, img:hover {
           }
       }
   }
+}
 }
 
 //pagination
@@ -878,3 +880,38 @@ a[href^="https://disekitargame.com/"]  {
     background: none;
     padding-right: 0;
 }
+
+//ripple effect
+.ripple-container{
+    position: relative;
+}
+.ripple-box{           
+    top: 5px;
+    left: 18px;
+    position: absolute;
+    z-index: -1;
+}
+.ripple-top{
+    z-index: 9;
+}
+
+.ripple {
+    margin: 0px;
+    background-color: rgba(73, 73, 73, 0.2);
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    animation: ripple 3s linear infinite;
+  }
+  @keyframes ripple {
+    0% {
+      box-shadow: 0 0 0 .2rem rgba(15,15,15, 0.1),
+                  0 0 0 1.5rem rgba(15,15,15, 0.1),
+                  0 0 0 5rem rgba(15,15,15, 0.1);
+    }
+    100% {
+      box-shadow: 0 0 0 1.5rem rgba(15,15,15, 0.1),
+                  0 0 0 5rem rgba(15,15,15, 0.1),
+                  0 0 0 8rem rgba(15,15,15, 0);
+    }
+  }
