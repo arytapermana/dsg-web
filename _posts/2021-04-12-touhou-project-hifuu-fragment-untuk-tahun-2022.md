@@ -2,7 +2,8 @@
 layout: post
 author: john
 title: Touhou Project Hifuu Fragment Untuk Tahun 2022
-categories: []
+categories:
+- News
 tags:
 - Phoenixx Inc
 - " Shikaku Games"
