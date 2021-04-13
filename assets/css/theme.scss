@@ -284,7 +284,7 @@ img, img:hover {
         font-size:22px;
         line-height:1.4;
         a {
-            background-image: linear-gradient(180deg, transparent 89%, $dsg-white 0);
+            background-image: linear-gradient(180deg, transparent 89%, $dsg-black 0);
             background-repeat: no-repeat;
             background-size: 0 100%;
             transition: background-size .6s ease;
@@ -430,8 +430,8 @@ img, img:hover {
     margin-right: auto;
 }
 .posttitle {
-    font-size:50px;
-    font-weight:700;
+    font-size:65px;
+    font-weight:bold;
     line-height:1.2;
 }
 .entry-featured-image {
@@ -886,8 +886,8 @@ a[href^="https://disekitargame.com/"]  {
     position: relative;
 }
 .ripple-box{           
-    top: -5px;
-    left: -8px;
+    top: 75px;
+    left: 30px;
     position: absolute;
     z-index: -1;
 }
@@ -915,3 +915,107 @@ a[href^="https://disekitargame.com/"]  {
                   0 0 0 8rem rgba(15,15,15, 0);
     }
   }
+
+  //first big cap alphabet
+  .has-dropcap p:first-child:first-letter {
+    float: left;
+    font-weight: bold;
+    font-size: 65px;
+    line-height: 58px;
+    padding-right: 8px;
+  }
+
+  @media (max-width: 768px) {
+    .has-dropcap p:first-child:first-letter {
+        float: left;
+        font-weight: bold;
+        font-size: 55px;
+        line-height: 50px;
+        padding-right: 8px;
+    }
+  }
+
+  //disable underline animation
+.entry-featured-image{
+      display: none !important;
+  }
+
+  .first-thumb .card-title {
+
+    a {
+        background-image: none;
+        background-repeat: no-repeat;
+        background-size: 0 100%;
+        transition: none;
+        position:relative;
+        &:hover {
+            text-decoration:none;
+        }
+    }
+}
+
+//first post-box zoom animation
+
+.first-thumb .maxthumb img {
+    transform-origin: 50% 65%;
+    transition: transform 1s, filter 1s ease-in-out;
+  }
+
+  .first-thumb .maxthumb:hover img {
+    transform: scale(1.050);
+    filter: drop-shadow(0 0 1.75rem rgba(0, 0, 0, 0.3));
+  }
+
+  //youtube badge color
+  .youtube .badge-primary{
+    background-color: #FF0000;
+  }
+
+  //slider
+.keen-slider{
+   .card{
+        min-height: 700px;
+  }
+}
+
+.load-more-bar .card{
+    background-color: $dsg-black;
+    color: $dsg-white;
+}
+
+.load-more-bar .card h1{
+    margin: auto;
+    width: 50%;
+    text-align: center  ;
+}
+
+//title category
+div.inline { float:left; }
+.clearBoth { clear:both; }
+
+.cat-title{
+    margin-bottom: -30px;
+}
+
+.cat-title {
+    .swipe-notice{
+        margin-left: 60px;
+        animation: swipemove 4s infinite ease-in-out;
+    }
+    h4{
+        font-weight: 500;
+    }
+}
+
+@keyframes swipemove {
+    90%, 100% {
+        opacity: 0;
+        transform: translate(140px, 0);
+      }
+      0% {
+        opacity: 0;
+      }
+      10% {
+        opacity: 1;
+      }
+}
