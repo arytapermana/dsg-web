@@ -705,7 +705,7 @@ body.active-side {
 }
 @media (max-width: 768px) {
     .posttitle {
-        font-size:26px;
+        font-size:34px;
     }
     .blog-grid-container {
         grid-template-columns: 1fr;
@@ -791,7 +791,7 @@ body.active-side {
         font-size:18px;
     }
     .article-post {
-        font-size:15px;
+        font-size:18px;
     }
     .wrap-search {
         .fa-search {
@@ -929,8 +929,8 @@ a[href^="https://disekitargame.com/"]  {
     .has-dropcap p:first-child:first-letter {
         float: left;
         font-weight: bold;
-        font-size: 55px;
-        line-height: 50px;
+        font-size: 65px;
+        line-height: 58px;
         padding-right: 8px;
     }
   }
