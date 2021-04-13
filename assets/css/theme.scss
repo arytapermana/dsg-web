@@ -561,6 +561,7 @@ img, img:hover {
     }
     margin-top:120px;
     .badge {
+        z-index: 9;
         font-size: 15px;
         padding:5px 7px;
         display:inline-block;
@@ -999,18 +1000,17 @@ div.inline { float:left; }
 
 .cat-title {
     .swipe-notice{
-        margin-left: 60px;
-        animation: swipemove 4s infinite ease-in-out;
-    }
-    h4{
-        font-weight: 500;
+        position: relative;
+        z-index: -9;
+        transform: translate(35px, 0);
+        animation: swipemove 5s infinite ease-in-out;
     }
 }
 
 @keyframes swipemove {
-    90%, 100% {
+    60%, 100% {
         opacity: 0;
-        transform: translate(140px, 0);
+        transform: translate(-55px, 0);
       }
       0% {
         opacity: 0;
