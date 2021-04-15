@@ -1019,3 +1019,12 @@ div.inline { float:left; }
         opacity: 1;
       }
 }
+
+@media (max-width: 768px) {
+    .line-break span{
+        display: block;
+        span{
+            display: inline;
+        }
+    }
+}

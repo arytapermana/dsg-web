@@ -19,9 +19,9 @@ post_class: post-template
             <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
             {% endif %}
         </div>
-        <div style="margin-left:10px;">
-        Oleh <a target="_blank" class="text-dark" href="{{ author.web }}"><b>{{ author.display_name }}&nbsp;</b></a> <img src="{{ site.baseurl }}/assets/images/clock.png"> Pada 
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y, %I:%M %P." }}</time></span>
+        <div style="margin-left:10px;" class="line-break">
+        Oleh <a target="_blank" class="text-dark" href="{{ author.web }}"><b>{{ author.display_name }}&nbsp;</b></a> <span><img src="{{ site.baseurl }}/assets/images/clock.png"> Pada 
+        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y, %I:%M %P." }}</time></span></span>
         {% if page.last_modified_at %}
         (Diperbarui: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
         {% endif %}
