@@ -9,7 +9,7 @@ tags:
 - Reboot
 - Remake
 image: https://ik.imagekit.io/dsg/thumbnail_sEGVlpALF.jpg
-date: 
+date: 2021-04-15 09:51:00 +0800
 
 ---
 <div class="embed-container"> <iframe width="560" height="315" src="https://www.youtube.com/embed/Izp5VNnf04Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
