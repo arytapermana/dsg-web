@@ -8,7 +8,7 @@ categories:
 tags:
 - SIE
 - Bend Studio
-image: https://youtu.be/5TZxTwRQY_M
+image: https://ik.imagekit.io/dsg/Days_Gone_wKlAA5tz_4F.jpg
 
 ---
 Belakangan ini Sony Interactive Entertainment mulai memberikan kesempatan para gamers PC untuk mencicipi beberapa game ekslusif mereka. Selain untuk menggaet fans agar sekuel nanti mereka mulai tertarik melirik konsol terbarunya yaitu PS5, juga bukan hanya sekadar port belaka saja. Days Gone yang sebelumnya diumumkan untuk PC, konfirmasi soal tanggal rilis pasti telah diungkap.
