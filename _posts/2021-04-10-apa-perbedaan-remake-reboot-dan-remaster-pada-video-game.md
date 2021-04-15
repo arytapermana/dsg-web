@@ -9,12 +9,12 @@ tags:
 - Reboot
 - Remake
 image: https://ik.imagekit.io/dsg/thumbnail_sEGVlpALF.jpg
-date: 2021-04-15 09:51:00 +0800
+date: 2021-04-15T09:51:00.000+08:00
 
 ---
-Remake, reboot, remastered. Mungkin banyak dari kita yang sering mendengar ketiga istilah tersebut, tapi masih bingung membedakan arti satu dengan lainnya. Agar tidak salah dalam mengartikan istilah remake, reboot, dan remastered pada industri game, mari kita bahas satu-persatu.
-
 <div class="embed-container"> <iframe width="560" height="315" src="https://www.youtube.com/embed/Izp5VNnf04Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+
+Remake, reboot, remastered. Mungkin banyak dari kita yang sering mendengar ketiga istilah tersebut, tapi masih bingung membedakan arti satu dengan lainnya. Agar tidak salah dalam mengartikan istilah remake, reboot, dan remastered pada industri game, mari kita bahas satu-persatu.
 
 ## Remastered
 
