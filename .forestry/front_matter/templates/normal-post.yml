@@ -44,7 +44,7 @@ fields:
     time_format: 
     display_utc: false
   default: now
-  hidden: true
+  hidden: false
 - type: list
   name: categories
   label: categories
