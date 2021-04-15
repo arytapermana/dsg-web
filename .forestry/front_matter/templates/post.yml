@@ -34,6 +34,16 @@ fields:
       file: 
       path: 
   label: author
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 - type: list
   name: categories
   label: categories
