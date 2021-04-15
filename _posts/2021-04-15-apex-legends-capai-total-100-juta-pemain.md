@@ -2,7 +2,8 @@
 layout: post
 author: john
 title: Apex Legends Capai Total 100 Juta Pemain
-categories: []
+categories:
+- News
 tags:
 - EA
 - Respawn
