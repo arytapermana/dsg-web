@@ -82,7 +82,7 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
 adsense: disabled
-adsense-data-ad-client: ca-pub-3412143450191416
+adsense-data-ad-client  : ca-pub-3412143450191416
 adsense-data-ad-slot: '1363087678'
 lazyimages: enabled
 authorbox: disabled
