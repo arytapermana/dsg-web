@@ -928,7 +928,7 @@ a[href^="https://disekitargame.com/"]  {
   }
 
   //first big cap alphabet
-  .has-dropcap p:first-child:first-letter {
+  .dsg-post .has-dropcap p:first-child:first-letter {
     float: left;
     font-weight: bold;
     font-size: 65px;
@@ -937,7 +937,7 @@ a[href^="https://disekitargame.com/"]  {
   }
 
   @media (max-width: 768px) {
-    .has-dropcap p:first-child:first-letter {
+    .dsg-post .has-dropcap p:first-child:first-letter {
         float: left;
         font-weight: bold;
         font-size: 65px;
