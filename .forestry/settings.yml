@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _includes/box-video.html
   label: Videos
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
