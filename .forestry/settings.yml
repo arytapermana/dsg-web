@@ -9,7 +9,7 @@ sections:
   label: _includes
   create: all
   match: "**/*"
-  new_doc_ext: ".hmtl"
+  new_doc_ext: hmtl
 - type: jekyll-posts
   label: Posts
   create: all
