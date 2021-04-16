@@ -4,16 +4,15 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: "./_includes/box-video.html"
-  label: Latest Videos
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
 - type: jekyll-pages
   label: Pages
   create: all
+- type: document
+  path: _includes/box-video.html
+  label: Latest Videos
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
