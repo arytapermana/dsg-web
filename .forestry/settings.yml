@@ -4,12 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: _includes
-  label: _includes
-  create: all
+- type: document
+  path: _includes/box-video.html
+  label: Latest Videos
   match: "**/*"
-  new_doc_ext: hmtl
 - type: jekyll-posts
   label: Posts
   create: all
