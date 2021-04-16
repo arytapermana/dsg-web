@@ -883,6 +883,14 @@ a[href^="https://disekitargame.com/"]  {
     background: none;
     padding-right: 0;
 }
+.video-container a[href^="https://youtu.be/"]  {
+    background: none;
+    padding-right: 0;
+}
+.youtube-link a[href^="https://www.youtube.com/"]  {
+    background: none;
+    padding-right: 0;
+}
 
 //ripple effect
 .ripple-container{
@@ -974,7 +982,7 @@ a[href^="https://disekitargame.com/"]  {
     background-color: #FF0000;
   }
 
-  //slider
+//slider
 .keen-slider{
    .card{
         min-height: 700px;
@@ -989,7 +997,7 @@ a[href^="https://disekitargame.com/"]  {
 .load-more-bar .card h1{
     margin: auto;
     width: 50%;
-    text-align: center  ;
+    text-align: center;
 }
 
 //title category
@@ -1028,5 +1036,74 @@ div.inline { float:left; }
         span{
             display: inline;
         }
+    }
+}
+
+//video slide container
+.video-container {
+    position: relative;
+  }
+.video-container .image {
+    display: block;
+  }
+.video-container .video-overlay {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.7); /* Black see-through */
+    color: $dsg-white; 
+    width: 100%;
+    height: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color:$dsg-white;
+  }
+  .video-overlay .video-text{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 50px;
+    transition: .5s ease;
+  }
+.video-container:hover .video-overlay {
+    opacity: 1;
+  }
+.video-container:hover .video-text{
+    padding-top: 0px;
+}
+.more-video{
+    height: 100px;
+    background: #ffffff;
+    color: $dsg-black;
+    transition: background-color .5s ease;
+}
+.more-video h1{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.more-video:hover {
+    background: #ff0000;
+    color: $dsg-white;
+}
+
+@media (max-width: 768px) {
+    .video-overlay .video-text{
+    font-size: 16pt;
+    }
+    .youtube-link .more-video h1{
+        font-size: 16pt;
+    }
+    .youtube-link .more-video{
+        height: 50px;
     }
 }

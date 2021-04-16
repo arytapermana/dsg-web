@@ -124,6 +124,24 @@ ga('send', 'pageview');
     </div>
 
     <div class="cat-title">
+        <div>
+            <h4>
+                <span style="background-color: #ff0000;" class="text-capitalize badge badge-primary text-small">Latest Videos</span>
+            </h4>
+        </div>
+    </div>
+    <div style="margin: 50px auto;">
+    {% include box-video.html %}
+    <div class="youtube-link">
+        <a href="https://www.youtube.com/channel/UCC71ynFPWO11J5X6Or84wsw">
+            <div class="more-video">
+                <h1>VIDEO LAINNYA</h1>
+            </div>
+        </a>
+    </div>
+    </div>
+
+    <div class="cat-title">
         <div class="inline">
             <h4>
                 <span class="text-capitalize badge badge-primary text-small">Info</span>
@@ -287,9 +305,7 @@ window.addEventListener("beforeunload", function () {
     },
   },
   })
-</script>
-<script>
-    var slider = new KeenSlider("#my-keen-slider2", {
+  var slider = new KeenSlider("#my-keen-slider2", {
       slidesPerView: 3,
       spacing: 30,
       breakpoints: {
@@ -299,8 +315,6 @@ window.addEventListener("beforeunload", function () {
       },
     },
     })
-  </script>
-  <script>
     var slider = new KeenSlider("#my-keen-slider3", {
       slidesPerView: 3,
       spacing: 30,
@@ -311,8 +325,7 @@ window.addEventListener("beforeunload", function () {
       },
     },
     })
-  </script>
-
-
+</script>
+<script src="{{ site.baseurl }}/assets/js/keensliderautoplay.js"></script>
 </body>
 </html>
