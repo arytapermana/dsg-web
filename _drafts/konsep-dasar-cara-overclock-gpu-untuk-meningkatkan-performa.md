@@ -27,13 +27,13 @@ Sebelum memulai tahapan yang ada, berikut beberapa hal yang perlu dipersiapkan u
 
 ## Tahapan Overcloking GPU
 
-Jika hal-hal yang telah disebutkan sebelumnya sudah siap, maka kita dapat lanjut ke tahapan overclocking, mohon membaca dengan perlahan agar tidak ada informasi yang terlewat karena semua tahapan harus berjalan dengan baik untuk mendapatkan pefroma dan stabilitas terbaik juga, perlu diingat performa yang dihasilkan tidak selalu sama, walaupun graphics card yang ada sama persis, karena setiap hardware memiliki proses manufacture yang tidak selalu sama, hal ini hampir sama seperti silicon lottery pada CPU.
+Jika hal-hal yang telah disebutkan sebelumnya sudah siap, maka kita dapat lanjut ke tahapan overclocking, mohon membaca dengan perlahan agar tidak ada informasi yang terlewat karena semua tahapan harus berjalan dengan baik untuk mendapatkan perfoma dan stabilitas terbaik juga, perlu diingat performa yang dihasilkan tidak selalu sama, walaupun graphics card yang ada sama persis, karena setiap hardware memiliki proses manufacture yang tidak selalu sama, hal ini hampir sama seperti silicon lottery pada CPU.
 
 ### MSI Afterburner
 
-![](https://ik.imagekit.io/dsg/1_28KsAyahNuP.png)
+Sebelum melakukan tweaking dan tunning pada GPU kalian, perlu diketahui dulu fungsi-fungsi dari tools yang disediakan oleh MSI Afterburner walaupun terlihat mengintimidasi, pengaturan tersebut sebenarnya cukup mudah diingat. Mungkin tampilan yang ada cukup berbeda dari yang kalian miliki tetapi tools yang ada tetap sama, hanya berbeda posisi. Berikut beberapa penjelasan singkat tools tersebut.
 
-Sebelum melakukan tweaking dan tunning pada GPU kalian, perlu diketahui dulu fungsi-fungsi dari tools yang disediakan oleh MSI Afterburner walaupun terlihat mengintimidasi, pengaturan tersebut sebenarnya cukup mudah diingat. Mungkin tampilan yang ada cukup berbeda dari yang kalian miliki tetapi tools yang ada tetap sama hanya berbeda posisi. Berikut beberapa penjelasan singkat tools tersebut.
+![](https://ik.imagekit.io/dsg/1_28KsAyahNuP.png)
 
 * **Core Voltage**, Adalah pengaturan voltase yang diberikan kepada graphics card itu sendiri.
 * **Core Clock**, Jumlah yang perlu ditambah atau dikurangi dari base Frekuensi pada Core GPU.
@@ -50,11 +50,11 @@ Sebelum masuk ke Tunning pertama, pastikan Power Limit dan Temp Limit berada pad
 
 ![](https://ik.imagekit.io/dsg/2_zEx_oYQ1_.jpg)
 
-Jangan lupa pastikan melepas sinkronisasi link temperature dengan fan speed dengan click icon rantai hingga berstatus OFF agar ketika pengaturan disimpan tidak berubah ke default pada temp limit, agar memastikan peforma yang berjalan berada pada maksimum tidak terhambah limitasi suhu. Biarkan juga fan berjalan pada mode auto dengan icon mirip hurup "A" berada pada status ON atau terlihat bold .
+Jangan lupa pastikan melepas sinkronisasi link temperature dengan fan speed dengan click icon rantai hingga berstatus OFF agar ketika pengaturan disimpan tidak berubah ke default pada temp limit, selain itu agar memastikan peforma yang berjalan berada pada maksimum tidak terhambat limitasi suhu. Biarkan juga fan berjalan pada mode auto dengan icon mirip hurup "A" berada pada status ON atau terlihat bold.
 
 ![](https://ik.imagekit.io/dsg/fps_IkPIStL8MiP.jpg)
 
-Pada saat proses tunning core clock dan memory clock pastikan kalian memantau frame rate pada software benchmark, pastikan frame tidak malah menurun dan juga selain itu pantau suhu GPU tidak melebihi 90°C walau penggunaan jangka pendek tidak ada masalah tapi penggunaan jangka panjang akan mempercepat umur graphics card tersebut, Sekitar 70°C dan 80°C masih relatif aman, dibawah itu lebih baik lagi. untuk target tertinggi overclocking GPU biasanya frame rate yang dapat dicapai adalah 10% dari rata-rata frame rate sebelumnya, contohnya jika frame rate di awal adalah 100fps dan mendapatkan 110fps setelah overclocking maka overclocking kalian sudah dapat dianggap mencapai target.
+Pada saat proses tunning core clock dan memory clock pastikan kalian memantau framerate pada software benchmark, pastikan framerate tidak malah menurun dan juga selain itu pantau suhu GPU tidak melebihi 90°C walau penggunaan jangka pendek tidak ada masalah, tapi penggunaan jangka panjang akan mempercepat umur graphics card tersebut, Sekitar 70°C dan 80°C masih relatif aman, dibawah itu lebih baik lagi. untuk target tertinggi overclocking GPU biasanya frame rate yang dapat dicapai adalah 10% dari rata-rata frame rate sebelumnya, contohnya jika frame rate di awal adalah 100fps dan mendapatkan 110fps setelah overclocking maka overclocking kalian sudah dapat dianggap mencapai target.
 
 ### Tweaking/Tunning Core Clock
 
