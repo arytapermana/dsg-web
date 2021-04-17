@@ -2,7 +2,7 @@
 layout: post
 author: sal
 date: 2021-04-17T07:36:31.000+08:00
-title: Konsep Dasar Cara Overclock GPU Untuk Meningkatkan Performa
+title: Konsep Dasar Cara Overclock GPU Untuk Penggunaan Sehari-Hari
 categories:
 - Info
 tags:
