@@ -946,6 +946,14 @@ a[href^="https://www.youtube.com/"]  {
     }
   }
 
+  .dsg-post .has-dropcap ul li p:first-child:first-letter {
+    float: unset;
+    font-weight: unset;
+    font-size: unset;
+    line-height: unset;
+    padding-right: unset;
+  }
+
   //disable underline animation
 .entry-featured-image{
       display: none !important;
