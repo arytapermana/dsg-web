@@ -42,6 +42,16 @@ Sebelum melakukan _tweaking_ dan _tunning_ pada GPU kalian, perlu diketahui dulu
 * **Temp Limit**, Target maksimum suhu dari graphics card itu sendiri.
 * **Fan Speed**, Kecepatan kipas pada graphics card.
 
+Tidak semua _tools_ yang ada dapat digunakan terkadang, tergantung _manufacture_ dari _graphics card_ itu sendiri, seperti pada _graphics card_ yang kami gunakan, core voltage yang ada tidak dapat diubah maupun di utak-atik walaupun pada pengaturan MSI Afterburner telah ter-_unlock_.
+
+### Memulai
+
+Sebelum masuk ke _Tunning_ pertama, pastikan Power Limit dan Temp Limit berada pada maksimum, jangan terkejut dahulu, manufaktur telah membatasi jumlah maksimum limit power dan juga suhu yang ada untuk dapat di tunning pada versi gpu overclock, dan ini juga memiliki variasi berbeda beda, pada contoh kami, maksimum _power limit_ adalah 100% tetapi ada juga yang dapat meningkatkannya hingga 120% pada jenis graphics card berbeda, jadi kalian masih berada pada batas relatif aman.
+
+![](https://ik.imagekit.io/dsg/2_zEx_oYQ1_.jpg)
+
+Jangan lupa pastikan melepas sinkronisasi _link_ _temperature_ dengan _fan speed_ dengan click icon rantai hingga berstatus OFF agar ketika pengaturan disimpan tidak berubah ke _default_ pada _temp limit,_ agar memastikan peforma yang berjalan berada pada maksimum tidak terhambah limitasi suhu. Biarkan juga fan berjalan pada mode auto dengan icon mirip hurup "A" berada pada status ON atau terlihat _bold ._
+
 ### Tweaking/Tunning Core Clock
 
-Penyetelan yang pertama adalah mencari _core clock_ yang stabil dari _graphics card_ yang kalian miliki, hal ini dapat dilakukan dengan cara meningkatkan frekuensi sedikit demi sedikit seperti menambahkan +10Mhz hingga +50Mhz sambil menjalan Heaven Benchmark, dan ketika terasa benchmark yang ada mengalami stutter, lagging, artifact, ataupun hingga drop pada framerate yang ada maka turunkan frekuensi tersebut hingga mendapatkan performa yang stabil.
+_Tunning_ yang pertama adalah mencari _core clock_ yang stabil dari _graphics card_ yang kalian miliki, hal ini dapat dilakukan dengan cara meningkatkan frekuensi sedikit demi sedikit seperti menambahkan +10Mhz hingga +50Mhz sambil menjalan Heaven Benchmark, dan ketika terasa benchmark yang ada mengalami stutter, lagging, artifact, ataupun hingga drop pada framerate yang ada maka turunkan frekuensi tersebut hingga mendapatkan performa yang stabil.
