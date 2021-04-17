@@ -58,11 +58,11 @@ Pada saat proses tunning core clock dan memory clock pastikan kalian memantau fr
 
 ### Tweaking/Tunning Core Clock
 
-Tunning yang pertama adalah mencari core clock yang stabil dari graphics card yang kalian miliki, hal ini dapat dilakukan dengan cara meningkatkan frekuensi core clock sedikit demi sedikit seperti menambahkan +10Mhz hingga +50Mhz sambil menjalan Heaven Benchmark, dan ketika terasa benchmark yang ada mengalami [stutter](https://www.youtube.com/watch?v=wmtZ07qHFS4&list=UUoAASU98g2jffZ_eHIdinug "GPU Stutter, by Alexander Stopher"), [lagging](https://www.youtube.com/watch?v=j3WvNxi-9fQ "Lagging, by The Frugal Streamer"), [artifacts](https://www.youtube.com/watch?v=q9n9i2ujwtg&t=16s "Artifacts, by Lynyrd"), ataupun hingga [drop framerate](https://www.youtube.com/watch?v=dRt3mJiETh4 "FPS Drop, by Snips86x"), maka turunkan frekuensi tersebut hingga mendapatkan performa yang stabil.
+Tunning yang pertama adalah mencari core clock yang stabil dari graphics card yang kalian miliki, hal ini dapat dilakukan dengan cara meningkatkan frekuensi core clock sedikit demi sedikit seperti menambahkan +10Mhz hingga +50Mhz sambil menjalankan Heaven Benchmark, dan ketika terasa benchmark yang ada mengalami [stutter](https://www.youtube.com/watch?v=wmtZ07qHFS4&list=UUoAASU98g2jffZ_eHIdinug "GPU Stutter, by Alexander Stopher"), [lagging](https://www.youtube.com/watch?v=j3WvNxi-9fQ "Lagging, by The Frugal Streamer"), [artifacts](https://www.youtube.com/watch?v=q9n9i2ujwtg&t=16s "Artifacts, by Lynyrd"), ataupun hingga [drop framerate](https://www.youtube.com/watch?v=dRt3mJiETh4 "FPS Drop, by Snips86x"), maka turunkan frekuensi tersebut hingga mendapatkan performa yang stabil.
 
 ![](https://ik.imagekit.io/dsg/ezgif.com-gif-maker_NT2LfCZJ_.gif)
 
-Pada contoh yang ada, kami telah mendapatkan core clock yang stabil berada pada +140MHz, jangan terlalu memaksa untuk meningkatkan core clock walau suhu GPU terlihat masih berada batas aman karena GPU memiliki batasannya tersendiri dan jika terlalu jauh maka Software Benchmark atau PC yang ada akan mengalami crash hingga freeze, kalian dapat merestartnya dengan normal atau dengan paksa jika sudah tidak dapat digunakan sama sekali. Setelah hidup kembali maka semua kembali ke default lagi.
+Pada contoh yang ada, kami telah mendapatkan core clock yang stabil berada pada +140MHz, jangan terlalu memaksa untuk meningkatkan core clock walau suhu GPU terlihat masih berada batas aman karena GPU memiliki batasannya tersendiri dan jika terlalu jauh maka Software Benchmark atau PC yang ada akan mengalami crash hingga freeze, kalian dapat merestartnya dengan normal atau dengan paksa jika tidak dapat digunakan sama sekali. Setelah hidup kembali maka semua kembali ke default lagi.
 
 ### Tweaking/Tunning Memory Clock
 
@@ -70,7 +70,7 @@ Langkah selanjutnya adalah mencari memory clock yang stabil, dengan cara menamba
 
 ![](https://ik.imagekit.io/dsg/memory-clock_9Hc1t4NbCLt.gif)
 
-Masih sama seperti sebelumnya tetap pastikan suhu yang ada berada batas aman, peforma yang ada juga stabil. Setidaknya kalian akan melihat ada penambahan frame rate pada benchmark dari sebelumnya.
+Masih sama seperti sebelumnya tetap pastikan suhu yang ada berada batas aman, peforma yang ada juga stabil. Setidaknya kalian akan melihat ada penambahan frame rate pada benchmark sebelumnya.
 
 ### Done!
 
@@ -78,6 +78,6 @@ Jika sudah selesai maka simpan pengaturan yang ada dengan menekan tombol save ya
 
 ![](https://ik.imagekit.io/dsg/save-compress_CxCPTfrBi.gif)
 
-Maka sekarang cobalah gunakan PC kalian untuk pemakaian normal ataupun memainkan game favorit yang ada, jika dirasa ada kejanggalan, seperti yang disebutkan diatas, maka cobalah turunkan core clock atau memory clock, karena hal tersebut berarti sistem tidak stabil, hal ini terjadi diakibatkan setiap software yang ada memiliki penggunaan sumber daya dari GPU berbeda-beda sehingga perlu penyesuaian lagi.
+Maka sekarang cobalah gunakan PC kalian untuk pemakaian normal ataupun memainkan game favorit yang ada, kalian juga dapat melakukan test benchmark dari versi stock yang ada dan setelah overclock, kemudian lihat hasil perbedaan score yang didapat. Jika dirasa ada kejanggalan, seperti yang disebutkan sebelumnya, maka cobalah turunkan core clock atau memory clock, karena hal tersebut berarti sistem tidak stabil, hal ini terjadi diakibatkan setiap software yang ada memiliki penggunaan sumber daya dari GPU berbeda-beda sehingga perlu penyesuaian lagi.
 
 Mungkin itu saja yang dapat kami sampaikan mengenai dasar-dasar overcloking GPU, jika masih ada hal yang ingin ditanyakan atau bingung, jangan sunkan untuk bertanya pada kolom komentar dibawah, Terimakasih!
