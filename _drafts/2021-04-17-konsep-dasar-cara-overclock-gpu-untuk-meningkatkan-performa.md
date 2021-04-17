@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sal
-date: 2021-04-17 07:36:31 +0800
+date: 2021-04-17T07:36:31.000+08:00
 title: Konsep Dasar Cara Overclock GPU Untuk Meningkatkan Performa
 categories:
 - Info
@@ -15,15 +15,9 @@ Overclocking adalah hal yang cukup banyak diperdebatkan dalam aspek penggunaan s
 
 Sebelum memulai tahapan yang ada, berikut beberapa hal yang perlu dipersiapkan untuk melakukan overclocking.
 
-* GPU/Graphics Card (OC/Overclock Version)
-
-  Pastikan graphics card yang kalian miliki adalah versi yang dapat dilakukan overclock, kami tidak membahas bagaimana mengetahuinya, biasanya vendor telah memberitahukannya di awal.
-* [MSI Afterburner](https://www.msi.com/Landing/afterburner) (Software OC)
-
-  Sebenarnya tidak hanya MSI Afterburner software yang dapat digunakan untuk melakukan overclock GPU kalian, tetapi software satu ini yang cukup banyak digunakan, user friendly dan fitur yang ada cukup lengkap.
-* [Heaven Benchmark](https://benchmark.unigine.com/heaven) (Software Benchmark)
-
-  Untuk melakukan benchmark kami menggunakan Heaven Benchmark dikarenakan ukuran yang cukup ringan dan testing skenario yang lebih mendekati gaming, selain Heaven Benchmark kalian dapat menggunakan [3DMark](https://www.3dmark.com/). Untuk Benchmark seperti [MSI Kombustor](https://geeks3d.com/furmark/kombustor/) atau [FurMark](https://geeks3d.com/furmark/) lebih mendekati skenario untuk melakukan testing GPU hingga mendekati limit terakhir dimana game biasanya tidak berada di skenario ini.
+* GPU/Graphics Card (OC/Overclock Version), Pastikan graphics card yang kalian miliki adalah versi yang dapat dilakukan overclock, kami tidak membahas bagaimana mengetahuinya, biasanya vendor telah memberitahukannya di awal.
+* [MSI Afterburner](https://www.msi.com/Landing/afterburner) (Software OC), Sebenarnya tidak hanya MSI Afterburner software yang dapat digunakan untuk melakukan overclock GPU kalian, tetapi software satu ini yang cukup banyak digunakan, user friendly dan fitur yang ada cukup lengkap.
+* [Heaven Benchmark](https://benchmark.unigine.com/heaven) (Software Benchmark), Untuk melakukan benchmark kami menggunakan Heaven Benchmark dikarenakan ukuran yang cukup ringan dan testing skenario yang lebih mendekati gaming, selain Heaven Benchmark kalian dapat menggunakan [3DMark](https://www.3dmark.com/). Untuk Benchmark seperti [MSI Kombustor](https://geeks3d.com/furmark/kombustor/) atau [FurMark](https://geeks3d.com/furmark/) lebih mendekati skenario untuk melakukan testing GPU hingga mendekati limit terakhir dimana game biasanya tidak berada di skenario ini.
 
 ## Tahapan Overcloking GPU
 
