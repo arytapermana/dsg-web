@@ -52,7 +52,9 @@ Sebelum masuk ke _Tunning_ pertama, pastikan Power Limit dan Temp Limit berada p
 
 Jangan lupa pastikan melepas sinkronisasi _link_ _temperature_ dengan _fan speed_ dengan click icon rantai hingga berstatus OFF agar ketika pengaturan disimpan tidak berubah ke _default_ pada _temp limit,_ agar memastikan peforma yang berjalan berada pada maksimum tidak terhambah limitasi suhu. Biarkan juga fan berjalan pada mode auto dengan icon mirip hurup "A" berada pada status ON atau terlihat _bold ._
 
-Pada saat proses tunning core clock dan memory clock pastikan suhu tidak melebihi 90°C walau penggunaan jangka pendek tidak ada masalah tapi penggunaan jangka panjang akan mempercepat umur graphics card tersebut, sekitar 70°C dan 80°C masih relatif aman, dibawah itu lebih baik lagi.
+![](https://ik.imagekit.io/dsg/fps_IkPIStL8MiP.jpg)
+
+Pada saat proses tunning core clock dan memory clock pastikan kalian memantau frame rate pada _software benchmark_, pastikan frame tidak malah menurun dan juga selain itu pantau suhu GPU tidak melebihi 90°C walau penggunaan jangka pendek tidak ada masalah tapi penggunaan jangka panjang akan mempercepat umur graphics card tersebut, Sekitar 70°C dan 80°C masih relatif aman, dibawah itu lebih baik lagi. untuk target tertinggi overclocking GPU biasanya frame rate yang dapat dicapai adalah 10% dari rata-rata frame rate sebelumnya, contohnya jika frame rate di awal adalah 100fps dan mendapatkan 110fps setelah overclocking maka overclocking kalian sudah dapat dianggap mencapai target.
 
 ### Tweaking/Tunning Core Clock
 
@@ -63,3 +65,17 @@ _Tunning_ yang pertama adalah mencari _core clock_ yang stabil dari _graphics ca
 Pada contoh yang ada, kami telah mendapatkan _core clock_ yang stabil berada pada +140MHz, jangan terlalu memaksa untuk meningkatkan _core clock_ walau suhu GPU terlihat masih berada batas aman karena GPU memiliki batasannya tersendiri dan jika terlalu jauh maka Software Benchmark atau PC yang ada akan mengalami _crash_ hingga _freeze_, kalian dapat merestartnya dengan normal atau dengan paksa jika sudah tidak dapat digunakan sama sekali. Setelah hidup kembali maka semua kembali ke default lagi.
 
 ### Tweaking/Tunning Memory Clock
+
+Langkah selanjutnya adalah mencari memory clock yang stabil, dengan cara menambahkannya sedikit demi sedikit, kalian dapat memulai dengan menambahkan +50Mhz hingga +100Mhz hingga menemukan ketidak stabilan dan kemudian turunkan sedikit demi sedikit hingga sudah terasa cukup stabil, pada contoh kali ini gpu yang kami gunakan berada pada +850Mhz dimana batas stabil dan perfoma yang didapat cukup signifkan.
+
+![](https://ik.imagekit.io/dsg/memory-clock_9Hc1t4NbCLt.gif)
+
+Masih sama seperti sebelumnya tetap pastikan suhu yang ada berada batas aman, peforma yang ada juga stabil. Setidaknya kalian akan melihat ada penambahan frame rate pada benchmark dari sebelumnya.
+
+### Done!
+
+Jika sudah selesai maka simpan pengaturan yang ada dengan menekan tombol save yang berbentuk icon _memory card_, dan pilih simpan pada profile 1 ataupun profile lainnya, serta pastikan tombol startup yang berada pada pojok kanan atas aktif untuk memastikan profile overclock berjalan saat start up.
+
+![](https://ik.imagekit.io/dsg/save-compress_CxCPTfrBi.gif)
+
+Maka sekarang cobalah gunakan PC kalian untuk pemakaian normal ataupun memainkan game favorit yang ada, jika dirasa ada kejanggalan, seperti yang disebutkan diatas, maka cobalah turunkan core clock atau memory clock, karena hal tersebut berarti sistem tidak stabil, hal ini terjadi diakibatkan setiap software yang ada memiliki penggunaan sumber daya dari GPU berbeda-beda sehingga perlu penyesuaian lagi.
