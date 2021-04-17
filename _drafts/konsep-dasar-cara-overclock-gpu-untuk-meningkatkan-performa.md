@@ -52,6 +52,14 @@ Sebelum masuk ke _Tunning_ pertama, pastikan Power Limit dan Temp Limit berada p
 
 Jangan lupa pastikan melepas sinkronisasi _link_ _temperature_ dengan _fan speed_ dengan click icon rantai hingga berstatus OFF agar ketika pengaturan disimpan tidak berubah ke _default_ pada _temp limit,_ agar memastikan peforma yang berjalan berada pada maksimum tidak terhambah limitasi suhu. Biarkan juga fan berjalan pada mode auto dengan icon mirip hurup "A" berada pada status ON atau terlihat _bold ._
 
+Pada saat proses tunning core clock dan memory clock pastikan suhu tidak melebihi 90°C walau penggunaan jangka pendek tidak ada masalah tapi penggunaan jangka panjang akan mempercepat umur graphics card tersebut, sekitar 70°C dan 80°C masih relatif aman, dibawah itu lebih baik lagi.
+
 ### Tweaking/Tunning Core Clock
 
-_Tunning_ yang pertama adalah mencari _core clock_ yang stabil dari _graphics card_ yang kalian miliki, hal ini dapat dilakukan dengan cara meningkatkan frekuensi sedikit demi sedikit seperti menambahkan +10Mhz hingga +50Mhz sambil menjalan Heaven Benchmark, dan ketika terasa benchmark yang ada mengalami stutter, lagging, artifact, ataupun hingga drop pada framerate yang ada maka turunkan frekuensi tersebut hingga mendapatkan performa yang stabil.
+_Tunning_ yang pertama adalah mencari _core clock_ yang stabil dari _graphics card_ yang kalian miliki, hal ini dapat dilakukan dengan cara meningkatkan frekuensi _core clock_ sedikit demi sedikit seperti menambahkan +10Mhz hingga +50Mhz sambil menjalan Heaven Benchmark, dan ketika terasa benchmark yang ada mengalami [stutter](https://www.youtube.com/watch?v=wmtZ07qHFS4&list=UUoAASU98g2jffZ_eHIdinug "GPU Stutter, by Alexander Stopher"), [lagging](https://www.youtube.com/watch?v=j3WvNxi-9fQ "Lagging, by The Frugal Streamer"), [artifacts](https://www.youtube.com/watch?v=q9n9i2ujwtg&t=16s "Artifacts, by Lynyrd"), ataupun hingga [drop framerate](https://www.youtube.com/watch?v=dRt3mJiETh4 "FPS Drop, by Snips86x"), maka turunkan frekuensi tersebut hingga mendapatkan performa yang stabil.
+
+![](https://ik.imagekit.io/dsg/ezgif.com-gif-maker_NT2LfCZJ_.gif)
+
+Pada contoh yang ada, kami telah mendapatkan _core clock_ yang stabil berada pada +140MHz, jangan terlalu memaksa untuk meningkatkan _core clock_ walau suhu GPU terlihat masih berada batas aman karena GPU memiliki batasannya tersendiri dan jika terlalu jauh maka Software Benchmark atau PC yang ada akan mengalami _crash_ hingga _freeze_, kalian dapat merestartnya dengan normal atau dengan paksa jika sudah tidak dapat digunakan sama sekali. Setelah hidup kembali maka semua kembali ke default lagi.
+
+### Tweaking/Tunning Memory Clock
