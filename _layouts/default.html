@@ -4,7 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+<!-- Slider GitHub -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/keen-slider@5.4.0/keen-slider.min.css"/>
+
+<!-- InstantSearch.js -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css">
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css">
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/dsg-logo-icon.jpg">
 
@@ -80,8 +86,9 @@ ga('send', 'pageview');
     </ul>
 </nav>
 
+{%comment%}
 {% include search-lunr.html %}
-
+{%endcomment%}
 
 <!-- End Sidebar Navigation
 ================================================== -->
@@ -124,6 +131,14 @@ ga('send', 'pageview');
     <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
+
+    <div id="search-box">
+
+    </div>
+
+    <div id="hits">
+
+    </div>
 
     <!-- Posts Index Home
     ================================================== -->
@@ -339,5 +354,62 @@ window.addEventListener("beforeunload", function () {
     })
 </script>
 <script src="{{ site.baseurl }}/assets/js/keensliderautoplay.js"></script>
+
+<!-- InstantSearch.js -->
+<script>
+    const search = instantsearch({
+        appId: '{{ site.algolia.application_id }}',
+        apiKey: '{{ site.algolia.search_only_api_key }}',
+        indexName: '{{ site.algolia.index_name }}',
+        routing: true
+    });
+
+    search.addWidget(
+        instantsearch.widgets.searchBox({
+            container: '#search-box',
+            placeholder: 'Ketik sesuatu yang anda pikirkan...'
+        })
+    );
+
+    search.addWidget(
+    instantsearch.widgets.hits({
+      container: '#hits',
+      templates: {
+        item: function(hit) {
+                return `
+                <a class="post-link" href="{{ site.baseurl }}${hit.url}"><div class="post-item">
+                    <h2>${hit.title}</h2>
+                    <div class="post-snippet">${hit.html}</div>
+                </div></a>
+                `;
+            }
+        }
+    })
+  );
+
+    search.start();
+</script>
+<script>
+    $(document).ready(function(){
+        if(x.matches){
+            $('#search-box').keyup(function() {
+                $('#hits').show("slide");
+            })
+            $(document).mouseup(function(e) 
+            {
+                var container = $("#hits");
+
+                if (!container.is(e.target) && container.has(e.target).length === 0) 
+                {
+                    container.hide("slide");
+                }
+            });
+        };
+    });
+
+var x = window.matchMedia("(max-width: 768px)")
+myFunction(x) // Call listener function at run time
+x.addListener(myFunction) // Attach listener function on state changes
+</script>
 </body>
 </html>
