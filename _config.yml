@@ -27,7 +27,7 @@ authors:
     display_name: Arya P.
     gravatar: 01bcc0368a8e3c305e2b497d369fbee2
     email: kadekarya4@gmail.com
-    web:
+    web: https://disekitargame.com/authors/arya/
     twitter:
     description: Founder
   john:
@@ -35,7 +35,7 @@ authors:
     display_name: Dimaru Permana
     gravatar: db72fc2b17acc4c0cdba7bff28eb30c8
     email:
-    web:
+    web: https://disekitargame.com/authors/angga/
     twitter:
     description: Founder
 plugins:

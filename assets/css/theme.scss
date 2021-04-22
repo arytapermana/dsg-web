@@ -1184,3 +1184,19 @@ div.inline { float:left; }
     margin-bottom: 3rem;
     margin-top: 3rem;
 }
+
+//author span
+.author-span-badge{
+    margin-left: 5px;
+    color: #0f0f0f;
+    background-color: #ffffff00;
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    transition: color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
+}
