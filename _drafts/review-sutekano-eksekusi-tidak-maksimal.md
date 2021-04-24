@@ -1,0 +1,38 @@
+---
+layout: post
+author: john
+date: 2021-04-24 21:19:14 +0800
+title: Review Sutekano - Eksekusi Tidak Maksimal
+categories:
+- Review
+tags: []
+image: https://ik.imagekit.io/dsg/Sutekina-12_etH8Qq1efeT.jpg
+
+---
+Apa yang membuatnya dilirik adalah bagaimana kisah seorang yang memiliki penyakit mental menjalani kehidupan romansa sesama jenis (yuri). Namun, pandangan langsung kandas karena user review dari platform Steam game mostly negatif.
+
+Suteki na Kanojo no Tsukurikata yang dikembangan oleh susi_soft, dev. yang sama dari game Kirakira Stars Idol Project dengan review positif. Lantas, mengapa karya barunya tidak demikian? Berikut ulasannya.
+
+Cerita
+
+![](https://ik.imagekit.io/dsg/Sutekina-9_FyJQf0xo2.jpg)
+
+Ashiya Sumire seorang gadis yang memiliki masalah mental dan sosial ini menghabiskan waktunya dengan menuliskan keadaannya di platform media. Suatu hari ia bertemu Koga Kazuna seorang gadis normal di sekolahnya, dan terlihat baik. Tentu hal ini membuatnya kembali menghubungi teman dunia maya yang ia sebut sebagai "doc" karena perannya tidak ubah layaknya psikolog untuk meminta saran.
+
+**Berperan Sebagai "Doc"**
+
+![](https://ik.imagekit.io/dsg/sutekina-8_-ru34X7bQ.jpg)
+
+Game ini menawarkan pengalaman break-4-wall, kita adalah dokter yang memberikan konsultasi mengenai apa yang dialami oleh Sumire. Secara tidak langsung, pemainlah yang membentuk karakter utama seperti apa. Sebelum konsultasi pemain akan melihat bagaimana ia beriteraksi sebelum dan sesudah.
+
+![](https://ik.imagekit.io/dsg/Sutekina-4_ahb6RvvSt.jpg)
+
+Seperti terapi mental di dunia nyata, pemain akan mulai mempelajari secara perlahan dan bagaimana respon yang diberikan nantinya. Salah memberikan saran atau pendapat akan mempengaruhi ending yang didapat.
+
+**Konten Pendek Lumanyan Niat**
+
+![](https://ik.imagekit.io/dsg/Sutekina-5_4pp3ZXkiR.jpg)
+
+Sebenarnya poin menariknya adalah kreativitas yang ditawarkan oleh developer agar tidak terlalu monoton cukup berhasil. Animasi ketika menuliskan status di sosial media, ataupun sepucuk surat karena belum terbiasa interaksi secara langsung dibawakan dengan baik.
+
+**Sayang Eksekusi Tidak Maksimal**
