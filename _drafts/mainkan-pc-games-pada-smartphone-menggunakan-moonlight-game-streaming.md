@@ -42,3 +42,7 @@ Selain itu kalian dapat menambahkan game pada GAME & APPS jika nanti pada client
 Setelah mengaktifkan SHIELD pada Geforce Experience langkah selanjutnya adalah hanya membuka aplikasi client Moonlight dan seharusnya PC kalian telah tampil.
 
 > Perlu diingat pastikan PC sebagai host dan perangkat yang menjadi client berada pada satu jaringan yang sama.
+
+Jika PC yang ada tidak tampil maka kalian dapat menambahkan nya secara manual menggunakan ip address dari PC host.
+
+Jika semua berjalan dengan baik maka kalian sudah dapat memainkan game yang ada pada PC di smartphone dengan cara streaming!.
