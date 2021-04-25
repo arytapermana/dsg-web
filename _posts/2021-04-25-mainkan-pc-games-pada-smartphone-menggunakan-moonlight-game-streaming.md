@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sal
-date: 2021-04-25 18:11:41 +0800
+date: 2021-04-25T18:11:41.000+08:00
 title: Mainkan PC Games Pada Smartphone Menggunakan Moonlight Game Streaming
 categories:
 - Info
@@ -26,6 +26,8 @@ Sebelum memasuki langkah pertama, hal yang perlu dilakukan adalah dengan mengund
 
 * [Geforce Experience,](https://www.nvidia.com/en-us/geforce/geforce-experience/) Seharusnya setiap perangkat yang menggunakan GPU/Graphics Card NVIDIA telah memiliki ini. jika belum, bisa mengunduhnya pada website resminya.
 * [Moonlight Client,]() digunakan untuk terhubung dengan host (Geforce Experience) dan aplikasi yang akan digunakan memainkan game yang ada.
+
+Hanya dua hal tersebut yang diperlukan, tidak banyak bukan, yuk mari lanjut ke langkah pertama.
 
 ## Host/Geforce Experience
 
