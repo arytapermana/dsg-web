@@ -12,7 +12,7 @@ tags:
 image: https://ik.imagekit.io/dsg/thumb-2_BcyZGp1yt.jpg
 
 ---
-Moonlight adalah software open source dan gratis yang dikembangkan oleh komunitas menggunakan protokol NVIDIA's GameStream untuk melakukan streaming dari game PC menuju smartphone untuk dapat dimainkan. 
+Moonlight adalah software open source dan gratis yang dikembangkan oleh komunitas menggunakan protokol NVIDIA's GameStream untuk melakukan streaming dari game PC menuju smartphone untuk dapat dimainkan.
 
 > Perlu diingat Moonlight hanya bekerja pada GPU/Graphics Card NVIDIA jadi selain itu tidak dapat menggunakan software satu ini.
 
@@ -43,6 +43,14 @@ Setelah mengaktifkan SHIELD pada Geforce Experience langkah selanjutnya adalah h
 
 > Perlu diingat pastikan PC sebagai host dan perangkat yang menjadi client berada pada satu jaringan yang sama.
 
-Jika PC yang ada tidak tampil maka kalian dapat menambahkan nya secara manual menggunakan ip address dari PC host.
+Jika PC yang ada tidak tampil maka kalian dapat menambahkan nya secara manual menggunakan IP Address dari PC host.
 
-Jika semua berjalan dengan baik maka kalian sudah dapat memainkan game yang ada pada PC di smartphone dengan cara streaming!.
+Jika semua berjalan dengan baik maka kalian sudah dapat memainkan game yang ada di PC pada smartphone dengan cara streaming!
+
+![](https://ik.imagekit.io/dsg/moonlight-2_I4KiZf0jaYX.gif)
+
+## Tweaking
+
+Terdapat beberapa tweaking yang perlu dilakukan, tapi ini hanya opsional jika tidak ada masalah pada game streaming kalian, karena dari kami ingin memaksimalkan streaming game dengan kualitas terbaik dan tetap mempertahankan stabilitas.
+
+beberapa yang kami atur adalah resolusi menyesesuaikan dengan monitor yang ada yaitu 1080p, bitrate tetap pada 10 Mbps dan kalian juga dapat mengaktifkan touch control beserta vibrationnya.
