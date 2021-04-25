@@ -57,4 +57,4 @@ beberapa yang kami atur adalah resolusi menyesesuaikan dengan monitor yang ada y
 
 ![](https://ik.imagekit.io/dsg/img-1_adaps7EALO.jpg)
 
-Jadi selamat memainkan game kalian dengan bebas, baik tiduran, berguling, tengkurap, atau dimanapun asalkan masih berada dalam jaringan. tentu jika kalian ada yang ditanyakan dapat bertanya pada kolom komentar dibawah, terimakasih!.
+Jadi selamat memainkan game kalian dengan bebas, baik tiduran, berguling, tengkurap, atau dimanapun asalkan masih berada dalam satu jaringan. tentu jika kalian ada yang ditanyakan dapat bertanya pada kolom komentar dibawah, terimakasih!.
