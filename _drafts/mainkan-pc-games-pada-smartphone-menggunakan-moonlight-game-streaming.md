@@ -54,3 +54,7 @@ Jika semua berjalan dengan baik maka kalian sudah dapat memainkan game yang ada 
 Terdapat beberapa tweaking yang perlu dilakukan, tapi ini hanya opsional jika tidak ada masalah pada game streaming kalian, karena dari kami ingin memaksimalkan streaming game dengan kualitas terbaik dan tetap mempertahankan stabilitas.
 
 beberapa yang kami atur adalah resolusi menyesesuaikan dengan monitor yang ada yaitu 1080p, bitrate tetap pada 10 Mbps dan kalian juga dapat mengaktifkan touch control beserta vibrationnya.
+
+![](https://ik.imagekit.io/dsg/img-1_adaps7EALO.jpg)
+
+Jadi selamat memainkan game kalian dengan bebas, baik tiduran, berguling, tengkurap, atau dimanapun asalkan masih berada dalam jaringan. tentu jika kalian ada yang ditanyakan dapat bertanya pada kolom komentar dibawah, terimakasih!.
