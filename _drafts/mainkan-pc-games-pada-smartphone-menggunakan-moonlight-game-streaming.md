@@ -27,7 +27,7 @@ Sebelum memasuki langkah pertama, hal yang perlu dilakukan adalah dengan mengund
 * [Geforce Experience,](https://www.nvidia.com/en-us/geforce/geforce-experience/) Seharusnya setiap perangkat yang menggunakan GPU/Graphics Card NVIDIA telah memiliki ini, jika belum bisa mengunduhnya pada website resminya.
 * [Moonlight Client,]() digunakan untuk terhubung dengan host (Geforce Experience) dan aplikasi yang akan digunakan memainkan game yang ada.
 
-## Geforce Experience
+## Host/Geforce Experience
 
 Langkah pertama adalah mengaktifkan salah satu settings pada Geforce Experience yang disebut SHIELD.
 
@@ -41,4 +41,4 @@ Selain itu kalian dapat menambahkan game pada GAME & APPS jika nanti pada client
 
 Setelah mengaktifkan SHIELD pada Geforce Experience langkah selanjutnya adalah hanya membuka aplikasi client Moonlight dan seharusnya PC kalian telah tampil.
 
-perlu diingat 
+> Perlu diingat pastikan PC sebagai host dan perangkat yang menjadi client berada pada satu jaringan yang sama.
