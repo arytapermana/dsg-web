@@ -16,7 +16,7 @@ Moonlight adalah software open source dan gratis yang dikembangkan oleh komunita
 
 > Perlu diingat Moonlight hanya bekerja pada GPU/Graphics Card NVIDIA jadi selain itu tidak dapat menggunakan software satu ini.
 
-Kenapa kami memilih Moonlight padahal diluar sana terdapat banyak software streaming game seperti Parsec dan Runaway. bagi kami untuk seseorang yang perangkatnya menggukana NVIDIA, Moonlight adalah pilihan terbaik, kami telah mencoba berbagai software, hanya Moonlight yang memiliki performa paling stabil, kualitas stream terbaik dan juga penggunaan yang cukup mudah tanpa perlu melakukan banyak tweaking.
+Kenapa kami memilih Moonlight padahal diluar sana terdapat banyak software streaming game seperti Parsec dan Runaway. bagi kami untuk seseorang yang perangkatnya menggunakan NVIDIA, Moonlight adalah pilihan terbaik, kami telah mencoba berbagai software, hanya Moonlight yang memiliki performa paling stabil, kualitas stream terbaik dan juga penggunaan yang cukup mudah tanpa perlu melakukan banyak tweaking.
 
 Yuk, kita masuk ke persiapan penggunaanya. kami akan menjelaskan langkah-langkahnya dan juga beberapa tweaking di akhir jadi baca dengan seksama ya..
 
@@ -24,7 +24,7 @@ Yuk, kita masuk ke persiapan penggunaanya. kami akan menjelaskan langkah-langkah
 
 Sebelum memasuki langkah pertama, hal yang perlu dilakukan adalah dengan mengunduh terlebih dahulu software yang dibutuhkan, berikut list nya.
 
-* [Geforce Experience,](https://www.nvidia.com/en-us/geforce/geforce-experience/) Seharusnya setiap perangkat yang menggunakan GPU/Graphics Card NVIDIA telah memiliki ini, jika belum bisa mengunduhnya pada website resminya.
+* [Geforce Experience,](https://www.nvidia.com/en-us/geforce/geforce-experience/) Seharusnya setiap perangkat yang menggunakan GPU/Graphics Card NVIDIA telah memiliki ini. jika belum, bisa mengunduhnya pada website resminya.
 * [Moonlight Client,]() digunakan untuk terhubung dengan host (Geforce Experience) dan aplikasi yang akan digunakan memainkan game yang ada.
 
 ## Host/Geforce Experience
