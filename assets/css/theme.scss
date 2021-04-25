@@ -493,6 +493,8 @@ img, img:hover {
     p {
         margin-top:30px;
         margin-bottom:30px;
+        text-align: justify;
+        text-justify: inter-word;
     }
     code {
         font-size: 15px;
@@ -706,7 +708,7 @@ body.active-side {
 }
 @media (max-width: 768px) {
     .posttitle {
-        font-size:34px;
+        font-size:30px;
     }
     .blog-grid-container {
         grid-template-columns: 1fr;
@@ -947,6 +949,14 @@ a[href^="https://www.youtube.com/"]  {
   }
 
   .dsg-post .has-dropcap ul li p:first-child:first-letter {
+    float: unset;
+    font-weight: unset;
+    font-size: unset;
+    line-height: unset;
+    padding-right: unset;
+  }
+
+  .dsg-post .has-dropcap blockquote p:first-child:first-letter {
     float: unset;
     font-weight: unset;
     font-size: unset;
