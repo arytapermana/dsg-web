@@ -35,7 +35,7 @@ Buka Geforce Experience dan klik icon settings yang berada di pojok kanan atas, 
 
 ![](https://ik.imagekit.io/dsg/moonlight-1_swXfesmF-1-.gif)
 
-Selain itu kalian dapat menambahkan game pada GAME & APPS jika nanti pada client game kalian tidak ditemukan pada library.
+Selain itu kalian dapat menambahkan game pada GAME & APPS jika nanti pada client, game kalian tidak ditemukan di library.
 
 ## Moonlight Client
 
@@ -45,9 +45,9 @@ Setelah mengaktifkan SHIELD pada Geforce Experience langkah selanjutnya adalah h
 
 Jika PC yang ada tidak tampil maka kalian dapat menambahkan nya secara manual menggunakan IP Address dari PC host.
 
-Jika semua berjalan dengan baik maka kalian sudah dapat memainkan game yang ada di PC pada smartphone dengan cara streaming!
-
 ![](https://ik.imagekit.io/dsg/moonlight-2_I4KiZf0jaYX.gif)
+
+Jika semua berjalan dengan baik maka kalian sudah dapat memainkan game yang ada di PC pada smartphone dengan cara streaming!
 
 ## Tweaking
 
