@@ -32,3 +32,7 @@ Sebelum memasuki langkah pertama, hal yang perlu dilakukan adalah dengan mengund
 Langkah pertama adalah mengaktifkan salah satu settings pada Geforce Experience yang disebut SHIELD.
 
 Buka Geforce Experience dan klik icon settings yang berada di pojok kanan atas, pilih tab SHIELD, dan aktifkan.
+
+![](https://ik.imagekit.io/dsg/moonlight-1_swXfesmF-1-.gif)
+
+Selain itu kalian dapat menambahkan game pada GAME & APPS jika nanti pada client game kalian tidak ditemukan pada library.
