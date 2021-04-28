@@ -37,4 +37,4 @@ Elemen psikologisnya sudah berhasil dibawakan dengan baik. Walaupun setelah itu,
 
 Terlepas dari ketidakrapian di versi trial, tetapi kami percaya bahwa pengalaman sesungguhnya akan dimaksimalkan di versi penuh. Karena ketika Anda menyelesaikannya masih ada banyak hal yang belum terjawab terutama kompleksitas tema perputaran waktu.
 
-Bagi Anda yang tertarik mencoba versi trialnya bisa mengunjungi [situs resminya](https://key.visualarts.gr.jp/kinetic/loopers/#download), JP only. Loopers sendiri akan dirilis, 28 Mei mendatang di Jepang dengan rating umur all-age.
+Bagi Anda yang tertarik mencoba versi trialnya bisa mengunjungi [situs resminya](https://key.visualarts.gr.jp/kinetic/loopers/#download), JP only. Loopers sendiri akan dirilis, 28 Mei mendatang untuk PC di Jepang dengan rating umur all-age.
