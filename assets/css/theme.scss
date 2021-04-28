@@ -99,7 +99,7 @@ blockquote {
 .hamburger-bar:before,
 .hamburger-bar:after,
 #menu,
-body,
+// body,
 a,
 a:hover,
 body.active-side,
@@ -890,6 +890,10 @@ a[href^="https://youtu.be/"]  {
     padding-right: 0;
 }
 a[href^="https://www.youtube.com/"]  {
+    background: none;
+    padding-right: 0;
+}
+a[href^="https://ik.imagekit.io/dsg/"]  {
     background: none;
     padding-right: 0;
 }

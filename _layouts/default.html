@@ -12,6 +12,12 @@
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css">
 
+<!-- Lightbox -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
 <link rel="icon" href="{{ site.baseurl }}/assets/images/dsg-logo-icon.jpg">
 
 {% if page.url == '/index.html' %}
@@ -326,6 +332,19 @@ window.addEventListener("beforeunload", function () {
 });
 </script>
 
+<!-- lightbox -->
+<script>
+    const lightbox = GLightbox({
+        closeButton: true,
+        openEffect: 'fade',
+        closeEffect: 'fade',
+        zoomable: true,
+        touchNavigation: true,
+        closeOnOutsideClick: true,
+    });
+</script>
+
+<!-- slider -->
 <script src="https://cdn.jsdelivr.net/npm/keen-slider@5.4.0/keen-slider.min.js"></script>
 <script>
   var slider = new KeenSlider("#my-keen-slider", {
