@@ -17,7 +17,7 @@ Tidak sedikit berbagai layanan VPN melakukan "propaganda" bahwa VPN dibutuhkan u
 
 > Kami menggunakan VPN yang kami siapkan sendiri pada server singapore menggunakan OpenVPN yang diketahui sebagai protokol VPN ter-cepat dan ter-aman yang kami ketahui.
 
-Kami telah melakukan benchmarking dan membandingkannya untuk memainkan game dengan dan tidak menggunakan VPN, dan hasilnya kami rasa pasti kalian sudah tahu.
+Kami telah melakukan benchmark dan membandingkannya untuk memainkan game dengan dan tidak menggunakan VPN, dan hasilnya kami rasa pasti kalian sudah tahu.
 
 <a href="https://ik.imagekit.io/dsg/benchmark_JQJ1Y557z.jpg" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/benchmark_JQJ1Y557z.jpg" alt="image" />
