@@ -35,7 +35,9 @@ Langkah pertama adalah mengaktifkan salah satu settings pada Geforce Experience 
 
 Buka Geforce Experience dan klik icon settings yang berada di pojok kanan atas, pilih tab SHIELD, dan aktifkan.
 
-![](https://ik.imagekit.io/dsg/moonlight-1_swXfesmF-1-.gif)
+<a href="https://ik.imagekit.io/dsg/moonlight-1_swXfesmF-1-.gif" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/moonlight-1_swXfesmF-1-.gif" alt="image" />
+</a>
 
 Selain itu kalian dapat menambahkan game pada GAME & APPS jika nanti pada client, game kalian tidak ditemukan di library.
 
@@ -47,7 +49,9 @@ Setelah mengaktifkan SHIELD pada Geforce Experience langkah selanjutnya adalah h
 
 Jika PC yang ada tidak tampil maka kalian dapat menambahkan nya secara manual menggunakan IP Address dari PC host.
 
-![](https://ik.imagekit.io/dsg/moonlight-2_I4KiZf0jaYX.gif)
+<a href="https://ik.imagekit.io/dsg/moonlight-2_I4KiZf0jaYX.gif" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/moonlight-2_I4KiZf0jaYX.gif" alt="image" />
+</a>
 
 Jika semua berjalan dengan baik maka kalian sudah dapat memainkan game yang ada di PC pada smartphone dengan cara streaming!
 
@@ -57,6 +61,8 @@ Terdapat beberapa tweaking yang perlu dilakukan, tapi ini hanya opsional jika ti
 
 beberapa yang kami atur adalah resolusi menyesesuaikan dengan monitor yang ada yaitu 1080p, bitrate tetap pada 10 Mbps dan kalian juga dapat mengaktifkan touch control beserta vibrationnya.
 
-![](https://ik.imagekit.io/dsg/img-1_adaps7EALO.jpg)
+<a href="https://ik.imagekit.io/dsg/img-1_adaps7EALO.jpg" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/img-1_adaps7EALO.jpg" alt="image" />
+</a>
 
 Jadi selamat memainkan game kalian dengan bebas, baik tiduran, berguling, tengkurap, atau dimanapun asalkan masih berada dalam satu jaringan. tentu jika kalian ada yang ditanyakan dapat bertanya pada kolom komentar dibawah, terimakasih!.
