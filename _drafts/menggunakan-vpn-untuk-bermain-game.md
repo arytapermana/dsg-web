@@ -34,3 +34,5 @@ Jadi untuk apa menggunakan VPN jika itu malah merugikan!?, tentu kembali ke pern
 * **Bandwith ISP tidak stabil**, terjadi ketika arus data kalian dirasa terlalu mengganggu ISP, seperti streaming, download, torrenting dan bermain game secara bersamaan, sehingga ISP menurunkan kecepatan kalian menjadi tidak stabil, VPN berfungsi melakukan bypass hal tersebut.
 * **Bermain pada region berbeda**, Tidak dapat memilih server pada game karena hanya ada quickmatch, region sepi dengan player lain, maka VPN dapat digunakan untuk mengganti region yang ada sesuai yang diinginkan.
 * **Menurunkan latency**, yup benar, kami tidak salah mengetik, latency VPN mungkin saja dapat lebih kecil dari tanpa menggunakan VPN ketika terkoneksi dengan server game tertentu, tapi hal ini sangat jarang dan lebih sering kebalikannya.
+
+Mungkin itu saja yang dapat kami sampaikan mengenai VPN, jadi relatif dengan kalian, apakah rela mengorbankan stabilitas koneksi yang ada demi mendapatkan tujuan penggunaan VPN yang disebutkan diatas, atau kalian memiliki pendapat lain?, kalian dapat berkomentar dibawah.
