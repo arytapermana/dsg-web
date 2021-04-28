@@ -33,4 +33,8 @@ Horror? Tidak juga, bahkan jumpscare-nya tidak membuat pemain merinding, justru 
 
 Elemen psikologisnya sudah berhasil dibawakan dengan baik. Walaupun setelah itu, Anda akan mulai bertanya-tanya lagi tentang kondisi mental dari setiap karakter ketika pergantian scene masih bisa terlihat santai.
 
- 
+![](https://ik.imagekit.io/dsg/Looper-12_HyReDOu2h.jpg)
+
+Terlepas dari ketidakrapian di versi trial, tetapi kami percaya bahwa pengalaman sesungguhnya akan dimaksimalkan di versi penuh. Karena ketika Anda menyelesaikannya masih ada banyak hal yang belum terjawab terutama kompleksitas tema perputaran waktu.
+
+Bagi Anda yang tertarik mencoba versi trialnya bisa mengunjungi [situs resminya](https://key.visualarts.gr.jp/kinetic/loopers/#download), JP only. Loopers sendiri akan dirilis, 28 Mei mendatang di Jepang dengan rating umur all-age.
