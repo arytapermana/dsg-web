@@ -29,6 +29,10 @@ Yup benar latency/ping yang ada lebih tinggi saat menggunakan VPN, ditujukan pad
 
 > VPN selalu akan menambah latency, karena ada proses enkripsi pada server VPN itu sendiri sebelum diterukan kembali ke perangkat kalian.
 
+<a href="https://ik.imagekit.io/dsg/vpn-gif_h8itUeOx73Y.gif" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/vpn-gif_h8itUeOx73Y.gif" alt="image" />
+</a>
+
 Jadi untuk apa menggunakan VPN jika itu malah merugikan!?, tentu kembali ke pernyataan sebelumnya bahwa kalian membutuhkan VPN itu relatif, seperti beberapa contoh berikut memberikan gambaran kenapa VPN dibutuhkan saat bermain game.
 
 * **Bandwith ISP tidak stabil**, terjadi ketika arus data kalian dirasa terlalu mengganggu ISP, seperti streaming, download, torrenting dan bermain game secara bersamaan, sehingga ISP menurunkan kecepatan kalian menjadi tidak stabil, VPN berfungsi melakukan bypass identitas perangkat dari hal tersebut.
