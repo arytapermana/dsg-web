@@ -13,11 +13,13 @@ image: https://ik.imagekit.io/dsg/thumb_zXqBpC_Ew.jpg
 ---
 Ketika berbicara VPN maka tidak jauh akan masalah privasi, VPN kita ketahui biasa digunakan banyak orang untuk berselancar di dunia web secara anonim dan menembus firewal ISP, tapi bagaimana jadinya jika VPN digunakan untuk bermain game?
 
+***
+
 Tidak sedikit berbagai layanan VPN melakukan "propaganda" bahwa VPN dibutuhkan untuk bermain game tapi kenyataannya, yup kalian membutuhkanya!, _really!?_, tapi "relatif" dengan tujuan kalian.
 
-Kami telah melakukan benchmarking dan membandingkannya untuk memainkan game dengan dan tidak menggunakan VPN, dan hasilnya pasti kalian sudah tahu.
-
 > Kami menggunakan VPN yang kami siapkan sendiri pada server singapore menggunakan OpenVPN yang diketahui sebagai protokol VPN ter-cepat dan ter-aman yang kami ketahui.
+
+Kami telah melakukan benchmarking dan membandingkannya untuk memainkan game dengan dan tidak menggunakan VPN, dan hasilnya pasti kalian sudah tahu.
 
 <a href="https://ik.imagekit.io/dsg/benchmark_JQJ1Y557z.jpg" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/benchmark_JQJ1Y557z.jpg" alt="image" />
