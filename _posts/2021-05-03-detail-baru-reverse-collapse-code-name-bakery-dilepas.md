@@ -1,6 +1,6 @@
 ---
 layout: post
-author: sal
+author: john
 date: 2021-05-03 05:13:44 +0800
 title: 'Detail Baru Reverse Collapse: Code Name Bakery Dilepas'
 categories:
