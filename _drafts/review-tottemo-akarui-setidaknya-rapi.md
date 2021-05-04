@@ -27,8 +27,25 @@ Walaupun memang game dengan sub-genre ini tidak terlalu berfokus pada cerita, na
 
 ![](https://ik.imagekit.io/dsg/tottemo-2_j7nCuvu2iT.jpg)
 
-Juga karena nukige, sebagian besar cg menampilkan scene 18+. Tidak ada cg romansa manis, bahkan cg chibi hadir minim walaupun semua karakter memilikinya.
+Juga karena nukige, sebagian besar cg menampilkan scene 18+. Tidak ada cg romansa manis, bahkan cg chibi hadir minim walaupun semua karakter memilikinya. Setidaknya voice-acting yang ditawarkan cukup memanjakan telinga.
 
-Setidaknya Rapi
+**Setidaknya Rapi**
 
- 
+![](https://ik.imagekit.io/dsg/tottemo-5_zNnvMvU2J.jpg)
+
+Apa yang membuatnya menarik adalah, Anda hanya perlu main sekali untuk menikmati seluruh konten tanpa perlu fase kedua. Memang ada pilihan untuk mau fokus ke rute mana, namun interaksi menarik dari heroine yang kita pilih seolah menyuruh untuk memperhatikan karakter lain. Alhasil semua cg dan scene bisa dikumpulkan hanya dengan sekali main saja, tidak ada plothole maupun cabang cerita lain.
+
+**Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/tottemo-6_9yW8LoeUckB.jpg)
+
+Terlepas dari game yang untuk melepas hasrat, Tottemo Akarui! memberikan pengalaman menikmati konten dalam sekali main, tanpa perlu trial-and-error. Selain itu, komplain lain adalah penggunaan textbox dan font-nya kurang nyaman di mata. Selebihnya vn nukige ini cukup rapi.
+
+Kelebihan :
+
+* Semua Rute Dalam 1 gameplay
+
+Kekurangan :
+
+* Cerita begitu lemah
+* Pemilihan font dan textbox
