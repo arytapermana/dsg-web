@@ -5,7 +5,10 @@ date: 2021-05-04 14:07:00 +0800
 title: Review Tottemo Akarui! - Setidaknya Rapi
 categories:
 - Review
-tags: []
+tags:
+- ''
+- Tottemo Akarui!
+- EvoLL
 image: https://ik.imagekit.io/dsg/tottemo_xIiU-wtRQhb.jpg
 
 ---
