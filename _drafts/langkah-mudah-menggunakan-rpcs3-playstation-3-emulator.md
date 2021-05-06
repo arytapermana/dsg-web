@@ -42,3 +42,13 @@ Setelah langkah sebelumnya selesai seharusnya kalian telah dapat memainkan game 
 <a href="https://ik.imagekit.io/dsg/2_9s9DE4-Ro.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/2_9s9DE4-Ro.png" alt="image" />
 </a>
+
+Jika sudah maka semua tahapan telah selesai dan selamat bermain ataupun bernostalgia, ups.. ada satu hal lagi tetapi opsional yang akan dibahas selanjutnya dibawah.
+
+## Tweaking
+
+Sistem yang dibutuhkan untuk menjalankan emulator sebenarnya cukup berat, dilansir dari situs RPCS3 jumlah processor cores minimal adalah lebih dari 4 cores, atau untuk processor pada kelas Intel Core i5 atau AMD Ryzen 3 dan kebawah memiliki sedikit masalah menjalankan emulator ini, tetapi kami memiliki beberapa tweaking yang dilansir dari post [Reddit](https://www.reddit.com/r/rpcs3/comments/kdy4w7/suggestions_for_optimizing_rpcs3_for_performance/) oleh [u/arrowflask](https://www.reddit.com/user/arrowflask/) agar dapat meningkatkan stabilitas dan framerate pada emulator, sebelum itu masuk terlebih dahulu pada menu config.
+
+<a href="https://ik.imagekit.io/dsg/3_1X3TJAsQU.png" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/3_1X3TJAsQU.png" alt="image" />
+</a>
