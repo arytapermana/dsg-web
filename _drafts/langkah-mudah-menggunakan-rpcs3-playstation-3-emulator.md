@@ -37,6 +37,8 @@ Pilih file firmware yang telah diunduh sebelumnya kemudian tunggu proses instala
 
 Setelah langkah sebelumnya selesai seharusnya kalian telah dapat memainkan game pada RPCS3. Untuk memainkan game yang ada kalian hanya perlu memilih menu File kemudia klik Boot Game dan arahakan menuju direktori game yang ada dan Select Folder.
 
+> Dari mana mendapatkan game?, kalian dapat melakukan extract cd game playstation yang ada dan tutorialnya telah disediakan pada dokumentasi RPCS3 [berikut](https://rpcs3.net/quickstart).
+
 <a href="https://ik.imagekit.io/dsg/2_9s9DE4-Ro.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/2_9s9DE4-Ro.png" alt="image" />
 </a>
