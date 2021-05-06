@@ -25,7 +25,7 @@ Jika semua hal yang dibutuhkan sudah siap maka kita dapat lanjut ke tahapan beri
 
 ## RPCS3
 
-Setelah kalian mengunduh emulatornya kalian dapat membuka rpcs3.exe langsung karena tidak memerlukan instalasi pada sistem operasi, setelah membuka RPCS3, lakukan instalasi firmware pada menu terlebih dahulu.
+Setelah kalian mengunduh emulatornya kalian dapat membuka rpcs3.exe langsung, karena tidak memerlukan instalasi pada sistem operasi, setelah membuka RPCS3, lakukan instalasi firmware pada menu terlebih dahulu.
 
 <a href="https://ik.imagekit.io/dsg/1_FMRLU4K6p.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/1_FMRLU4K6p.png" alt="image" />
