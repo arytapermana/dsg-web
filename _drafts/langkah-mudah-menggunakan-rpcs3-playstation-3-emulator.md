@@ -19,7 +19,7 @@ PlayStation 3, begitu banyak nostalgia game yang ada, bagi kalian yang telah mem
 Langsung saja, sebelum itu kalian perlu melakukan download beberapa kebutuhannya terlebih dahulu, beberapa hal tersebut adalah sebagai berikut.
 
 * [RPCS3](https://rpcs3.net/download), tentu emulatornya itu sendiri, kalian dapat mengunduhnya pada situs RPCS3.
-* [Firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/), dalam menjalankan sistemnya RPCS3 memerlukan firmware dari PlayStation 3 itu sendiri, kalian dapat mengunduhnya pada situs resmi PlayStation.
+* [Firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/), dalam menjalankan sistemnya RPCS3 memerlukan firmware dari PlayStation 3, kalian dapat mengunduhnya pada situs resmi PlayStation.
 
 Jika semua hal yang dibutuhkan sudah siap maka kita dapat lanjut ke tahapan berikutnya.
 
