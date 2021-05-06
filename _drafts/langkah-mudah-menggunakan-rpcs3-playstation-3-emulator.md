@@ -12,7 +12,7 @@ tags:
 image: https://ik.imagekit.io/dsg/thumb_1__-L2pAC1pv.jpg
 
 ---
-PlayStation 3, begitu banyak nostalgia game yang ada, bagi kalian yang telah memainkan game pada konsol satu ini. Jadi kali ini kami akan memberikan tahapan untuk setup atau menyiapkan RPCS3 yaitu emulator PlayStation 3 yang cukup cepat perkembangannya waktu demi waktu dari segi optimalisasi.
+PlayStation 3, begitu banyak nostalgia game yang ada, bagi kalian yang telah memainkan game pada konsol satu ini. Jadi kali ini kami akan memberikan tahapan untuk setup atau menyiapkan RPCS3, yaitu emulator PlayStation 3 yang cukup cepat perkembangannya waktu demi waktu dari segi optimalisasi.
 
 > Legalitas emulator konsol game masih dipertanyakan hingga sekarang, walaupun firmware resmi dan game yang ada dapat di extract langsung dari cd gamenya tetap masih ada celah yang dipertanyakan.
 
