@@ -79,4 +79,6 @@ setelah muncul jendela baru maka aturlah beberapa settings yang akan dijelaskan 
 * Relaxed ZCULL Sync (Disabled): **Enabled** (aman untuk kebanyakan game, akan menyebabkan beberapa game tidak dapat boot atau crash pada title screen)
 * Maximum Number of SPURS Threads (Unlimited == 6): **4 or 3** (jika terjadi masalah tingkatkan menjadi +1 hingga stabil)
 
+Terakhir adalah pastikan rpcs3.exe berjalan pada high priority di task manager, cukup membawa perbedaan dari segi performa.
+
 Jika kalian ingin mengetahui konfigurasi lengkapnya kalian dapat mengunjungi thread redditnya [berikut](https://www.reddit.com/r/rpcs3/comments/kdy4w7/suggestions_for_optimizing_rpcs3_for_performance/). seharusnya semua berjalan baik. Selamat menikmati bermain game kalian, jika ada masalah atau pertanyaan dapat berkomentar di bawah, terimakasih!
