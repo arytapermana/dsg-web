@@ -25,8 +25,18 @@ Jika semua hal yang dibutuhkan sudah siap maka kita dapat lanjut ke tahapan beri
 
 ## RPCS3
 
-Setelah kalian mengunduh emulatornya kalian dapat membukanya rpcs3.exe langsung karena tidak memerlukan instalasi, setelah membuka RPCS3, lakukan instalasi firmware pada menu terlebih dahulu.
+Setelah kalian mengunduh emulatornya kalian dapat membuka rpcs3.exe langsung karena tidak memerlukan instalasi pada sistem operasi, setelah membuka RPCS3, lakukan instalasi firmware pada menu terlebih dahulu.
 
 <a href="https://ik.imagekit.io/dsg/1_FMRLU4K6p.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/1_FMRLU4K6p.png" alt="image" />
+</a>
+
+Pilih file firmware yang telah diunduh sebelumnya kemudian tunggu proses instalasinya
+
+## Play
+
+Setelah langkah sebelumnya selesai seharusnya kalian telah dapat memainkan game pada RPCS3. Untuk memainkan game yang ada kalian hanya perlu memilih menu File kemudia klik Boot Game dan arahakan menuju direktori game yang ada dan Select Folder.
+
+<a href="https://ik.imagekit.io/dsg/2_9s9DE4-Ro.png" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/2_9s9DE4-Ro.png" alt="image" />
 </a>
