@@ -85,4 +85,4 @@ Terakhir adalah pastikan rpcs3.exe berjalan pada high priority di task manager, 
 <img src="https://ik.imagekit.io/dsg/bayonetta_zoi_688jSd.gif" alt="image" />
 </a>
 
-Jika kalian ingin mengetahui konfigurasi lengkapnya kalian dapat mengunjungi thread redditnya [berikut](https://www.reddit.com/r/rpcs3/comments/kdy4w7/suggestions_for_optimizing_rpcs3_for_performance/). seharusnya semua berjalan baik. Selamat menikmati bermain game kalian, jika ada masalah atau pertanyaan dapat berkomentar di bawah, terimakasih!
+Jika kalian ingin mengetahui konfigurasi lengkapnya kalian dapat mengunjungi thread redditnya [berikut](https://www.reddit.com/r/rpcs3/comments/kdy4w7/suggestions_for_optimizing_rpcs3_for_performance/). seharusnya semua berjalan baik, Selamat menikmati bermain game kalian, jika ada masalah atau pertanyaan dapat berkomentar di bawah, terimakasih!
