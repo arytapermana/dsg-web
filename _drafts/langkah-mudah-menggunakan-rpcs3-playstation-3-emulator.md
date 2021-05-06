@@ -52,3 +52,16 @@ Sistem yang dibutuhkan untuk menjalankan emulator sebenarnya cukup berat, dilans
 <a href="https://ik.imagekit.io/dsg/3_1X3TJAsQU.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/3_1X3TJAsQU.png" alt="image" />
 </a>
+
+setelah muncul jendela baru maka aturlah beberapa settings yang akan dijelaskan berikut.
+
+### CPU tab:
+
+* Preferred SPU Threads (Auto): **3 or 2**
+* Lower SPU Thread Priority (Disabled): **Enabled**
+* Enable SPU Loop Detection (Enabled): **Disabled**
+
+### GPU tab:
+
+* Shader Mode (Async multi threaded): **Async w/ Shader Interpreter**
+* Number of Shader Compiler Threads: **2**
