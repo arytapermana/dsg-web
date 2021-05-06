@@ -57,7 +57,7 @@ setelah muncul jendela baru maka aturlah beberapa settings yang akan dijelaskan 
 
 ### CPU tab:
 
-* Preferred SPU Threads (Auto): **3 or 2**
+* Preferred SPU Threads (Auto): **3 atau 2**
 * Lower SPU Thread Priority (Disabled): **Enabled**
 * Enable SPU Loop Detection (Enabled): **Disabled**
 
@@ -65,3 +65,16 @@ setelah muncul jendela baru maka aturlah beberapa settings yang akan dijelaskan 
 
 * Shader Mode (Async multi threaded): **Async w/ Shader Interpreter**
 * Number of Shader Compiler Threads: **2**
+
+### Audio tab:
+
+* Audio Buffer Duration (100 ms): **150 ms**
+
+### Emulator tab:
+
+* Max LLVM Compile Threads (4): **3**
+
+### Advanced tab:
+
+* Relaxed ZCULL Sync (Disabled): **Enabled** (aman untuk kebanyakan game, akan menyebabkan beberapa game tidak dapat boot atau crash pada title screen)
+* Maximum Number of SPURS Threads (Unlimited == 6): **4 or 3** (jika terjadi masalah tingkatkan menjadi +1 hingga stabil)
