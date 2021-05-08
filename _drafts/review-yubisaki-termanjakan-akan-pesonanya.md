@@ -45,7 +45,7 @@ Dunia sudah terlalu pahit, maka game ini menjadi pemanis hidup yang indah. Benar
 
 ![](https://ik.imagekit.io/dsg/Yubisaki_11_ub32ob5g9Ss.jpg)
 
-Yubisaki Connection menjadi karya manis lainnya dari HookSoft yang memikat. Selain visual yang begitu mempesona hingga H-scene premium, juga cerita unik masing-masing heroine. Sayangnya jika mereka meingimplementasikan fitur NTR atau selingkuh dengan chat heroine lain, dan ada scene khusus ia mungkin jauh lebih menarik.
+Yubisaki Connection menjadi karya manis lainnya dari HookSoft yang memikat. Selain visual yang begitu mempesona hingga H-scene premium, juga cerita unik masing-masing heroine. Sayangnya jika mereka meingimplementasikan fitur cheat atau selingkuh dengan chat heroine lain, dan ada scene khusus ia mungkin jauh lebih menarik.
 
 Kelebihan:
 
@@ -55,4 +55,4 @@ Kelebihan:
 
 Kekurangan:
 
-* Tidak Ada Fitur NTR
+* Tidak Ada Fitur Cheating 
