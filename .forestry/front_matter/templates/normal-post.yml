@@ -56,6 +56,13 @@ fields:
   config:
     required: true
   label: image-url
+- name: tldr
+  type: text
+  config:
+    required: false
+  label: tldr
+  description: Tambahkan link tldr disini, jika kosong maka otomatis button tldr tidak
+    tampil.
 pages:
 - _posts/10-video-game-dengan-bad-ending-menarik.md
 - _posts/2020-10-20-anisotropic-filtering-pada-game-apa-itu.md
