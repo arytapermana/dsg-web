@@ -37,7 +37,8 @@ fields:
 - name: date
   type: datetime
   label: date
-  description: ''
+  description: Biarkan jangan dihiraukan, field ini otomatis memasukan value waktu
+    disaat anda membuat post.
   config:
     required: true
     date_format: 
@@ -48,14 +49,18 @@ fields:
 - type: list
   name: categories
   label: categories
+  description: Pastikan menggunakan tata bahasa seperti biasanya seperti "Info" bukan
+    "info", huruf besar diawal dan pastikan tekan ENTER untuk konfirmasi.
 - type: list
   name: tags
   label: tags
+  description: Hint sama seperti categories.
 - name: image
   type: text
   config:
-    required: true
+    required: false
   label: image-url
+  description: Tinggal paste URL gambar thumbnail yang ada.
 - name: tldr
   type: text
   config:
