@@ -9,25 +9,40 @@ post_class: post-template
     <!-- Post Title -->
     <h1 class="posttitle">{{ page.title }}</h1>
     <!-- Author & Date  Box -->
-    {% assign author = site.authors[page.author] %}
-    {% if page.author %}
-    <div class="d-flex align-items-center mt-4">
-        <div>
-            {% if author.avatar %}
-            <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-            {% else %}
-            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-            {% endif %}
-        </div>
-        <div style="margin-left:10px;" class="line-break">
-        Oleh <a target="_blank" class="text-dark" href="{{ author.web }}"><b>{{ author.display_name }}&nbsp;</b></a> <span><img src="{{ site.baseurl }}/assets/images/clock.png"> Pada 
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y, %I:%M %P." }}</time></span></span>
-        {% if page.last_modified_at %}
-        (Diperbarui: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-        {% endif %}
+    <div class="container no-gutters under-tittle">
+        <div class="row">
+            <div class="col-lg-10 col-md-9 col-sm-12">
+                <div>
+                    {% assign author = site.authors[page.author] %}
+                    {% if page.author %}
+                    <div class="d-flex align-items-center mt-4">
+                        <div>
+                            {% if author.avatar %}
+                            <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+                            {% else %}
+                            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+                            {% endif %}
+                        </div>
+                        <div style="margin-left:10px;" class="line-break">
+                        Oleh <a target="_blank" class="text-dark" href="{{ author.web }}"><b>{{ author.display_name }}&nbsp;</b></a> <span><img src="{{ site.baseurl }}/assets/images/clock.png"> Pada 
+                        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y, %I:%M %P." }}</time></span></span>
+                        {% if page.last_modified_at %}
+                        (Diperbarui: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                        {% endif %}
+                        </div>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+                <div class="col-lg-2 col-md-3 col-sm-12" id="tldr-enable">
+                    <div class="tldr-story mt-4">
+                        <a href="{{page.tldr}}" class="tldr-story-text" id="tldr-id-text"><div class="tldr-bar">TL <i class="fas fa-bolt"></i> DR</div></a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-    {% endif %}
+
 </div>
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
@@ -92,3 +107,12 @@ https://search.google.com/structured-data/testing-tool/u/0/
     }
     </script>
 {% endif %}
+
+<!-- hide tldr if empty -->
+<script>
+        if(document.getElementById("tldr-id-text")
+                    .getAttribute("href")=="") {
+            document.getElementById("tldr-enable")
+                      .style.display = "none";
+        }
+</script>
