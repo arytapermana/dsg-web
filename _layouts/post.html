@@ -38,9 +38,6 @@ post_class: post-template
 <!-- Featured Image -->
 {% include featured-image.html %}
 
-<!-- TL;DR -->
-{% include tldr.html %}
-
 <!-- Content -->
 <div class="dsg-post">
     {% include article.html %}
@@ -103,4 +100,29 @@ https://search.google.com/structured-data/testing-tool/u/0/
             document.getElementById("tldr-enable")
                       .style.display = "none";
         }
+</script>
+
+<!-- TL;DR -->
+<script>
+    $("" +
+    "<div id='tldr-enable'>" +
+        "<div class='tldr-story'>" +
+           "<div class='tldr-bar'>TL <i class='fas fa-bolt'></i> DR</div>" +
+            "<a href='{{page.tldr}}' class='tldr-story-text' id='tldr-id-text'>" +
+                "<div class='quick-container'>" +
+                    "<div class='row quick-row'>" +
+                        "<div class='col-3 quick-image'>" +
+                            "<img src='{{page.image}}' alt=''>" +
+                        "</div>" +
+                        "<div class='col-7 quick-text'>" +
+                            "<h2>Baca Cepat.</h2>" +
+                        "</div>" +
+                        "<div class='col-2 quick-arrow'>" +
+                            "<i class='fas fa-arrow-right quick-arrow-right'></i>" +
+                        "</div>" +
+                    "</div>" +
+                "</div>" +
+            "</a>" +
+            "</div>" +
+        "</div>").insertAfter( ".dsg-post p:nth-child(1)" );
 </script>

@@ -1222,8 +1222,8 @@ div.inline { float:left; }
 //tldr
 #tldr-enable{
     max-width: 740px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
     margin-left: auto;
     margin-right: auto;
     a:hover{
@@ -1309,50 +1309,6 @@ div.inline { float:left; }
         margin-left: 5px;
     }
 }
-
-// .tldr-story a:hover{
-//     text-decoration: none;
-// }
-
-// #tldr-enable {
-//     transition: transform 0.5s ease-in-out;
-//     transform: translate(0px, 0px);
-// }
-// #tldr-enable:hover {
-//     transform: translate(0px, -1px);
-// }
-
-// .tldr-story{
-//     text-align: right;
-//     margin-top: 35px !important;
-//     .tldr-story-text{
-//         font-weight: bold;
-//     }
-//     .tldr-bar{
-//         background-color: #ff0000;
-//         color: $dsg-white;
-//         padding: 5px;
-//         text-decoration: none;
-//         display: inline;
-//         filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 0.0));
-//         transition: filter 1s ease-in-out,
-//                     background-color 0.5s ease-in-out;
-//     }
-//     .tldr-bar:hover{
-//         filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 0.5));
-//         background-color: $dsg-black;
-//     }
-// }
-// @media (max-width: 767px){
-//     .tldr-story{
-//         text-align: left;
-//         margin-top: 70px !important;
-//     }
-// }
-
-// .under-tittle{
-//         width: 100% !important;
-// }
 
 .no-gutters {
     margin-right: 0;
