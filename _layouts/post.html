@@ -93,15 +93,6 @@ https://search.google.com/structured-data/testing-tool/u/0/
     </script>
 {% endif %}
 
-<!-- hide tldr if empty -->
-<script>
-        if(document.getElementById("tldr-id-text")
-                    .getAttribute("href")=="") {
-            document.getElementById("tldr-enable")
-                      .style.display = "none";
-        }
-</script>
-
 <!-- TL;DR -->
 <script>
     $("" +
@@ -124,5 +115,14 @@ https://search.google.com/structured-data/testing-tool/u/0/
                 "</div>" +
             "</a>" +
             "</div>" +
-        "</div>").insertAfter( ".dsg-post p:nth-child(1)" );
+        "</div>").insertAfter( ".dsg-post .article-post .has-dropcap > p:nth-child(1)" );
+</script>
+
+<!-- hide tldr if empty -->
+<script>
+    if(document.getElementById("tldr-id-text")
+                .getAttribute("href")=="") {
+        document.getElementById("tldr-enable")
+                  .style.display = "none";
+    }
 </script>
