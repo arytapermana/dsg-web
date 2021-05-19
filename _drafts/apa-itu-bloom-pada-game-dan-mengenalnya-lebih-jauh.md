@@ -9,7 +9,7 @@ tags:
 - Bloom
 - Settings Graphics
 image: https://ik.imagekit.io/dsg/thumb__kjQzTnj4.jpg
-tldr: ''
+tldr: https://disekitargame.com/story/apa-itu-bloom-pada-video-game/
 
 ---
 PC master race, mereka semua pasti ingin berjalan dengan graphics tertinggi dan dan minimal 60fps, tapi tidak selamanya seperti itu, kalian pasti melakukan tweaking settings graphics pada game dan tidak semua orang mengetahui tujuan beberapa pengaturan tersebut, dan salah satunya adalah pengaturan bloom!, efek satu ini digunakan pada pencahayaan video game agar lebih menarik dan realistic.
@@ -22,7 +22,7 @@ Bloom adalah sebuah effect cahaya yang cukup signifikan mengubah hasil visual ga
 
 Perkembangan teknologi yang berkembang saat ini begitu pesat untuk video game. Dimana detail yang dihasilkan begitu realistis. Salah satu elemen paling mempengaruhi detail adalah pencahayaan. Banyak teknologi cahaya yang dipergunakan oleh developer untuk menghasilkan sebuah visual yang menarik, salah satunya adalah Bloom Effect.
 
-Bloom adalah efek fenomena cahaya seperti yang ada didunia nyata, seperti kalian meliha sebuah lampu bohlam, dimana dapat menambahkan kesan realisme gambar lebih dalam, dengan menggunakan sumberdaya hardware yang lumayan cukup besar pula untuk melakukan render. Efek ini dapat dilihat secara langsung ketika objek bersinar dengan latar belakang tempat gelap ataupun lebih redup tapi tak jarang juga dapat dilihat pada sebuah lingkungan yang cukup terang walaupun efeknya terasa cukup tidak berpengaruh.
+Bloom adalah efek fenomena cahaya seperti yang ada didunia nyata, seperti kalian melihat sebuah lampu bohlam, dimana dapat menambahkan kesan realisme gambar lebih dalam, dengan menggunakan sumberdaya hardware yang lumayan cukup besar pula untuk melakukan render. Efek ini dapat dilihat secara langsung ketika objek bersinar dengan latar belakang tempat gelap ataupun lebih redup tapi tak jarang juga dapat dilihat pada sebuah lingkungan yang cukup terang walaupun efeknya terasa cukup tidak berpengaruh.
 
 <a href="https://ik.imagekit.io/dsg/vlcsnap-2021-05-19-08h57m45s969_5VnL4Ay_RtW.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/vlcsnap-2021-05-19-08h57m45s969_5VnL4Ay_RtW.png" alt="apa itu bloom video game" />
