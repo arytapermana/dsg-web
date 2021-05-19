@@ -8,7 +8,7 @@ categories:
 tags:
 - Bloom
 - Settings Graphics
-image: ''
+image: https://ik.imagekit.io/dsg/thumb__kjQzTnj4.jpg
 tldr: ''
 
 ---
