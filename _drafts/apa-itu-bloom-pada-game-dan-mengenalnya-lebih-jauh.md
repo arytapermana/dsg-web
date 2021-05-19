@@ -42,6 +42,10 @@ Hasil tersebut yang akan diproses, pada contoh kali ini bloom yang akan diproses
 
 Ada banyak teknik yang digunakan developer dalam menggunakan effects bloom, kami tidak akan jelaskan teknik rumit tersebut, karena itu terlalu teknikal tapi kami akan jelaskan salah satu teknik yang paling sederhana yaitu gaussian blur. Graphics 3d yang ada pada game akan dilakukan filter terlebih dahulu untuk mendapatkan bagian paling terang dan tergelap, setelah itu maka bagian paling terang akan diberikan effects yang disebut gaussian blur, dan akhirnya hasil yang telah mendapat gaussian blur tersebut akan ditumpuk diatas graphics 3d awal tadi, sehingga menghasilkan effects bloom.
 
+<a href="https://ik.imagekit.io/dsg/vlcsnap-2021-05-19-08h59m19s836_xDohtNSfs.png" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/vlcsnap-2021-05-19-08h59m19s836_xDohtNSfs.png" alt="bloom pada pengaturan graphics di video game" />
+</a>
+
 Effects bloom pada game memang terlihat lebih realistic, cinematic dan natural tetapi pada beberapa kasus effects ini lebih baik off, bukan masalah performa, tetapi pada beberapa kasus seperti contohnya e-sport gamer tidak ingin sebuah bloom beserta lens flarenya menganggu jangkauan maupun jarak pandang musuhnya, ataupun bahkan seseorang yang memiliki photosensitive epilepsy akan sangat menghindari hal seperti ini.
 
 Jadi bagaimana menurut kalian apakah bloom begitu dibutuhkan pada game atau hanya mengganggu pengelihatan kalina karena kilauannya, berikan pendapat kalian pada kolom komentar dibawah karena kami sangat antusias membaca komentar kalian, bye bye!.
