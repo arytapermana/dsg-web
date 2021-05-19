@@ -22,11 +22,11 @@ Bloom adalah sebuah effect cahaya yang cukup signifikan mengubah hasil visual ga
 
 Perkembangan teknologi yang berkembang saat ini begitu pesat untuk video game. Dimana detail yang dihasilkan begitu realistis. Salah satu elemen paling mempengaruhi detail adalah pencahayaan. Banyak teknologi cahaya yang dipergunakan oleh developer untuk menghasilkan sebuah visual yang menarik, salah satunya adalah Bloom Effect.
 
+Bloom adalah efek fenomena cahaya seperti yang ada didunia nyata, seperti kalian meliha sebuah lampu bohlam, dimana dapat menambahkan kesan realisme gambar lebih dalam, dengan menggunakan sumberdaya hardware yang lumayan cukup besar pula untuk melakukan render. Efek ini dapat dilihat secara langsung ketika objek bersinar dengan latar belakang tempat gelap ataupun lebih redup tapi tak jarang juga dapat dilihat pada sebuah lingkungan yang cukup terang walaupun efeknya terasa cukup tidak berpengaruh.
+
 <a href="https://ik.imagekit.io/dsg/vlcsnap-2021-05-19-08h57m45s969_5VnL4Ay_RtW.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/vlcsnap-2021-05-19-08h57m45s969_5VnL4Ay_RtW.png" alt="apa itu bloom video game" />
 </a>
-
-Bloom adalah efek fenomena cahaya seperti yang ada didunia nyata, seperti kalian meliha sebuah lampu bohlam, dimana dapat menambahkan kesan realisme gambar lebih dalam, dengan menggunakan sumberdaya hardware yang lumayan cukup besar pula untuk melakukan render. Efek ini dapat dilihat secara langsung ketika objek bersinar dengan latar belakang tempat gelap ataupun lebih redup tapi tak jarang juga dapat dilihat pada sebuah lingkungan yang cukup terang walaupun efeknya terasa cukup tidak berpengaruh.
 
 Bloom membantu proses pengembangan game ketika melakukan proses render objek yang sangat terang, tidak dapat dilakukan oleh sebuah layar yang tidak mendukung HDR (High Dynamic Range). Oleh karena itu Bloom berfungsi melakukan simulasi cahaya ke objek yang hasilnya seperti mendekati simulasi cahaya nyata yang menuju retina. Efek ini memang tidak sepenuhnya secara fisik dalam artian pada monitor non-HDR, tetapi dapat juga membantu untuk menunjukkan kecerahan relatif objek, atau menambahkan realisme ke gambar LDR (Low Dynamic Range) pada layar saat ini. Walaupun sekarang layar HDR semakin hari semakin mudah dijangkau budget gamer.
 
