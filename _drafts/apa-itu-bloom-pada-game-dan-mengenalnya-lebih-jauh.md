@@ -34,6 +34,10 @@ Pada beberapa kasus, seperti game engine yang cukup mainstream belakangan ini ya
 
 > perlu diingat hasil pertama ini belum mendapatkan effects bloom sama sekali.
 
+<a href="https://ik.imagekit.io/dsg/vlcsnap-2021-05-19-08h59m09s697_P9c2ZjDkVAEE.png" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/vlcsnap-2021-05-19-08h59m09s697_P9c2ZjDkVAEE.png" alt="lensflare bloom pada video game" />
+</a>
+
 Hasil tersebut yang akan diproses, pada contoh kali ini bloom yang akan diproses dan ditambahkan, untuk menghasilkan efek cahaya tersebut. maka tidak heran jika framerate kalian berkurang bahkan terkadang cukup banyak jika mengaktifkan settings ini dikarenakan game engine melakukan tugas tambahan lagi.
 
 Ada banyak teknik yang digunakan developer dalam menggunakan effects bloom, kami tidak akan jelaskan teknik rumit tersebut, karena itu terlalu teknikal tapi kami akan jelaskan salah satu teknik yang paling sederhana yaitu gaussian blur. Graphics 3d yang ada pada game akan dilakukan filter terlebih dahulu untuk mendapatkan bagian paling terang dan tergelap, setelah itu maka bagian paling terang akan diberikan effects yang disebut gaussian blur, dan akhirnya hasil yang telah mendapat gaussian blur tersebut akan ditumpuk diatas graphics 3d awal tadi, sehingga menghasilkan effects bloom.
