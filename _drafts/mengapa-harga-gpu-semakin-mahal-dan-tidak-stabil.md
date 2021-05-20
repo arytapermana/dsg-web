@@ -9,7 +9,7 @@ tags:
 - Graphics Card
 - GPU
 image: https://ik.imagekit.io/dsg/thumb_Un_vTDSzP.jpg
-tldr: ''
+tldr: https://disekitargame.com/story/mengapa-harga-gpu-semakin-mahal/
 
 ---
 Kita tahu harga hardware terutama graphics card sangat tidak masuk akal belakangan ini bahkan tidak hanya graphics cards tetapi bahkan merambat ke berbagai hardware lainnya. Tapi apakah semua ini disebabkan oleh Cryptocurrency atau miner? Tentu ya, maksudnya ya… tidak juga…
