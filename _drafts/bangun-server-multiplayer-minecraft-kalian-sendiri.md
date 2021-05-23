@@ -62,4 +62,6 @@ Simpan alamat ip tersebut kemudian masukan pada menu server di minecraft, saya s
 <img src="https://ik.imagekit.io/dsg/m-server-3_hQYpbxa-I.png" alt="minecraft direct connection" />
 </a>
 
-alamat tersebut juga yang kalian dapat bagikan ke teman kalian sehingga mereka dapat join server yang kalian buat sendiri, jika ada yang dibingungkan atau ditanyakan silahkan bertanya pada kolom komentar karena kami sangat antusias membaca komentar kalian, happy gaming!
+alamat tersebut juga yang kalian dapat bagikan ke teman kalian sehingga mereka dapat join server yang kalian buat sendiri. 
+
+Jika ada yang dibingungkan atau ditanyakan silahkan bertanya pada kolom komentar karena kami sangat antusias membaca komentar kalian, happy gaming!
