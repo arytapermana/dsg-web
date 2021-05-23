@@ -42,7 +42,7 @@ setelah memulai server maka pada log command line kalian akan melihat port yang 
 <img src="https://ik.imagekit.io/dsg/m-server-1_xmoCcluHo.png" alt="port minecraft" />
 </a>
 
-Setelah itu maka login pada akun Ngrok dan pada halaman awal akan disediakan pilihan mengunduhnya, lanjutkan tahapana pada Ngrok hingga tahap dua saja yaitu sampai pada proeses menghubungkan akun.
+Setelah itu maka login pada akun Ngrok dan pada halaman awal akan disediakan pilihan mengunduhnya, lanjutkan tahapan hingga tahap dua saja yaitu sampai pada proeses menghubungkan akun.
 
 aktifkan port forward lokal menuju server Ngrok dengan command berikut.
 
