@@ -2,7 +2,7 @@
 layout: post
 author: sal
 date: 2021-05-23 19:31:55 +0800
-title: Bangun Server Multiplayer Minecraft Kalian Sendiri
+title: Bangun Server Multiplayer Minecraft Anda Sendiri
 categories:
 - Info
 tags:
