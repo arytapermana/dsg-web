@@ -49,5 +49,9 @@ Setelah itu maka login pada akun Ngrok dan pada halaman awal akan disediakan pil
 aktifkan port forward lokal menuju server Ngrok dengan command berikut.
 
     ngrok tcp -region ap 25565
-    
-Kode -region adalah menentukan server Ngrok menjadi Asia Pacific (Singapore)
+
+> Kode -region adalah menentukan server Ngrok menjadi Asia Pacific (Singapore)
+
+<a href="https://ik.imagekit.io/dsg/m-server-2_1vxepPxJG.png" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/m-server-2_1vxepPxJG.png" alt="ngrok server start" />
+</a>
