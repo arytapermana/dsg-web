@@ -60,4 +60,8 @@ Setelah itu maka copy bagian alamat tcp saja tanpa menyertakan tcp, seperti beri
 
     0.tcp.ap.ngrok.io:13129
 
-Simpan alamat ip tersebut kemudian masukan pada menu server di minecraft, saya sarankan kalian hanya menggunakan direct connect atau sekali konek karena Ngrok selalu mengubah alamat ataupun port yang digunakan setiap kali melakukan start server.
+Simpan alamat ip tersebut kemudian masukan pada menu server di minecraft, saya sarankan kalian hanya menggunakan direct connection atau sekali konek karena Ngrok selalu mengubah alamat ataupun port yang digunakan setiap kali melakukan start server.
+
+<a href="https://ik.imagekit.io/dsg/m-server-2_1__6bW9zX72j.png" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/m-server-2_1__6bW9zX72j.png" alt="minecraft direct connection" />
+</a>
