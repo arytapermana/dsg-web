@@ -30,9 +30,9 @@ Membangun sebuah server berbeda dengan membagikan world minecraft kalian dengan 
 
 Jika sudah maka langkah pertama adalah dengan extract file Minecraft server yang kalian unduh sebelumnya dan taruh pada direktori yang kalian inginkan atau mudah ditemukan. akses folder tersebut melalui CMD jika dari Windows dan start server Minecraft, commandnya kurang lebih sebagai berikut.
 
-    java -jar server.jar --world m-server
-
 > Kode --world adalah membuat dan mencari dunia dengan nama m-server
+
+    java -jar server.jar --world m-server
 
 <a href="https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png" alt="minecraft server" />
@@ -48,9 +48,9 @@ Setelah itu maka login pada akun Ngrok dan pada halaman awal akan disediakan pil
 
 aktifkan port forward lokal menuju server Ngrok dengan command berikut.
 
-    ngrok tcp -region ap 25565
-
 > Kode -region adalah menentukan server Ngrok menjadi Asia Pacific (Singapore)
+
+    ngrok tcp -region ap 25565
 
 <a href="https://ik.imagekit.io/dsg/m-server-2_1vxepPxJG.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/m-server-2_1vxepPxJG.png" alt="ngrok server start" />
