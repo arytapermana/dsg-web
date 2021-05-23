@@ -24,4 +24,12 @@ Masalah yang terkadang muncul ketika melakukan port forward sebuah jaringan adal
 Membangun sebuah server berbeda dengan membagikan world minecraft kalian dengan teman untuk join, karena minecraft server lebih fleksibel dan customize able, jadi berikut beberapa hal yang perlu dipersiapkan terlebih dahulu sebelum memulai.
 
 * Unduh Minecraft server pada situs resminya [disini](https://www.minecraft.net/en-us/download/server).
-* Daftar akun pada Ngrok, sebuah tools yang digunakan melakukan port forward [disini](https://ngrok.com/).
+* Daftar akun Ngrok [disini](https://ngrok.com/).
+
+> Pastikan versi minecraft kalian sama dengan versi server minecraft agar berjalan dengan baik.
+
+Jika sudah maka langkah pertama adalah dengan extract file Minecraft server yang kalian unduh sebelumnya dan taruh pada direktori yang kalian inginkan atau mudah ditemukan. akses folder tersebut melalui CMD jika dari Windows dan start server Minecraft, commandnya kurang lebih sebagai berikut.
+
+<a href="https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png" alt="minecraft server" />
+</a>
