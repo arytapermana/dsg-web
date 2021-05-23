@@ -13,9 +13,9 @@ image: https://ik.imagekit.io/dsg/thumb_RSrSNhvh5.jpg
 tldr: ''
 
 ---
-Bermain bersama teman terkadang cukup sulit untuk video game satu ini, kalian perlu mencari server publik ataupun membeli server premium dari Minecraft itu sendiri atau biasa di sebut Minecraft Realms, walaupun hanya ingin bermain bersama teman kalian, hal ini terasa cukup susah.
+Minecraft ketika Bermain bersama teman terkadang cukup sulit untuk video game satu ini, kalian perlu mencari server publik ataupun membeli server premium dari Minecraft itu sendiri atau biasa di sebut Minecraft Realms, walaupun hanya ingin bermain bersama teman kalian, hal ini terasa cukup susah.
 
-sebenarnya jika kalian dan teman kalian berada pada satu jaringan yang sama kalian dapat membuat server sendiri dan membagikan ip serta port yang ada ke teman kalian, cukup mudah bukan, tapi bagaimana jika teman kalian berada di wilayah yang cukup jauh, maka jaringan internet diperlukan dan hal ini memerlukan sesuatu yang disebut port forward, yaitu membagikan alamat ip lokal yang ada untuk dapat diakses hingga ke internet. Jadi hal tersebut yang akan dibahas kali ini.
+Teman kalian dan kalian sebenernya ketika berada pada satu jaringan yang sama kalian dapat membuat server sendiri dan membagikan ip serta port yang ada ke teman kalian, cukup mudah bukan, tapi bagaimana jika teman kalian berada di wilayah yang cukup jauh, maka jaringan internet diperlukan dan hal ini memerlukan sesuatu yang disebut port forward, yaitu membagikan alamat ip lokal yang ada untuk dapat diakses hingga ke internet. Jadi hal tersebut yang akan dibahas kali ini.
 
 Masalah yang terkadang muncul ketika melakukan port forward sebuah jaringan adalah ISP (Internet Service Provider) yang tidak memberikan ip publik kepada pelanggan sehingga port yang akan dilakukan port forward ter-blok di sistem mereka, hanya port yang mereka ijinkan saja dapat diakses, selain itu jika kalian melakukan port forward maka ip publik kalian akan ter-expose ke jaringan internet dengan port yang terbuka, dan ini cukup berbahaya dimana dapat menjadi peluang bagi seseorang yang tidak bertanggung jawab mengakses port terbuka tersebut sehingga memberik akses ke perangkat kalian, maka dari itu kami menggunakan Ngrok yang, sebuah tools seperti VPN yang mengirim data kalian pada sebuah tunnel yang lebih aman, dan mengakses nya melalui url dan port berbeda yang diberikan mereka nantinya.
 
@@ -32,6 +32,8 @@ Jika sudah maka langkah pertama adalah dengan extract file Minecraft server yang
 
     java -jar server.jar --world m-server
 
+> Kode --world adalah membuat dan mencari dunia dengan nama m-server
+
 <a href="https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png" alt="minecraft server" />
 </a>
@@ -41,3 +43,9 @@ setelah memulai server maka pada log command line kalian akan melihat port yang 
 <a href="https://ik.imagekit.io/dsg/m-server-1_xmoCcluHo.png" class="glightbox">
 <img src="https://ik.imagekit.io/dsg/m-server-1_xmoCcluHo.png" alt="port minecraft" />
 </a>
+
+Setelah itu maka login pada akun Ngrok dan pada halaman awal akan disediakan pilihan mengunduhnya, lanjutkan tahapana pada Ngrok hingga tahap dua saja yaitu sampai pada proeses menghubungkan akun.
+
+aktifkan port forward lokal menuju server Ngrok dengan command berikut.
+
+    ngrok tcp -region ap 25565
