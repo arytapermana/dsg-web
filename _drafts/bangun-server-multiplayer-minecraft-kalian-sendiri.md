@@ -13,7 +13,7 @@ image: https://ik.imagekit.io/dsg/thumb_RSrSNhvh5.jpg
 tldr: ''
 
 ---
-Bermain bersama teman terkadang cukup sulit untuk video game satu ini, kalian perlu mencari server publik ataupun membeli server premium dari Minecraft itu sendiri atau biasa di sebut Minecraft Realms, walaupun hanya ingin bermain bersama teman kalian, hal ini terasa cukup susah.
+	Bermain bersama teman terkadang cukup sulit untuk video game satu ini, kalian perlu mencari server publik ataupun membeli server premium dari Minecraft itu sendiri atau biasa di sebut Minecraft Realms, walaupun hanya ingin bermain bersama teman kalian, hal ini terasa cukup susah.
 
 sebenarnya jika kalian dan teman kalian berada pada satu jaringan yang sama kalian dapat membuat server sendiri dan membagikan ip serta port yang ada ke teman kalian, cukup mudah bukan, tapi bagaimana jika teman kalian berada di wilayah yang cukup jauh, maka jaringan internet diperlukan dan hal ini memerlukan sesuatu yang disebut port forward, yaitu membagikan alamat ip lokal yang ada untuk dapat diakses hingga ke internet. Jadi hal tersebut yang akan dibahas kali ini.
 
@@ -36,4 +36,4 @@ Jika sudah maka langkah pertama adalah dengan extract file Minecraft server yang
 
 setelah memulai server maka pada log command line kalian akan melihat port yang digunakan oleh server, simpan port tersebut yang nantinya akan digunakan pada Ngrok.
 
-    [20:39:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+	[20:39:21] [Server thread/INFO]: Starting Minecraft server on *:25565
