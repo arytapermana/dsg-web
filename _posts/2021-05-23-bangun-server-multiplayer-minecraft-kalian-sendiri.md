@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sal
-date: 2021-05-23 19:31:55 +0800
+date: 2021-05-23T19:31:55.000+08:00
 title: Bangun Server Multiplayer Minecraft Kalian Sendiri
 categories:
 - Info
@@ -10,7 +10,7 @@ tags:
 - Multiplayer
 - Minecraft
 image: https://ik.imagekit.io/dsg/thumb_RSrSNhvh5.jpg
-tldr: ''
+tldr: https://disekitargame.com/stories/2021-05-23-bangun-server-multiplayer-minecraft-kalian-sendiri/
 
 ---
 Minecraft ketika Bermain bersama teman terkadang cukup sulit untuk video game satu ini, kalian perlu mencari server publik ataupun membeli server premium dari Minecraft yang biasa di sebut Minecraft Realms, walaupun hanya ingin bermain bersama teman kalian, hal ini terasa cukup susah.
