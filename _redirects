@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/story  http://api.nws.ai/stories/1288500888/
+/story  http://api.nws.ai/stories/1288500888/ 200
