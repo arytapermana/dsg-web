@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  stories:
+    title: Stories
+    output: true
 name: Disekitar Game
 description: Disekitar Game adalah media informasi digital yang menyajikan edukasi, berita, rumor, tips & trik, serta berbagai topik menarik seputar game. Kami berusaha memberikan pandangan terbaik serta konten yang menarik dan informatif untuk menambah wawasan pemirsa mengenai dunia teknologi khususnya pada industri game.
 logo: assets/images/logo-1-min.gif
