@@ -19,6 +19,7 @@ disqus: disekitar-game
 mailchimp-list: https://space.us3.list-manage.com/subscribe?u=119b8c921721eaa747d4230ea&id=d8f6b5e860
 include:
 - _pages
+- _redirects
 permalink: "/:title/"
 email: support@disekitargame.com
 authors:
