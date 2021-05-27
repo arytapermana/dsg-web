@@ -1,2 +1,0 @@
-I"Ô<p>Ambient oclusion atau disingkat ao adalah teknik shading atau rendering yang melakukan kalkulasi bagaimana setiap point pada scene menerima cahaya di sekelilingnya, contoh ini seperti sebuah graphics 3d tabung yang menerima cahaya dan melakukan kalkulasi sebagaimana banyak cahaya dapat masuk ke tabung tersebut, semakin dalam tabung tersebut maka semakin berkurang cahaya yang didapat. Teknik ini di implementasikan pertama kali oleh Crytek yaitu CryEngine 2.</p>
-:ET

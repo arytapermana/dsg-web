@@ -1,0 +1,21 @@
+---
+title: Archive
+layout: default
+pagination:
+  enabled: true
+---
+
+<!-- Begin List Posts
+================================================== -->
+
+<h1>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h1>
+
+<div class="blog-grid-container">
+
+{% for post in page.posts %}
+
+{% include postbox.html %}
+
+{% endfor %}
+
+</div>

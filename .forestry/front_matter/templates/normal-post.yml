@@ -1,0 +1,193 @@
+---
+label: Normal Post
+hide_body: false
+fields:
+- name: layout
+  type: select
+  default: post
+  config:
+    required: true
+    options:
+    - post
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: layout
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- name: author
+  type: select
+  default: sal
+  config:
+    required: true
+    options:
+    - sal
+    - john
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: author
+- name: date
+  type: datetime
+  label: date
+  description: Biarkan jangan dihiraukan, field ini otomatis memasukan value waktu
+    disaat anda membuat post.
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+  hidden: false
+- type: list
+  name: categories
+  label: categories
+  description: Pastikan menggunakan tata bahasa seperti biasanya seperti "Info" bukan
+    "info", huruf besar diawal dan pastikan tekan ENTER untuk konfirmasi.
+- type: list
+  name: tags
+  label: tags
+  description: Hint sama seperti categories.
+- name: image
+  type: text
+  config:
+    required: false
+  label: image-url
+  description: Tinggal paste URL gambar thumbnail yang ada.
+- name: tldr
+  type: text
+  config:
+    required: false
+  label: tldr
+  description: Tambahkan link tldr disini, jika kosong maka otomatis button tldr tidak
+    tampil.
+pages:
+- _posts/10-video-game-dengan-bad-ending-menarik.md
+- _posts/2020-10-20-anisotropic-filtering-pada-game-apa-itu.md
+- _posts/2020-10-20-apa-itu-ping-cara-mengatasi-lag-pada-game-online.md
+- _posts/2020-10-20-apa-itu-save-game-bagaimana-game-menyimpan-progresnya.md
+- _posts/2020-10-20-bagaimana-suara-pada-game-bekerja.md
+- _posts/2020-10-20-game-emulator-seberapa-legal.md
+- _posts/2020-10-20-geforce-now-kesan-pertama.md
+- _posts/2020-10-20-mengenal-supersampling-pada-video-game.md
+- _posts/2020-10-21-bagaimana-cara-mengoptimalkan-pengaturan-graphics-video-game-tweaking-video-game-graphics-transcript.md
+- _posts/2020-10-22-tampilan-pertama-tom-holland-sebagai-nathan-drake-pada-uncharted-movie.md
+- _posts/2020-10-22-xbox-series-x-scorn-unjuk-gameplay-unik-dan-nuansa-aneh.md
+- _posts/2020-10-24-kimi-ga-nozomu-eien-versi-inggris-tengah-dikerjakan.md
+- _posts/2020-10-24-riddle-joker-versi-barat-rilis-desember-mendatang.md
+- _posts/2020-10-26-key-visual-arts-umumkan-3-project-siap-rilis-berurutan.md
+- _posts/2020-10-26-trailer-rilis-call-of-duty-black-ops-cold-war-diperlihatkan.md
+- _posts/2020-10-27-cyberpunk-2077-kembali-mengalami-penundaan-rilis.md
+- _posts/2020-10-28-seri-netflix-assassin-s-creed-akan-datang.md
+- _posts/2020-10-29-no-man-s-sky-next-generation-tampil-lebih-memukau.md
+- _posts/2020-10-30-call-of-duty-black-ops-cold-war-akan-memerlukan-50-hingga-250-gb-penyimpanan-saat-rilis.md
+- _posts/2020-10-30-xbox-game-bar-resources-memudahkan-melihat-apa-yang-memberatkan-sistem.md
+- _posts/2020-10-31-impresi-awal-wagahime-berpetualanglah.md
+- _posts/2020-10-31-marvel-s-spider-man-miles-morales-menambahkan-kustom-spider-man-into-the-spider-verse.md
+- _posts/2020-11-02-atelier-ryza-2-perlihatkan-cinematic-opening.md
+- _posts/2020-11-04-saviors-of-sapphire-wings-perlihatkan-gameplay-rilis-tahun-2021.md
+- _posts/2020-11-06-majikoi-versi-barat-rilis-musim-dingin-mendatang.md
+- _posts/2020-11-08-review-sis-camp-kemah-bersama.md
+- _posts/2020-11-13-unreal-life-versi-barat-tentukan-tanggal-rilis.md
+- _posts/2020-11-15-impresi-awal-lupercallia-trial-bermain-peran.md
+- _posts/2020-11-15-impresi-awal-yureaka-trial-sebuah-intipan-manis.md
+- _posts/2020-11-19-io-interactive-umumkan-project-origin-007.md
+- _posts/2020-11-23-impresi-awal-gikei-trial-memotret-ulang-sejarah.md
+- _posts/2020-11-24-hitman-3-perlihatkan-detail-kota-chongqing.md
+- _posts/2020-11-24-project-rewrite-tambahakan-translator-baru-rilis-awal-tahun-2021.md
+- _posts/2020-11-25-fantasy-tavern-sextet-vol.1-rilis-untuk-pc-lengkap-dengan-patch.md
+- _posts/2020-11-25-metro-exodus-tuju-next-gen-seri-baru-dikembangkan.md
+- _posts/2020-11-27-impresi-awal-kokoro-no-katachi-wholesome-heroine.md
+- _posts/2020-11-27-review-nekopara-4-mimpi-basah-pencinta-kucing.md
+- _posts/2020-12-01-review-hokejo-pawang-jiwa.md
+- _posts/2020-12-01-yuru-camp-dibuatkan-game-virtual-tour.md
+- _posts/2020-12-02-review-hibikino-tidak-hanya-berjualan.md
+- _posts/2020-12-03-pendiri-avalanche-studios-bangun-studio-baru-liquid-swords.md
+- _posts/2020-12-05-dragon-age-baru-akan-tampil-di-panggung-the-game-award.md
+- _posts/2020-12-05-review-koirowa-rocom-battle-royale.md
+- _posts/2020-12-09-control-terjual-sebanyak-2-juta-kopi-lebih.md
+- _posts/2020-12-09-nekopara-vol.4-versi-konsol-rilis-akhir-bulan.md
+- _posts/2020-12-12-cyberpunk-2077-optimalisasi-awal-rilis-tidak-sesuai-ekspektasi.md
+- _posts/2020-12-15-review-tavern-sextet-vol.1-sederhana-diawal.md
+- _posts/2020-12-17-tavern-sextet-vol.2-rilis-awal-tahun-2021.md
+- _posts/2020-12-20-review-fxxx-me-royally-jangan-liat-judul.md
+- _posts/2020-12-24-review-riddle-joker-seperti-jeruk.md
+- _posts/2020-12-24-sumire-lepas-trailer-baru-rilis-tahun-2021.md
+- _posts/2020-12-26-review-kokoro-no-katachi-hati-terhubung.md
+- _posts/2020-12-29-impresi-clarias-trial-tidak-heran-ditunda.md
+- _posts/2020-12-29-playstation-5-dipastikan-tersedia-18-juta-unit-di-tahun-2021.md
+- _posts/2020-12-30-merasakan-koi-senkyou-resolusi-tinggi.md
+- _posts/2020-12-30-otak-dibalik-nier-tengah-garap-2-judul-baru.md
+- _posts/2021-01-02-review-yureaka-manisnya-sejenak.md
+- _posts/2021-01-12-bethesda-x-machinegames-kembangan-game-indiana-jones.md
+- _posts/2021-01-13-penggalangan-dana-tokyo-reconnect-penuhi-target.md
+- _posts/2021-01-20-ninja-gaiden-baru-untuk-next-gen.md
+- _posts/2021-01-20-summer-pockets-reflection-blue-hadir-di-switch-masih-jp-only.md
+- _posts/2021-01-21-menjelang-rilis-opening-re-zero-the-prophecy-dilepas.md
+- _posts/2021-01-21-resident-evil-8-village-tetap-untuk-current-gen-rilis-berbarengan.md
+- _posts/2021-01-22-rewrite-ditunda-ke-kuartal-2.md
+- _posts/2021-01-23-utawarerumono-series-ditarik-dari-playstation-store-reg.1.md
+- _posts/2021-01-26-taisho-x-alice-episode-3-untuk-barat-maret-mendatang.md
+- _posts/2021-01-26-the-lord-of-the-rings-gollum-ditunda-penyesuaian-next-gen.md
+- _posts/2021-01-27-netflix-anime-tomb-raider-reboot-tengah-dibuat.md
+- _posts/2021-01-30-impresi-awal-wagahime-trial-2-mengintip-rute.md
+- _posts/2021-02-01-gran-turismo-7-tawarkan-pengalaman-klasik-visual-modern.md
+- _posts/2021-02-01-judgment-remastered-untuk-konsol-next-gen.md
+- _posts/2021-02-08-forza-horizon-4-tersedia-di-steam-maret-mendatang.md
+- _posts/2021-02-10-akiba-s-trip-hellbound-debriefed-tuju-pasar-barat.md
+- _posts/2021-02-10-klab-umumkan-game-online-danmachi.md
+- _posts/2021-02-11-paradise-lost-rilis-trailer-lore-game.md
+- _posts/2021-02-12-evenicle-2-ditolak-dari-steam.md
+- _posts/2021-02-12-mass-effect-legendary-edition-adalah-remaster-kenapa-tidak-remake.md
+- _posts/2021-02-13-island-diary-jp-tentukan-tanggal-rilis-pasti.md
+- _posts/2021-02-15-sharin-no-kuni-versi-konsol-dibatalkan-pc-lanjut.md
+- _posts/2021-02-17-island-hadir-di-switch.md
+- _posts/2021-02-20-impresi-awal-himukai-chihiro-manis-sekali.md
+- _posts/2021-02-21-bug-glitch-serangga-kecil-pengganggu-pada-video-game-transcript.md
+- _posts/2021-02-24-nier-reincarnation-jp-tembus-5-juta-unduhan-lebih.md
+- _posts/2021-02-24-review-tavern-sextet-vol.2-sekadar-penambahan-cerita.md
+- _posts/2021-03-10-patch-eng-resmi-love-sweet-garnish-2-rilis-minggu-ini.md
+- _posts/2021-03-14-impresi-ane-wa-tsurezure...trial-aku-dan-saudariku.md
+- _posts/2021-03-15-teaser-baru-doom-eternal-the-ancient-gods-2-dilepas.md
+- _posts/2021-03-16-review-harmoney-harmonis-sekali.md
+- _posts/2021-03-17-perang-besar-doom-eternal-the-ancient-of-gods-dimulai.md
+- _posts/2021-03-17-playstation-play-at-home-2021-tawarkan-10-game-gratis-ps4.md
+- _posts/2021-03-26-tsukihime-a-piece-of-blue-glass-pastikan-tanggal-rilis.md
+- _posts/2021-03-27-impresi-awal-yubisaki-trial-tentukan-pilihanmu.md
+- _posts/2021-03-28-2-game-blue-reflection-project-baru-tengah-dipersiapkan.md
+- _posts/2021-03-31-cyberpunk-2077-playstation-version-kini-tergantung-sony.md
+- _posts/2021-04-01-nekonyan-danai-proyek-fan-translate-koikake.md
+- _posts/2021-04-03-beberapa-developer-game-ps-vita-tidak-menyangka-psn-vita-tutup.md
+- _posts/2021-04-05-review-yukiiro-sign-saling-berbagi-kehangatan.md
+- _posts/2021-04-10-apa-perbedaan-remake-reboot-dan-remaster-pada-video-game.md
+- _posts/2021-04-12-touhou-project-hifuu-fragment-untuk-tahun-2022.md
+- _posts/2021-04-15-apex-legends-capai-total-100-juta-pemain.md
+- _posts/2021-04-15-sky-children-of-the-light-switch-rilis-juni-bisa-crossplay.md
+- _posts/2021-04-16-days-gone-pc-rilis-mei-mendatang.md
+- _posts/2021-04-17-konsep-dasar-cara-overclock-gpu-untuk-meningkatkan-performa.md
+- _posts/2021-04-19-mihoyo-kembangankan-game-otome-tears-of-themis.md
+- _posts/2021-04-20-sony-batalkan-penutupan-ps-store-untuk-ps3-dan-vita.md
+- _posts/2021-04-24-review-sutekano-eksekusi-tidak-maksimal.md
+- _posts/2021-04-25-mainkan-pc-games-pada-smartphone-menggunakan-moonlight-game-streaming.md
+- _posts/2021-04-28-impresi-awal-loopers-trial-sedikit-berantakan.md
+- _posts/2021-04-28-menggunakan-vpn-untuk-bermain-game.md
+- _posts/2021-05-01-impresi-happy-live-show-up-begitu-menghibur.md
+- _posts/2021-05-03-detail-baru-reverse-collapse-code-name-bakery-dilepas.md
+- _posts/2021-05-04-review-tottemo-akarui-setidaknya-rapi.md
+- _posts/2021-05-04-stalker-2-akan-ekslusif-sementara-untuk-xbox.md
+- _posts/2021-05-06-langkah-mudah-menggunakan-rpcs3-playstation-3-emulator.md
+- _posts/2021-05-08-review-yubisaki-termanjakan-akan-pesonanya.md
+- _posts/2021-05-12-valve-tertarik-kembali-ke-pasar-konsol.md
+- _posts/2021-05-18-apa-itu-ambient-occlusion-dan-jenis-mana-yang-terbaik.md
+- _posts/2021-05-19-apa-itu-bloom-pada-game-dan-mengenalnya-lebih-jauh.md
+- _posts/2021-05-20-mengapa-harga-gpu-semakin-mahal-dan-tidak-stabil.md
+- _posts/2021-05-23-bangun-server-multiplayer-minecraft-kalian-sendiri.md
+- _posts/mengapa-harus-sena-heroine-spotlight.md
+- _posts/mengapa-harus-sorakado-ao-heroine-spotlight.md

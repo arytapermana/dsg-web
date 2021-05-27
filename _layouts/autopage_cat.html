@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<!-- Add this before adding pagination category or tag
+================================================== -->
+<h4 class="mt-5 mb-neg-30""><span class="text-capitalize badge badge-primary text-small">{{ page.autopages.display_name }}</span></h4>
+{% assign title = page.autopages.display_name %}
+
+<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    {% for post in paginator.posts %}
+        {% include postbox.html %}
+    {% endfor %}
+</div>
+
+<!-- Pagination Category
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    {% include pagination-category.html %}
+</span>
+</div>
