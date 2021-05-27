@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Disekitar Game",
+    "description": "",
+    "home_page_url": "https://disekitargame.com",
+    "feed_url": "https://disekitargame.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "sal"
+    },
+    "items": [
+    ]
+}
