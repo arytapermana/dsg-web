@@ -1,0 +1,52 @@
+{
+    "bookendVersion": "v1.0",
+    "shareProviders": [
+      "facebook",
+      "twitter",
+      "email"
+    ],
+    "components": [
+      {
+        "type": "heading",
+        "text": "More Stories by Disekitar Game"
+      },
+      
+      {
+        "type": "small",
+        "title": "Bangun Server Multiplayer Minecraft Kalian Sendiri",
+        "url": "/stories/2021-05-23-bangun-server-multiplayer-minecraft-kalian-sendiri/",
+        
+        
+        
+          
+            
+          
+        
+          
+            
+            "image": "https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png"
+            
+            
+          
+        
+          
+        
+          
+        
+          
+        
+        
+
+      },
+      
+      {
+        "type": "cta-link",
+        "links": [
+          {
+            "text": "More About Disekitar Game",
+            "url": "https://disekitargame.com/"
+          }
+        ]
+      }
+    ]
+  }

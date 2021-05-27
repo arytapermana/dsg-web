@@ -1,0 +1,125 @@
+I"æ<html>
+    <head>
+        <title>Disekitar Game</title>
+        <link rel="icon" href="{{ site.baseurl }}/{{ site.favicon }}" />
+        <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet" />
+        <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Sen:400,700&amp;display=swap" rel="stylesheet" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous" />
+        <style>
+            .bridge-container{
+                margin-top: 50px;
+                padding: 100px;
+                padding: 0px;
+            }
+            .bridge-logo, .bridge-title, .bridge-desc, .bridge-link{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+            }
+            .bridge-margin {
+                margin: 20px;
+            }
+            .bridge-logo img{
+                width: 100px;
+                height: auto;
+            }
+            .bridge-link{
+                background-color: #ffffff;
+                margin: 20px;
+                padding: 20px;
+                filter: drop-shadow(0px 0px 15px rgba(0, 0, 0, 0.1));
+                transform: scale(1);
+                transition: all 0.5s ease-in-out;
+            }
+            .bridge-link:hover{
+                transform: scale(0.99);
+                background-color: #0f0f0f;
+            }
+            .bridge-container a.bridge-a-href{
+                text-decoration: none;
+                font-size: 14pt;
+                font-weight: normal;
+                transition: color 0.1s;
+            }
+            .bridge-container a.bridge-a-href:hover{
+                color: #ffffff;
+            }
+            @media only screen and (max-device-width: 768px){
+                .bridge-container {
+                    padding: 100px 0px;
+                }
+                .bridge-logo img{
+                width: 250px;
+                height: auto;
+                }
+                .bridge-title h2{
+                    font-size: 4rem;
+                }
+                .bridge-desc p{
+                    font-size: 30pt;
+                }
+                .bridge-link{
+                    margin: 60px;
+                    padding: 40px;
+                }
+                .bridge-container a.bridge-a-href{
+                    font-size: 40pt;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="bridge-container container">
+            <div class="bridge-logo bridge-margin">
+                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" />
+            </div>
+            <div class="bridge-under-logo bridge-margin">
+                <div class="bridge-title">
+                    <h2>Disekitar Game&lt;/h1&gt;
+                &lt;/div&gt;
+                <div class="bridge-desc">
+                    <p>Media informasi dan edukasi seputar teknologi dan industri game.</p>
+                </div>
+            &lt;/div&gt;
+            <a class="bridge-a-href" href="https://www.youtube.com/channel/UCC71ynFPWO11J5X6Or84wsw">
+                <div class="bridge-link">
+                    <div class="bridge-link-click">
+                        <i class="fab fa-youtube"></i> YouTube
+                    </div>
+                </div>
+            </a>
+            <a class="bridge-a-href" href="https://disekitargame.com/">
+                <div class="bridge-link">
+                    <div class="bridge-link-click">
+                        <i class="fas fa-globe"></i> Website
+                    </div>
+                </div>
+            </a>
+            <a class="bridge-a-href" href="https://www.facebook.com/disekitargame">
+                <div class="bridge-link">
+                    <div class="bridge-link-click">
+                        <i class="fab fa-facebook-f"></i> Facebook
+                    </div>
+                </div>
+            </a>
+            <a class="bridge-a-href" href="https://www.instagram.com/disekitargame/">
+                <div class="bridge-link">
+                    <div class="bridge-link-click">
+                        <i class="fab fa-instagram"></i> Instagram
+                    </div>
+                </div>
+            </a>
+            <a class="bridge-a-href" href="https://twitter.com/disekitargame">
+                <div class="bridge-link">
+                    <div class="bridge-link-click">
+                        <i class="fab fa-twitter"></i> Twitter
+                    </div>
+                </div>
+            </a>
+        &lt;/div&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</h2></div></div></div></body></html>
+:ET

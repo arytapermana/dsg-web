@@ -1,0 +1,61 @@
+I"g<p>Moonlight adalah software open source dan gratis yang dikembangkan oleh komunitas menggunakan protokol NVIDIA’s GameStream untuk melakukan streaming dari game PC menuju smartphone untuk dapat dimainkan.</p>
+
+<blockquote>
+  <p>Perlu diingat Moonlight hanya bekerja pada GPU/Graphics Card NVIDIA jadi selain itu tidak dapat menggunakan software satu ini.</p>
+</blockquote>
+
+<p>Kenapa kami memilih Moonlight padahal diluar sana terdapat banyak software streaming game seperti Parsec dan Runaway. bagi kami untuk seseorang yang perangkatnya menggunakan NVIDIA, Moonlight adalah pilihan terbaik, kami telah mencoba berbagai software, hanya Moonlight yang memiliki performa paling stabil, kualitas stream terbaik dan juga penggunaan yang cukup mudah tanpa perlu melakukan banyak tweaking.</p>
+
+<p>Yuk, kita masuk ke persiapan penggunaanya. kami akan menjelaskan langkah-langkahnya dan juga beberapa tweaking di akhir jadi baca dengan seksama ya..</p>
+
+<h2 id="persiapan">Persiapan</h2>
+
+<p>Sebelum memasuki langkah pertama, hal yang perlu dilakukan adalah dengan mengunduh terlebih dahulu software yang dibutuhkan, berikut list nya.</p>
+
+<ul>
+  <li><a href="https://www.nvidia.com/en-us/geforce/geforce-experience/">Geforce Experience,</a> Seharusnya setiap perangkat yang menggunakan GPU/Graphics Card NVIDIA telah memiliki ini. jika belum, bisa mengunduhnya pada website resminya.</li>
+  <li><a href="">Moonlight Client,</a> digunakan untuk terhubung dengan host (Geforce Experience) dan aplikasi yang akan digunakan memainkan game yang ada.</li>
+</ul>
+
+<p>Hanya dua hal tersebut yang diperlukan, tidak banyak bukan, yuk mari lanjut ke langkah pertama.</p>
+
+<h2 id="hostgeforce-experience">Host/Geforce Experience</h2>
+
+<p>Langkah pertama adalah mengaktifkan salah satu settings pada Geforce Experience yang disebut SHIELD.</p>
+
+<p>Buka Geforce Experience dan klik icon settings yang berada di pojok kanan atas, pilih tab SHIELD, dan aktifkan.</p>
+
+<p><a href="https://ik.imagekit.io/dsg/moonlight-1_swXfesmF-1-.gif" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/moonlight-1_swXfesmF-1-.gif" alt="image" />
+</a></p>
+
+<p>Selain itu kalian dapat menambahkan game pada GAME &amp; APPS jika nanti pada client, game kalian tidak ditemukan di library.</p>
+
+<h2 id="moonlight-client">Moonlight Client</h2>
+
+<p>Setelah mengaktifkan SHIELD pada Geforce Experience langkah selanjutnya adalah hanya membuka aplikasi client Moonlight dan seharusnya PC kalian telah tampil.</p>
+
+<blockquote>
+  <p>Perlu diingat pastikan PC sebagai host dan perangkat yang menjadi client berada pada satu jaringan yang sama.</p>
+</blockquote>
+
+<p>Jika PC yang ada tidak tampil maka kalian dapat menambahkan nya secara manual menggunakan IP Address dari PC host.</p>
+
+<p><a href="https://ik.imagekit.io/dsg/moonlight-2_I4KiZf0jaYX.gif" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/moonlight-2_I4KiZf0jaYX.gif" alt="image" />
+</a></p>
+
+<p>Jika semua berjalan dengan baik maka kalian sudah dapat memainkan game yang ada di PC pada smartphone dengan cara streaming!</p>
+
+<h2 id="tweaking">Tweaking</h2>
+
+<p>Terdapat beberapa tweaking yang perlu dilakukan, tapi ini hanya opsional jika tidak ada masalah pada game streaming kalian, karena dari kami ingin memaksimalkan streaming game dengan kualitas terbaik dan tetap mempertahankan stabilitas.</p>
+
+<p>beberapa yang kami atur adalah resolusi menyesesuaikan dengan monitor yang ada yaitu 1080p, bitrate tetap pada 10 Mbps dan kalian juga dapat mengaktifkan touch control beserta vibrationnya.</p>
+
+<p><a href="https://ik.imagekit.io/dsg/img-1_adaps7EALO.jpg" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/img-1_adaps7EALO.jpg" alt="image" />
+</a></p>
+
+<p>Jadi selamat memainkan game kalian dengan bebas, baik tiduran, berguling, tengkurap, atau dimanapun asalkan masih berada dalam satu jaringan. tentu jika kalian ada yang ditanyakan dapat bertanya pada kolom komentar dibawah, terimakasih!.</p>
+:ET

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "algoliasearch.css",
+	"sources": [
+		"algoliasearch.scss"
+	],
+	"sourcesContent": [
+		".search-container{\n    padding: 25px;\n    background: #f4f4f4;\n    width: 50px;\n    height: 50px;\n}\n\n.search-div{\n    position: relative;\n    float: left;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n    text-align: center;\n}\n\n.overlay {\n    height: 100%;\n    width: 100%;\n    display: none;\n    position: fixed;\n    z-index: 1;\n    top: 0;\n    left: 0;\n    background-color: rgba(255, 255, 255, 0.7);\n  }\n\n  .overlay .closebtn {\n    position: absolute;\n    top: 20px;\n    right: 45px;\n    font-size: 60px;\n    cursor: pointer;\n    color: rgb(0, 0, 0);\n  }\n\n  .overlay input[type=text] {\n    padding: 15px;\n    font-size: 17px;\n    border: none;\n    float: center;\n    width: 100%;\n    background-color: rgb(0, 0, 0);\n    color:rgb(255, 255, 255)\n  }\n\n  .overlay-content {\n    position: relative;\n    top: 46%;\n    width: 100%;\n    text-align: center;\n    margin-top: 30px;\n    margin: auto;\n  }\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,iBAAiB,AAAA,CACb,OAAO,CAAE,IAAI,CACb,UAAU,CAAE,OAAO,CACnB,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACf,AAED,AAAA,WAAW,AAAA,CACP,QAAQ,CAAE,QAAQ,CAClB,KAAK,CAAE,IAAI,CACX,GAAG,CAAE,GAAG,CACR,IAAI,CAAE,GAAG,CACT,SAAS,CAAE,qBAAqB,CAChC,UAAU,CAAE,MAAM,CACrB,AAED,AAAA,QAAQ,AAAC,CACL,MAAM,CAAE,IAAI,CACZ,KAAK,CAAE,IAAI,CACX,OAAO,CAAE,IAAI,CACb,QAAQ,CAAE,KAAK,CACf,OAAO,CAAE,CAAC,CACV,GAAG,CAAE,CAAC,CACN,IAAI,CAAE,CAAC,CACP,gBAAgB,CAAE,qBAAwB,CAC3C,AAED,AAAA,QAAQ,CAAC,SAAS,AAAC,CACjB,QAAQ,CAAE,QAAQ,CAClB,GAAG,CAAE,IAAI,CACT,KAAK,CAAE,IAAI,CACX,SAAS,CAAE,IAAI,CACf,MAAM,CAAE,OAAO,CACf,KAAK,CAAE,IAAY,CACpB,AAED,AAAA,QAAQ,CAAC,KAAK,CAAA,AAAA,IAAC,CAAD,IAAC,AAAA,CAAW,CACxB,OAAO,CAAE,IAAI,CACb,SAAS,CAAE,IAAI,CACf,MAAM,CAAE,IAAI,CACZ,KAAK,CAAE,MAAM,CACb,KAAK,CAAE,IAAI,CACX,gBAAgB,CAAE,IAAY,CAC9B,KAAK,CAAC,IAAkB,CACzB,AAED,AAAA,gBAAgB,AAAC,CACf,QAAQ,CAAE,QAAQ,CAClB,GAAG,CAAE,GAAG,CACR,KAAK,CAAE,IAAI,CACX,UAAU,CAAE,MAAM,CAClB,UAAU,CAAE,IAAI,CAChB,MAAM,CAAE,IAAI,CACb"
+}

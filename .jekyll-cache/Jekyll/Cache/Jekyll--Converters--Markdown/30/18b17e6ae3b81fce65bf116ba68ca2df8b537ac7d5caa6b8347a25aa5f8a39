@@ -1,0 +1,91 @@
+I"Ô<p>PlayStation 3, begitu banyak nostalgia game yang ada, bagi kalian yang telah memainkan game pada konsol satu ini. Jadi kali ini kami akan memberikan tahapan untuk setup atau menyiapkan RPCS3, yaitu emulator PlayStation 3 yang cukup cepat perkembangannya waktu demi waktu dari segi optimalisasi.</p>
+
+<blockquote>
+  <p>Legalitas emulator konsol game masih dipertanyakan hingga sekarang, walaupun firmware resmi dan game yang ada dapat di extract langsung dari cd gamenya tetap masih ada celah yang dipertanyakan.</p>
+</blockquote>
+
+<p>Langsung saja, sebelum itu kalian perlu melakukan download beberapa kebutuhannya terlebih dahulu, beberapa hal tersebut adalah sebagai berikut.</p>
+
+<ul>
+  <li><a href="https://rpcs3.net/download">RPCS3</a>, tentu emulatornya itu sendiri, kalian dapat mengunduhnya pada situs RPCS3.</li>
+  <li><a href="https://www.playstation.com/en-us/support/hardware/ps3/system-software/">Firmware</a>, dalam menjalankan sistemnya RPCS3 memerlukan firmware dari PlayStation 3, kalian dapat mengunduhnya pada situs resmi PlayStation.</li>
+</ul>
+
+<p>Jika semua hal yang dibutuhkan sudah siap maka kita dapat lanjut ke tahapan berikutnya.</p>
+
+<h2 id="rpcs3">RPCS3</h2>
+
+<p>Setelah kalian mengunduh emulatornya kalian dapat membuka rpcs3.exe langsung, karena tidak memerlukan instalasi pada sistem operasi, setelah membuka RPCS3, lakukan instalasi firmware pada menu terlebih dahulu.</p>
+
+<p><a href="https://ik.imagekit.io/dsg/1_FMRLU4K6p.png" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/1_FMRLU4K6p.png" alt="image" />
+</a></p>
+
+<p>Pilih file firmware yang telah diunduh sebelumnya kemudian tunggu proses instalasinya</p>
+
+<h2 id="play">Play</h2>
+
+<p>Setelah langkah sebelumnya selesai seharusnya kalian telah dapat memainkan game pada RPCS3. Untuk memainkan game yang ada kalian hanya perlu memilih menu File kemudian klik Boot Game dan arahkan menuju direktori game yang ada dan Select Folder.</p>
+
+<blockquote>
+  <p>Dari mana mendapatkan game?, kalian dapat melakukan extract cd game playstation yang ada dan tutorialnya telah disediakan pada dokumentasi RPCS3 <a href="https://rpcs3.net/quickstart">berikut</a>. <span class="spoiler">Atau kalian bisa download pada situs yang telah menyediakan ROM game PlayStation 3 (kami tidak sarankan, mungkin hal ini ilegal).</span></p>
+</blockquote>
+
+<p><a href="https://ik.imagekit.io/dsg/2_9s9DE4-Ro.png" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/2_9s9DE4-Ro.png" alt="image" />
+</a></p>
+
+<p>Jika sudah maka semua tahapan telah selesai dan selamat bermain ataupun bernostalgia, ups.. ada satu hal lagi tetapi opsional yang akan dibahas selanjutnya dibawah.</p>
+
+<h2 id="tweaking">Tweaking</h2>
+
+<p>Sistem yang dibutuhkan untuk menjalankan emulator sebenarnya cukup berat, dilansir dari situs RPCS3 jumlah processor cores minimal adalah lebih dari 4 cores, atau untuk processor pada kelas Intel Core i5 atau AMD Ryzen 3 dan kebawah memiliki sedikit masalah menjalankan emulator ini, tetapi kami memiliki beberapa tweaking yang dilansir dari post <a href="https://www.reddit.com/r/rpcs3/comments/kdy4w7/suggestions_for_optimizing_rpcs3_for_performance/">Reddit</a> oleh <a href="https://www.reddit.com/user/arrowflask/">u/arrowflask</a> agar dapat meningkatkan stabilitas dan framerate pada emulator, sebelum itu masuk terlebih dahulu pada menu config.</p>
+
+<p><a href="https://ik.imagekit.io/dsg/3_1X3TJAsQU.png" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/3_1X3TJAsQU.png" alt="image" />
+</a></p>
+
+<p>setelah muncul jendela baru maka aturlah beberapa settings yang akan dijelaskan berikut.</p>
+
+<h3 id="cpu-tab">CPU tab:</h3>
+
+<ul>
+  <li>Preferred SPU Threads (Auto): <strong>3 atau 2</strong></li>
+  <li>Lower SPU Thread Priority (Disabled): <strong>Enabled</strong></li>
+  <li>Enable SPU Loop Detection (Enabled): <strong>Disabled</strong></li>
+</ul>
+
+<h3 id="gpu-tab">GPU tab:</h3>
+
+<ul>
+  <li>Shader Mode (Async multi threaded): <strong>Async w/ Shader Interpreter</strong></li>
+  <li>Number of Shader Compiler Threads: <strong>2</strong></li>
+</ul>
+
+<h3 id="audio-tab">Audio tab:</h3>
+
+<ul>
+  <li>Audio Buffer Duration (100 ms): <strong>150 ms</strong></li>
+</ul>
+
+<h3 id="emulator-tab">Emulator tab:</h3>
+
+<ul>
+  <li>Max LLVM Compile Threads (4): <strong>3</strong></li>
+</ul>
+
+<h3 id="advanced-tab">Advanced tab:</h3>
+
+<ul>
+  <li>Relaxed ZCULL Sync (Disabled): <strong>Enabled</strong> (aman untuk kebanyakan game, akan menyebabkan beberapa game tidak dapat boot atau crash pada title screen)</li>
+  <li>Maximum Number of SPURS Threads (Unlimited == 6): <strong>4 or 3</strong> (jika terjadi masalah tingkatkan menjadi +1 hingga stabil)</li>
+</ul>
+
+<p>Terakhir adalah pastikan rpcs3.exe berjalan pada high priority di task manager, cukup membawa perbedaan dari segi performa.</p>
+
+<p><a href="https://ik.imagekit.io/dsg/bayonetta_zoi_688jSd.gif" class="glightbox">
+<img src="https://ik.imagekit.io/dsg/bayonetta_zoi_688jSd.gif" alt="image" />
+</a></p>
+
+<p>Jika kalian ingin mengetahui konfigurasi lengkapnya kalian dapat mengunjungi thread redditnya <a href="https://www.reddit.com/r/rpcs3/comments/kdy4w7/suggestions_for_optimizing_rpcs3_for_performance/">berikut</a>. seharusnya semua berjalan baik, Selamat menikmati bermain game kalian, jika ada masalah atau pertanyaan dapat berkomentar di bawah, terimakasih!</p>
+:ET
