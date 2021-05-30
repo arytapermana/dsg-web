@@ -1,6 +1,6 @@
 ---
 title: Impresi Clarias Trial - Tidak Heran Ditunda
-date: 2020-12-29 00:00:00 Z
+date: 2020-12-29 08:00:00 +08:00
 categories:
 - Impression
 tags:

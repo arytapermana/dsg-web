@@ -1,6 +1,6 @@
 ---
 title: Menjelang Rilis, Opening Re:ZERO The Prophecy Dilepas
-date: 2021-01-21 00:00:00 Z
+date: 2021-01-21 08:00:00 +08:00
 categories:
 - News
 tags:

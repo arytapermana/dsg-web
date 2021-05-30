@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Touhou Project Hifuu Fragment Untuk Tahun 2021
+date: 2021-04-12 00:00:00 +08:00
 categories:
 - News
 tags:
 - Phoenixx Inc
 - " Shikaku Games"
 - Tohou Project
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Hifuu_Fragment_P0YbFn7wMXG.jpg
-
 ---
+
 Nama Tohou Project mungkin tidak terasa asing lagi. Meskipun sebelumnya belum pernah sama sekali memainkan salah satu serinya, tidak dapat dipungkiri franchise ini terkenal lewat berbagai macam artwork, doujinshi hingga cosplay yang masih bertebaran hingga saat ini. Game yang awalnya tembak-tembakan, kini akan ekspansi ke ranah visual novel.
 
 Berjudul Hifuu Fragment, vn ini dikembangkan oleh Shikaku Games dan dipublikasikan oleh Phoenixx Inc sebenarnya sudah dirilis Maret tahun lalu, namun dirilis kembali untuk meraih lebih banyak pasar.

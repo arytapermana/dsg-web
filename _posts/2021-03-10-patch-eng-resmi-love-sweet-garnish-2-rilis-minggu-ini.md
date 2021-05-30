@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Patch ENG Resmi Love Sweet Garnish 2 Rilis Minggu Ini
+date: 2021-03-10 00:00:00 +08:00
 categories:
 - News
 tags:
 - Love’s Sweet Garnish 2
 - Sekai Project
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Love_s_Sweet_Garnish_2_Bq_GvjafeXK.jpg
-
 ---
+
 Perlahan namun pasti publisher Sekai Project mulai melunasi hutang translate English resmi dari jajaran visual novel yang mereka tangani. Dimana dikenal paling banyak mengambil project translate dan paling sering delay karena kebanyakan pula beban ditanggung. Kali ini, sebuah short vn siap mengudara yaitu Love’s Sweet Garnish 2.
 
 Sejak awal rilis via [Steam](https://store.steampowered.com/app/1419480/Loves_Sweet_Garnish_2/) hingga saat ini, masih tersedia versi JP dan CN. Tentu saja game ini juga memiliki [patch 18+](https://denpasoft.com/brands/canvasgarden/) secara terpisah. Pemain yang sudah membeli sebelumnya akan dapat mengunduh versi EN dengan gratis.

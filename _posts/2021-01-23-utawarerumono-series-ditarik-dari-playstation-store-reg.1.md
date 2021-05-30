@@ -1,6 +1,6 @@
 ---
 title: Utawarerumono Series Ditarik Dari PlayStation Store Reg. 1
-date: 2021-01-23 00:00:00 Z
+date: 2021-01-23 08:00:00 +08:00
 categories:
 - News
 tags:

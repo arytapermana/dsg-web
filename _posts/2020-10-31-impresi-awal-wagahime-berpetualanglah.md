@@ -1,6 +1,6 @@
 ---
 title: Impresi Awal Wagahime Trial - Berpetualanglah
-date: 2020-10-31 00:00:00 Z
+date: 2020-10-31 08:00:00 +08:00
 categories:
 - Visual Novel
 - Impression

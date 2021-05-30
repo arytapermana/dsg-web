@@ -1,6 +1,6 @@
 ---
 title: Review Einstein Yori Ai o Komete — Hati Tertusuk Tusuk
-date: 2020-11-05 00:00:00 Z
+date: 2020-11-05 08:00:00 +08:00
 categories:
 - Visual Novel
 - Review

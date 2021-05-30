@@ -1,17 +1,17 @@
 ---
-layout: post
-author: john
-date: 2021-05-04 14:07:00 +0800
 title: Review Tottemo Akarui! - Setidaknya Rapi
+date: 2021-05-04 14:07:00 +08:00
 categories:
 - Review
 tags:
 - ''
 - Tottemo Akarui!
 - EvoLL
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/tottemo_xIiU-wtRQhb.jpg
-
 ---
+
 Mungkin menjadi game nukige lain yang kami review. Biasanya fokus ke story, namun genre ini lebih prioritas pada pengalaman sensual yang kental. Biasanya juga tidak terlalu panjang durasinya.
 
 Tottemo Akarui! Ojou-sama no Mankitsu☆Yume no Dosukebe Seikatsu merupakan game garapan developer sekaligus publisher EvoLL ini memang sedari awal menghasilkan nukige. Beberapa yang sudah melihat sampulnya mungkin familiar dengan desain salah satu heroine-nya dengan karakter dari franchise lain. Jadi mengapa game vn seperti ini setidaknya rapi? Berikut ulasannya.

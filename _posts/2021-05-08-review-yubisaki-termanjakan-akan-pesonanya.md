@@ -1,16 +1,16 @@
 ---
-layout: post
-author: john
-date: 2021-05-08 15:33:26 +0800
 title: Review Yubisaki Connection - Termanjakan Akan Pesonanya
+date: 2021-05-08 15:33:26 +08:00
 categories:
 - Review
 tags:
 - Yubisaki Connection
 - HookSoft
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Yubisaki_20_CEoLpqJR1.jpg
-
 ---
+
 Sudahkah Anda dimanjakan dengan begitu banyak visual novel beberapa hari lalu? Salah satu yang paling menarik perhatian banyak pemain, bahkan ketika trial saja sudah banyak yang memainkannya. Kali ini karya terbaru dari HookSoft yaitu Yubisaki Connection.
 
 Komplain kami soal minimnya fitur di versi trial sepertinya sudah dihadirkan secara penuh di retail ini. Ada beberapa mekanik standar yang diimplementasikan selain cerita yang terlalu manis. Ada alasan kuat mengapa pemain akan termanjakan akan pesonanya. Berikut ulasannya:

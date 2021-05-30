@@ -1,7 +1,7 @@
 ---
 title: Beberapa Game Ubisoft Pada PlayStation 4 Tidak Dapat Dimainkan di PlayStation
   5
-date: 2020-10-31 00:00:00 Z
+date: 2020-10-31 08:00:00 +08:00
 categories:
 - News
 tags:

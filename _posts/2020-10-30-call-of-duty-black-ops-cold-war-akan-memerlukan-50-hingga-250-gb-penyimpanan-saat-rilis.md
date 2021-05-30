@@ -1,7 +1,7 @@
 ---
 title: 'Call of Duty: Black Ops Cold War Memerlukan 50 Hingga 250 GB Penyimpanan Saat
   Rilis'
-date: 2020-10-30 00:00:00 Z
+date: 2020-10-30 08:00:00 +08:00
 categories:
 - News
 tags:

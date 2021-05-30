@@ -1,6 +1,6 @@
 ---
 title: Impresi Awal Wagahime Trial 2 - Mengintip Rute
-date: 2021-01-30 00:00:00 Z
+date: 2021-01-30 08:00:00 +08:00
 categories:
 - Impression
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Review Yureaka - Manisnya Sejenak
-date: 2021-01-02 00:00:00 Z
+date: 2021-01-02 08:00:00 +08:00
 categories:
 - Visual Novel
 - Review

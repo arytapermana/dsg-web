@@ -1,6 +1,6 @@
 ---
 title: Riddle Joker Versi Barat Rilis Desember Mendatang
-date: 2020-10-24 00:00:00 Z
+date: 2020-10-24 08:00:00 +08:00
 categories:
 - Visual Novel
 - News

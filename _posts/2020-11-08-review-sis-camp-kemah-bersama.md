@@ -1,6 +1,6 @@
 ---
 title: Review Sis△Camp - Kemah Bersama
-date: 2020-11-08 00:00:00 Z
+date: 2020-11-08 08:00:00 +08:00
 categories:
 - Visual Novel
 - Review

@@ -1,6 +1,6 @@
 ---
 title: Review Fxxx Me Royally!! - Jangan Liat Judul
-date: 2020-12-20 00:00:00 Z
+date: 2020-12-20 08:00:00 +08:00
 categories:
 - Visual Novel
 - Review

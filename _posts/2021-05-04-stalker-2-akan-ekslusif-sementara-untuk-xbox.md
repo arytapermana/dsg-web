@@ -1,16 +1,16 @@
 ---
-layout: post
-author: john
-date: 2021-05-04 11:36:03 +0800
 title: STALKER 2 Akan Ekslusif Sementara Untuk Xbox
+date: 2021-05-04 11:36:03 +08:00
 categories:
 - News
 tags:
 - GSC Game World
 - Stalker
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Stalker_2_NCEjzM_8bqc.jpg
-
 ---
+
 Persaingan konsol next-gen yang semakin sengit, beberapa game besar keluar untuk memperkuat posisi. STALKER merupakan game fps survival horror yang telah lama tertidur akhirnya mengeluarkan seri baru, dan segera menuju konsol terbaru milik Microsoft.
 
 Informasi tersebut datang via dokumen internal milik microsoft yang dilaporkan oleh the Verge mengungkapkan bahwa game garapan developer GSC Game World akan ekslusif sementara untuk Xbox selama tiga bulan. Selain itu ada beberapa game juga yang tengah direncanakan akan eksklusif sebelum menuju platform lain.

@@ -1,6 +1,6 @@
 ---
 title: Atelier Ryza 2 Perlihatkan Cinematic Opening
-date: 2020-11-02 00:00:00 Z
+date: 2020-11-02 08:00:00 +08:00
 categories:
 - Game
 - News

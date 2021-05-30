@@ -1,6 +1,6 @@
 ---
 title: Impresi Awal Kokoro No Katachi Trial - Wholesome Heroine
-date: 2020-11-27 00:00:00 Z
+date: 2020-11-27 08:00:00 +08:00
 categories:
 - Visual Novel
 - Impression

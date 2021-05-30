@@ -1,6 +1,6 @@
 ---
 title: Mengoptimalkan Pengaturan Graphics Video Game [Transcript]
-date: 2020-10-21 00:00:00 Z
+date: 2020-10-21 08:00:00 +08:00
 categories:
 - Info
 tags:

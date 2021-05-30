@@ -1,6 +1,6 @@
 ---
 title: Unreal Life Versi Barat Tentukan Tanggal Rilis
-date: 2020-11-13 00:00:00 Z
+date: 2020-11-13 08:00:00 +08:00
 categories:
 - Indie
 - News

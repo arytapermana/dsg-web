@@ -1,16 +1,16 @@
 ---
-layout: post
-author: sal
-date: 2021-04-17T07:36:31.000+08:00
 title: Konsep Dasar Cara Overclock GPU Untuk Penggunaan Sehari-Hari
+date: 2021-04-17 07:36:31 +08:00
 categories:
 - Info
 tags:
 - GPU
 - Overclock
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/overclock_c0S9sbRb0hk.jpg
-
 ---
+
 Overclocking adalah hal yang cukup banyak diperdebatkan dalam aspek penggunaan sehari hari, diingatkan lagi sehari-hari, bukan tingkat kompetisi, hal ini dikarenakan sebagian menganggap overclocking dapat merusak komponen yang ada pada perangkat hardware karena meningkatkan clock atau frekuensi yang ada diluar pengaturan pabrikannya, sedangkan pihak lain mengaggap overclocking tetap aman digunakan sehari-hari jika pengaturan frekuensi ataupun suhu yang ada tetap terjaga. kali ini kami tidak akan membahas hal tersebut tetapi kami akan membahas konsep dasar overclocking khususnya GPU atau graphics card untuk pemakaian sehari-sehari, perlu diingat Do at your own risk!.
 
 Sebelum memulai tahapan yang ada, berikut beberapa hal yang perlu dipersiapkan untuk melakukan overclocking.

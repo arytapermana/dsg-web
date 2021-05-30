@@ -1,6 +1,6 @@
 ---
 title: 'No Man''s Sky: Next Generation Tampil Lebih Memukau'
-date: 2020-10-29 00:00:00 Z
+date: 2020-10-29 08:00:00 +08:00
 categories:
 - News
 tags:

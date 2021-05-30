@@ -1,18 +1,18 @@
 ---
-layout: post
-author: sal
-date: 2021-05-23T19:31:55.000+08:00
 title: Bangun Server Multiplayer Minecraft Kalian Sendiri
+date: 2021-05-23 19:31:55 +08:00
 categories:
 - Info
 tags:
 - Ngrok
 - Multiplayer
 - Minecraft
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/thumb_RSrSNhvh5.jpg
 tldr: https://disekitargame.com/stories/2021-05-23-bangun-server-multiplayer-minecraft-kalian-sendiri/
-
 ---
+
 Minecraft ketika Bermain bersama teman terkadang cukup sulit untuk video game satu ini, kalian perlu mencari server publik ataupun membeli server premium dari Minecraft yang biasa di sebut Minecraft Realms, walaupun hanya ingin bermain bersama teman kalian, hal ini terasa cukup susah.
 
 Teman kalian dan kalian sebenernya ketika berada pada satu jaringan yang sama kalian dapat membuat server sendiri dan membagikan ip serta port yang ada ke teman kalian, cukup mudah bukan, tapi bagaimana jika teman kalian berada di wilayah yang cukup jauh, maka jaringan internet diperlukan dan hal ini memerlukan sesuatu yang disebut port forward, yaitu membagikan alamat ip lokal yang ada untuk dapat diakses hingga ke internet. Jadi hal tersebut yang akan dibahas kali ini.

@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Impresi Awal Yubisaki Trial - Tentukan Pilihanmu
+date: 2021-03-27 00:00:00 +08:00
 categories:
 - Impression
 tags:
 - Hooksoft
 - Yubisaki Connection
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Yubisaki_11_ub32ob5g9Ss.jpg
-
 ---
+
 Hooksoft, sebagian besar pemain vn sudah dapat memahami pasti ciri khasnya kebanyakan hadir begitu wholesome comedy romance begitu kentara. Kini setelah ditunggu-tungu dengan kualitas desain mempesona lainnya, trial Yubisaki Connection bisa dimainkan.
 
 ![](https://ik.imagekit.io/dsg/Yubisaki_8_7E4KykoDW.jpg)

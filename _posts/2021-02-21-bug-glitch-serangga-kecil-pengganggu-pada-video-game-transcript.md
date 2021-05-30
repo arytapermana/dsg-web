@@ -1,15 +1,16 @@
 ---
-layout: post
-author: sal
 title: 'Bug/Glitch: Serangga Kecil Pengganggu Pada Video Game [Transcript]'
+date: 2021-02-21 00:00:00 +08:00
 categories:
 - Info
 tags:
 - Glitch
 - Bug
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/thumbnail_xOe094ICw.png
-
 ---
+
 Istilah _bug_ di dunia komputasi pertama kali digunakan pada tahun 1946, saat Grace Hopper tengah mengembangkan _project_ komputer Harvard Mark II dan Harvard Mark III. Ia menemukan seekor serangga di dalam perangkat yang mengakibatkan malfungsi pada komputer tersebut. _Bug_ atau _glitch_ dapat memberikan efek positif dan negatif, salah satu hal buruk paling fatal yang dapat terjadi karena _bug_ adalah _not respoding_. Lalu apa saja efek positif yang dihasilkan? Mari kita simak video berikut ini.
 
 <div class="embed-container">

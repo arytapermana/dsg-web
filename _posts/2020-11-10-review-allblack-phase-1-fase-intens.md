@@ -1,6 +1,6 @@
 ---
 title: Review ALLBLACK Phase 1 - Fase Intens
-date: 2020-11-10 00:00:00 Z
+date: 2020-11-10 08:00:00 +08:00
 categories:
 - Visual Novel
 - Review

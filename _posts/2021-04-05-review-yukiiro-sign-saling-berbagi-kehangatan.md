@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Review Yukiiro Sign - Saling Berbagi Kehangatan
+date: 2021-04-05 00:00:00 +08:00
 categories:
 - Visual Novel
 - Review
 tags:
 - Wonder Fool
 - Yukiiro Sign
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Yukiiro_Sign_Thumbnail_UWyW0hxNO.jpg
-
 ---
+
 Ketika banyak vn route menawarkan banyak heroine untuk diajak kencan, Wonder Fool bermain dengan hanya 3 saja saja. Yukiiro Sign menjadi karya keempat dengan kualitas yang meningkat pesat untuk developer sekaligus publisher yang terjun ke industri visual novel. 
 
 Seperti apa yang sempat mereka tawarkan di trial, salju di musim dingin menjadi kisah utama yang merepresentasikan cerita baik mc maupun karakter-karakter lain yang terlibat. Mengapa berjudul "Saling Berbagi Kehangatan"? Berikut ulasannya:

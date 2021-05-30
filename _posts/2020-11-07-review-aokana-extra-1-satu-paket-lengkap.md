@@ -1,6 +1,6 @@
 ---
 title: Review Aokana Extra 1 - Satu Paket Lengkap
-date: 2020-11-07 00:00:00 Z
+date: 2020-11-07 08:00:00 +08:00
 categories:
 - Visual Novel
 - Review

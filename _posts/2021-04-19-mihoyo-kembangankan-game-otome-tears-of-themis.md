@@ -1,15 +1,15 @@
 ---
-layout: post
-author: john
-date: 2021-04-19 13:37:05 +0800
 title: MiHoYo Kembangankan Game Otome Tears of Themis
+date: 2021-04-19 13:37:05 +08:00
 categories:
 - News
 tags:
 - MiHoYo
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Tears_of_Themis_mKRv_4S6mDf.jpg
-
 ---
+
 Kesuksesan MiHoYo dalam mengembangkan game GAAS (_Games as a Service_) baik Honkai Impact 3 maupun Genshin Impact masih begitu populer. Kali ini, sepertinya mereka ingin menggaet gamers wanita, sebuah game otome baru telah dikembangkan.
 
 Tears of Themis merupakan game “romance x detective x adventure” merupakan game yang dimana Anda berperan sebagai detektif untuk menginvestigasi sebuah kasus, mengumpulkan bukti, dan menghakimi tersangka. Trailer dirilis memperlihatkan beberapa husbando dengan cg  adegan romance juga.

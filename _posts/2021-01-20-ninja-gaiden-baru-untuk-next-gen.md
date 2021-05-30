@@ -1,6 +1,6 @@
 ---
 title: Ninja Gaiden Baru Untuk Next-Gen?
-date: 2021-01-20 00:00:00 Z
+date: 2021-01-20 08:00:00 +08:00
 categories:
 - News
 tags:

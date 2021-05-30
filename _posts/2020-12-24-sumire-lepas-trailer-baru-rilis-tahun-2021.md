@@ -1,6 +1,6 @@
 ---
 title: Sumire Lepas Trailer Baru, Rilis Tahun 2021
-date: 2020-12-24 00:00:00 Z
+date: 2020-12-24 08:00:00 +08:00
 categories:
 - Switch
 - PC

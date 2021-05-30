@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: 'Akiba’s Trip: Hellbound & Debriefed Tuju Pasar Barat'
+date: 2021-02-10 00:00:00 +08:00
 categories:
 - News
 tags:
 - XSEED
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Akiba_Trip_qEEuGeiuZDK-.jpg
-
 ---
+
 Mengitari kota surganya berhala yang berkaitan dengan anime, apalagi kalau bukan Akibahara. Kota ini sering dijadikan latar untuk beberapa game. Akiba's Trip sebuah franchise yang tidak hanya sekadar menjelajah tetapi ada elemen gameplay yang membuat gamer hidung belang tertarik untuk mencicipinya. Berita baiknya seri terbaru akan dirilis untuk pasar Barat.  
 
 XSEED Games selaku publisher juga menawarkan limited edition dimana mendapatkan BD/Cartridge, Artbook 60 halaman dan Official Soundtrack sebagai bentuk perayaan hari jadi ke-10 franchise tersebut. Game ini merupakan versi penyempurnaan dari Akiba's Trip Plus untuk PSP, dan dirilis untuk Jepang 20 Mei tahun lalu.

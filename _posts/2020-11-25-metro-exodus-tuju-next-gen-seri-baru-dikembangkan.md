@@ -1,6 +1,6 @@
 ---
 title: Metro Exodus Tuju Next Gen, Seri Baru Dikembangkan?
-date: 2020-11-25 00:00:00 Z
+date: 2020-11-25 08:00:00 +08:00
 categories:
 - News
 tags:

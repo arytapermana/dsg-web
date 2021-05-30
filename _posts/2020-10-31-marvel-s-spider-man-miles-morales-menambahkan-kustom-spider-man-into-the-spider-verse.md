@@ -1,7 +1,7 @@
 ---
 title: 'Marvel’s Spider-Man: Miles Morales Menambahkan Kustom Spider-Man: Into the
   Spider-Verse'
-date: 2020-10-31 00:00:00 Z
+date: 2020-10-31 08:00:00 +08:00
 categories:
 - News
 tags:

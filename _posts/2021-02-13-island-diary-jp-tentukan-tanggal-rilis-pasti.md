@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Island Diary JP Tentukan Tanggal Rilis Pasti
+date: 2021-02-13 00:00:00 +08:00
 categories:
 - News
 tags:
 - Watakubi
 - Sekai Project
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Island_Diary_cuhm8WJmljL-.jpg
-
 ---
+
 Seperti biasa jika membicarakan visual novel, versi JP selalu rilis terlebih dulu sebelum menuju pasar Barat aka Eng. Sekai Project menjadi salah satu publisher yang cukup sibuk, dimana menangani cukup banyak project saat ini. Island Diary garapan developer Watakubi memastikan tanggal rilis pasti untuk pasar Jepang.
 
 Merayakan pengumuman tersebut, sebuah trailer opening seperti visual novel kebanyakan memperkenalkan para heroine, memberikan sedikit intipan CG dan riang gembira dari para gadis fury, eh.

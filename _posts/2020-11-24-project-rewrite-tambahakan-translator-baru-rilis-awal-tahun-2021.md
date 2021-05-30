@@ -1,6 +1,6 @@
 ---
 title: Project Rewrite+ Tambahakan Translator Baru, Rilis Awal Tahun 2021
-date: 2020-11-24 00:00:00 Z
+date: 2020-11-24 08:00:00 +08:00
 categories:
 - News
 tags:

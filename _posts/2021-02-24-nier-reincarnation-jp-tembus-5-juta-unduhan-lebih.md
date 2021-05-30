@@ -1,7 +1,6 @@
 ---
-layout: post
-author: john
 title: NieR Reincarnation JP Tembus 5 Juta Unduhan Lebih
+date: 2021-02-24 00:00:00 +08:00
 categories:
 - News
 tags:
@@ -9,9 +8,11 @@ tags:
 - Square Enix
 - Nier
 - Smartphone
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/21021806525834_czDsMnueI.jpg
-
 ---
+
 Kepopuleran game gacha mobile memang menarik banyak perhatian publisher untuk menghadirkan franchise terbaiknya ke smartphone. Seperti biasa, kebanyakan hadir di tanah sendiri sebelum rilis global. Tetapi, meskipun masih berbahasa Jepang, NieR Re\[in\]carnation mendapatkan jumlah unduhan besar.
 
 Sebagai rasa terimakasih game tersebut telah diunduh sebanyak 5 juta pengguna lebih, sebuah visual menarik dilepas. Tidak hanya itu sebagai hadiah kepada pemain akan diberikan 1,000 gem beserta material upgrade, pada 3 Maret pukul 11.59 JST (9.59 WIB).

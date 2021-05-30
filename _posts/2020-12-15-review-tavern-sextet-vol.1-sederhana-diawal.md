@@ -1,6 +1,6 @@
 ---
 title: Review Tavern Sextet Vol. 1 - Sederhana Diawal
-date: 2020-12-15 00:00:00 Z
+date: 2020-12-15 08:00:00 +08:00
 categories:
 - Review
 tags:

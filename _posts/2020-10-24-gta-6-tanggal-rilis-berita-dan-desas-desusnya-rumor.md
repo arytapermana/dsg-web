@@ -1,6 +1,6 @@
 ---
 title: GTA 6 Tanggal Rilis, Berita dan Desas-Desusnya [Rumor]
-date: 2020-10-24 00:00:00 Z
+date: 2020-10-24 08:00:00 +08:00
 categories:
 - Info
 tags:

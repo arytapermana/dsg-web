@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Review HarmonEy - Harmonis Sekali
+date: 2021-03-16 00:00:00 +08:00
 categories:
 - Review
 tags:
 - artlink
 - Hachimitsu Soft
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/HarmonEy_8_g91mRIDzv4p.jpg
-
 ---
+
 Hachimitsu Soft senang sekali dalam bereksperimen menghadirkan pengalam kisah romansa indah dari beberapa kehidupan. Proyek translate mereka juga perlahan mulai mucul ke permukaan. HarmonEy sendiri merupakan visual novel dengan "harmonis" sebagai daya tarik utama.
 
 Tentu sebagaian orang setuju, alasan utama memainkan vn ini adalah desain sang heroine utama. Judul bukan gimik belaka, sesuatu yang banyak diharapkan para pasangan agar tetap harmonis. Seberapa harmonis? Berikut ulasannya:

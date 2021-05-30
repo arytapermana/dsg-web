@@ -1,6 +1,6 @@
 ---
 title: Majikoi! Versi Barat Rilis Musim Dingin Mendatang
-date: 2020-11-06 00:00:00 Z
+date: 2020-11-06 08:00:00 +08:00
 categories:
 - Visual Novel
 - News

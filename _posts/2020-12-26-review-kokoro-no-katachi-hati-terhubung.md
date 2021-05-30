@@ -1,6 +1,6 @@
 ---
 title: Review Kokoro No Katachi - Hati Terhubung
-date: 2020-12-26 00:00:00 Z
+date: 2020-12-26 08:00:00 +08:00
 categories:
 - Visual Novel
 - Review

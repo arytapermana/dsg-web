@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: Evenicle 2 Ditolak Dari Steam?
+date: 2021-02-12 00:00:00 +08:00
 categories:
 - News
 tags:
 - Alicesoft
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Evenicle_2_k4zfTlIXA.jpg
-
 ---
+
 Trial yang berhasil menarik hati gamer dengan review cukup positif, Evenicle 2 Eng version sepertinya akan tidak lama lagi. Namun harapan tersebut tidak akan terjadi, nampaknya pihaknya tengah mendapatkan masalah. Seperti yang diprediksi, kemungkinan besar tentang konten dewasanya lagi.
 
 Pihak Steam sepertinya telah menarik game tersebut dari store-nya, menurut [SteamDB](https://steamdb.info/app/1392380/history/?fbclid=IwAR1nkhmJJg1bBHe0HN-MSKtIFapr6moDd9SsPojg3vmguvWYPNRhdbrsgxg) sudah pertanda versi penuhnya di ban dari platform tersebut. Ini bukan pertama kalinya, game lain dari dev. Alisoft seperti Rance Series juga mengalami hal sama. Ada konfirmasi bahwa saat ini perilisan belum disetujui karena belum memenuhi syarat. Merilis versi all-age dengan patch untuk game ini bukanlah hal mudah, karena unsur dewasanya menjadi plot penting, walaupun masih belum bisa dikonfirmasi pula mengapa seri pertama lolos.

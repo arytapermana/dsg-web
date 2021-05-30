@@ -1,6 +1,6 @@
 ---
 title: Fantasy Tavern Sextet -Vol.1 Rilis Untuk PC Lengkap Dengan Patch
-date: 2020-11-25 00:00:00 Z
+date: 2020-11-25 08:00:00 +08:00
 categories:
 - News
 tags:

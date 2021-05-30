@@ -1,6 +1,6 @@
 ---
 title: Tavern Sextet Vol. 2 Rilis Awal Tahun 2021
-date: 2020-12-17 00:00:00 Z
+date: 2020-12-17 08:00:00 +08:00
 categories:
 - Visual Novel
 - News

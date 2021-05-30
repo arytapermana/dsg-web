@@ -1,6 +1,6 @@
 ---
 title: Far Cry 6 dan Rainbow Six Quarantine Ditunda Menjadi Awal-Pertengahan 2021
-date: 2020-10-30 00:00:00 Z
+date: 2020-10-30 08:00:00 +08:00
 categories:
 - News
 tags:

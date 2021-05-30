@@ -1,17 +1,17 @@
 ---
-layout: post
-author: john
-date: 2021-05-03 05:13:44 +0800
 title: 'Detail Baru Reverse Collapse: Code Name Bakery Dilepas'
+date: 2021-05-03 05:13:44 +08:00
 categories:
 - News
 tags:
 - X.D. Network
 - Reverse Collapse
 - Sunborn
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Reverse_Collapse_FuyjQtbtz.jpg
-
 ---
+
 Veteran Girl's Frontline sepertinya sudah terbiasa dengan cerita PTSD yang ditawarkan dari game moefikasi senjata imut-imut namun tidak imut. Sembari menunggu GFL S2 sebenarnya ada game yang menjadi jembatan penghubung, yap apalagi kalau bukan _Reverse Collapse: Code Name Bakery._
 
 Merupakan game remaster dari seri original di tahun 2013, dikembangkan oleh MICA team Sunborn Games dan diterbitkan oleh X.D. Network. Game ini mengisahkan tentang keadaan dunia dalam perang dingin kedua, dan mengungkap konspirasi dunia dengan codename "Bakery". Sebuah trailer gelapnya perang dilepas.
