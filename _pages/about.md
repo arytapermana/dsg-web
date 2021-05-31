@@ -1,22 +1,18 @@
 ---
 title: Disekitar Game, Deep Dive World of Gaming!
 permalink: "/about/"
-layout: page
 comments: false
 image: https://ik.imagekit.io/dsg/43952100_1098366033659916_1847795063606738944_o-1024x577_GZno5XnGt.jpg
 imageshadow: true
+layout: page
 ---
 
-Disekitar Game adalah media informasi yang memberikan berita seputar game dan juga membahas hal spesifik pada game, seperti apa itu antialiasing, bagaimana sound pada game bekerja, tips dan trik, serta topik game lainnya.
+Disekitar Game adalah media digital yang memberikan informasi industri video game, fokus kami adalah menyampaikan ide dan gagasan spesifik serta mendalam, tetapi mudah untuk dimengerti. Kami yakin video game adalah sebuah karya seni, dan karya seni layak diapresiasi, disanalah tempat kami berada, mengapresasi dengan mempelajarinya lebih dalam adalah cara kami.
 
-Tujuan kami adalah ingin memberikan sudut pandang media informasi pada industri game yang unik, dimana informasi yang diberikan berupa informatif dan tidak berpihak, kami berusaha memberikan pandangan luas kepada pembaca dan penonton kami, agar mereka dapat menafsirkan informasi yang ada menurut pendapat mereka.
+Kami adalah tim kecil yang mungkin anda dapat hitung dengan jari, sebagian dari kami adalah mahasiswa, penulis, videographer, developer hingga illustrator, bekerja secara bersama membangun ide dan gagasan terbaik. Kami tetap optimis memperluas jangkauan komunitas.
 
-Kami sejauh ini memiliki tim kecil, hanya terdiri dari dua orang dimana saya Arya Putra, yang memanajemen web, dari menjaga web agar tidak terdapat masalah, melakukan desain pada web, hingga membuat konten pada YouTube, dan satu lagi adalah Angga Permana, dimana ia adalah penulis yang memiliki pandangan unik pada setiap informasi yang didapat, kemudian menyampaikannya dengan tulisan pada posting di web, serta membantu beberapa hal dibelakang yang anda tidak ketahui.
+Katakan hai! dengan mengirim email di **hai@disekitargame.com** kami sangat antusias membaca email anda.
 
-kami membangun website ini untuk tujuan ‘bisnis’, tetapi ‘bisnis’ dalam artian berbeda, kami berfokus memberikan konten terbaik yang dapat kami lakukan, walaupun pendapatan juga penting untuk membuat website tetap berjalan, kami yakin bahwa informasi yang ‘baik’ akan mendatangkan mereka yang ‘baik’ juga.
+Terimakasih!
 
-Mungkin itu saja, apakah ada pertanyaan?, hubungi kami melalui email: support@disekitargame.com, kami akan menjawab email dari anda secepat yang kami bisa, jika lebih dari 1×24 jam email tidak mendapat balasan, mohon kirim email reminder yang mengingatkan bahwa anda telah mengirim email.
-
-Terimakasih.
-
-<a target="_blank" href="https://www.youtube.com/channel/UCC71ynFPWO11J5X6Or84wsw" class="btn"> Kunjungi YouTube Kami &rarr;&nbsp;&nbsp;</a>
+<a target="_blank" href="https://www.youtube.com/channel/UCC71ynFPWO11J5X6Or84wsw" class="btn"> Kunjungi YouTube Kami →  </a>
