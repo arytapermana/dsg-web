@@ -14,5 +14,3 @@ Kami adalah tim kecil yang mungkin anda dapat hitung dengan jari, sebagian dari 
 Katakan hai! dengan mengirim email di **hai@disekitargame.com** kami sangat antusias membaca email anda.
 
 Terimakasih!
-
-<a target="_blank" href="https://www.youtube.com/channel/UCC71ynFPWO11J5X6Or84wsw" class="btn"> Kunjungi YouTube Kami →  </a>
