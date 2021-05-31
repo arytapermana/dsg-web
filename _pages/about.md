@@ -1,5 +1,5 @@
 ---
-title: Disekitar Game, Deep Dive World of Gaming!
+title: Tentang
 permalink: "/about/"
 comments: false
 image: https://ik.imagekit.io/dsg/43952100_1098366033659916_1847795063606738944_o-1024x577_GZno5XnGt.jpg
