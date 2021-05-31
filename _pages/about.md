@@ -14,3 +14,5 @@ Kami adalah tim kecil yang mungkin anda dapat hitung dengan jari, sebagian dari 
 Katakan hai! dengan mengirim email ke **hai@disekitargame.com**, kami sangat antusias membaca email anda.
 
 Terimakasih!
+
+**Team**: [Arya Permana](https://www.instagram.com/arylupita/), [Angga Permana](https://www.instagram.com/angga_permana_41/), Oka Mahendra, [Dandy Suartama](https://www.instagram.com/dandytama_/)
