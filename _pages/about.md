@@ -11,6 +11,6 @@ Disekitar Game adalah media digital yang memberikan informasi industri video gam
 
 Kami adalah tim kecil yang mungkin anda dapat hitung dengan jari, sebagian dari kami adalah mahasiswa, penulis, videographer, developer hingga illustrator, bekerja secara bersama membangun ide dan gagasan terbaik. Kami tetap optimis memperluas jangkauan komunitas.
 
-Katakan hai! dengan mengirim email di **hai@disekitargame.com** kami sangat antusias membaca email anda.
+Katakan hai! dengan mengirim email ke **hai@disekitargame.com**, kami sangat antusias membaca email anda.
 
 Terimakasih!
