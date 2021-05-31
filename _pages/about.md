@@ -15,4 +15,4 @@ Katakan hai! dengan mengirim email ke **hai@disekitargame.com**, kami sangat ant
 
 Terimakasih!
 
-**Team**: [Arya Permana](https://www.instagram.com/arylupita/), [Angga Permana](https://www.instagram.com/angga_permana_41/), Oka Mahendra, [Dandy Suartama](https://www.instagram.com/dandytama_/)
+**Tim**: [Arya Permana](https://www.instagram.com/arylupita/), [Angga Permana](https://www.instagram.com/angga_permana_41/), Oka Mahendra, [Dandy Suartama](https://www.instagram.com/dandytama_/)
