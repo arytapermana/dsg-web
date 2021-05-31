@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+    Author:
+    - sal
+    - john
   stories:
     title: Stories
     output: true
