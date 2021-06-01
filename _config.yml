@@ -1,6 +1,6 @@
 ---
 title: Disekitar Game
-timezone: Asia/Makassar
+timezone: Asia/Shanghai
 collections:
   posts:
     title: Posts
@@ -19,7 +19,7 @@ description: Disekitar Game adalah media informasi digital yang menyajikan eduka
 logo: assets/images/logo-1-min.gif
 favicon: assets/images/dsg-logo-icon-1.png
 url: https://disekitargame.com
-baseurl: ''
+baseurl: 
 google_analytics: G-3ZND91CGZD
 disqus: disekitar-game
 mailchimp-list: https://space.us3.list-manage.com/subscribe?u=119b8c921721eaa747d4230ea&id=d8f6b5e860
@@ -90,7 +90,7 @@ kramdown:
     disable: true
 adsense: disabled
 adsense-data-ad-client: ca-pub-3412143450191416
-adsense-data-ad-slot: '1363087678'
+adsense-data-ad-slot: 1363087678
 lazyimages: enabled
 authorbox: disabled
 sass:
