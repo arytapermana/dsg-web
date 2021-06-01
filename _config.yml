@@ -107,10 +107,9 @@ algolia:
   index_name: disekitargame.com
   search_only_api_key: f8ee8c243a1ff62b972716eeb16494ac
 default:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: ""
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author: ''
