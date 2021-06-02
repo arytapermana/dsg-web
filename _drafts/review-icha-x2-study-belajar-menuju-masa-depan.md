@@ -6,14 +6,15 @@ title: Review Icha x2 Study - Belajar Menuju Masa Depan
 categories:
 - Review
 tags:
+- Marmalade
 - Icha x2 Study
 image: https://ik.imagekit.io/dsg/Yuu_After-2_YpNzs9_51.jpg
 tldr: ''
 
 ---
-hwg
+Tidak mengherankan bila sebuah visual yang menawarkan banyak heroine, salah satunya begitu dicintai. Apalagi developer mengerti keinginan fans, dan membuatkan after story ataupun fandisc untuk bisa bersama sang heroine lebih lama lagi, atau sekadar memberikan ending yang dirasa gantung.
 
-wffw
+Icha x2 Study merupakan fandisc vn dari game utama Study § Steady garapan dev/publisher Marmalade rilis tahun lalu. Pada Fandisc ini heroine Yuu Omaezaki menjadi primadona yang begitu menarik perhatian lebih banyak dari heroine lainnya. Mengapa judul review kali ini adalah Belajar Menuju Masa Depan? Berikut ulasannya:
 
 **Cerita**
 
@@ -41,6 +42,21 @@ Terlepas menjadi after-story, setidaknya visual novel ini masih menyediakan bebe
 
 ![](https://ik.imagekit.io/dsg/Yuu_After-6_RYoQ127O3.jpg)
 
-Ada momen juga dimana pemain harus menggerakan mouse maju untuk memasang cincin ke tangan heroine misalnya. Sepertinya momen interaktif ini akan ditawarkan ke heroine lagi misalnya, jika mereka berencana merilis after story lainnya.
+Ada momen juga dimana pemain harus menggerakan mouse maju untuk memasang cincin ke tangan heroine misalnya. Sepertinya momen interaktif ini akan ditawarkan ke heroine lagi misalnya, jika mereka berencana merilis fandisc lainnya.
 
 **Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/Yuu_After-5_h0ZIvAsvA3u.jpg)
+
+Icha x2 Study memberikan kalian menikmati heroine Yuu Omaezaki hidup kembali hingga ingin memiliki pasangan seperti dia di dunia nyata. Terlepas dari begitu manisnya, sayangnya kelemahan utama justru datang dari H-scene yang tidak begitu banyak. Selain itu, penggunaan E-motion pada game ini terhitung berat, dibandingkan game lain yang menggunakan engine sama pada laptop kentang kami biasa kami ujikan khusus untuk vn.
+
+Kelebihan:
+
+* Yuu Omaezaki
+* Visual Mempesona
+* Jiggle physics
+
+Kekurangan:
+
+* E-motion Cukup berat
+* Minim H-Scene
