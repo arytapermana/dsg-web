@@ -17,7 +17,7 @@ AMD akhirnya mengumumkan FidelityFX Super Resolotion (FSR) yang mungkin akan men
 
 ![](https://ik.imagekit.io/dsg/Screenshot_2021-06-02_090841_VPOz25mUdwH.png)
 
-Terdapat beberapa preset yang ditampilkan dari presentasi yang dilakukan oleh AMD yaitu Native, Ultra Quality, Quality, Balanced, dan Performance. dan jika dilihat secara kasat mata tidak ada perbuhana grafik yang sangat signifikan, tetapi jika dilihat lebih detail akan terlihat kualitas yang aga menurun seperti lebih blur terutama pada preset Performance, sebenarnya hal tersebut wajar terjadi, sama dengan DLSS yang memiliki hasil gambar lebih sedikit blur dari Native.
+Terdapat beberapa preset yang ditampilkan dari presentasi yang dilakukan oleh AMD yaitu Native, Ultra Quality, Quality, Balanced, dan Performance. dan jika dilihat secara kasat mata tidak ada perbuhan grafis yang sangat signifikan, tetapi jika dilihat lebih detail akan terlihat kualitas yang aga menurun seperti lebih blur terutama pada preset Performance, sebenarnya hal tersebut wajar terjadi, sama dengan DLSS yang memiliki hasil gambar lebih sedikit blur dari Native.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eHPmkJzwOFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
