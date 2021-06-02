@@ -13,7 +13,7 @@ image: https://ik.imagekit.io/dsg/770814-amd-fidelity-fx-1260x709_cTNCspc3w0U.jp
 tldr: ''
 
 ---
-AMD akhirnya mengumumkan FidelityFX Super Resolotion (FSR) yang mungkin akan menjadi rival dari teknologi DLSS dari NVIDIA, fitur FSR ini adalah bagaimana meningkatkan performa game dengan meminimalkan efek memperburuk kualitas gambar dengan menggunakana metode algoritma supersampling yang terbarukan miliknya.
+AMD akhirnya mengumumkan FidelityFX Super Resolotion (FSR) yang mungkin akan menjadi rival dari teknologi DLSS dari NVIDIA, fitur FSR ini adalah bagaimana meningkatkan performa game dengan meminimalkan efek memperburuk kualitas gambar dengan menggunakan metode algoritma supersampling yang terbarukan miliknya.
 
 ![](https://ik.imagekit.io/dsg/Screenshot_2021-06-02_090841_VPOz25mUdwH.png)
 
