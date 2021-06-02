@@ -31,7 +31,16 @@ Tidak perlu khawatir soal drama, konflik ataupun hal lainnya. Anda tinggal duduk
 
 ![](https://ik.imagekit.io/dsg/Yuu_After-4_8jYPx063o.jpg)
 
-Seperti yang kami bahas diatas, physic dari engine E-motion pada game ini terasa terlalu berlebih dan cukup menguras sumber daya pc kurang mumpuni. Tetapi bagaimana dengan cerita? Beruntung, bagi Anda yang tidak memainkan versi sebelumnya masih bisa menikmatinya secara penuh, namun sangat disarankan sekali memainkan 
+Seperti yang kami bahas diatas, physic dari engine E-motion pada game ini terasa terlalu berlebih dan cukup menguras sumber daya pc kurang mumpuni. Tetapi bagaimana dengan cerita? Beruntung, bagi Anda yang tidak memainkan versi sebelumnya masih bisa menikmatinya secara penuh, namun sangat disarankan sekali memainkan Study § Steady, apalagi vn utama-nya terhitung panjang. Ini lebih memberikan fan-service kepada player.
 
-| --- |
-| Study § Steady |
+**Pendek Tapi Masih Ada Konten Lain**
+
+![](https://ik.imagekit.io/dsg/Yuu_After_DEW4GJQYJKv.jpg)
+
+Terlepas menjadi after-story, setidaknya visual novel ini masih menyediakan beberapa fitur menarik selain membaca teks cerita. Ketika baru memainkan vn ini, kita akan disuguhi dengan beberapa sample pack audio sang main heroine utama sangat ASMR.
+
+![](https://ik.imagekit.io/dsg/Yuu_After-6_RYoQ127O3.jpg)
+
+Ada momen juga dimana pemain harus menggerakan mouse maju untuk memasang cincin ke tangan heroine misalnya. Sepertinya momen interaktif ini akan ditawarkan ke heroine lagi misalnya, jika mereka berencana merilis after story lainnya.
+
+**Kesimpulan**
