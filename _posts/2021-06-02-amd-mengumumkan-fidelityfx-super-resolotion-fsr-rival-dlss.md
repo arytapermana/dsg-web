@@ -23,4 +23,4 @@ Terdapat beberapa preset yang ditampilkan dari presentasi yang dilakukan oleh AM
 
 FSR juga akan support hingga lebih dari 100 CPUs dan GPUs, apakah APU dari seri processor Ryzen seperti Vega 8/11 akan mendapatkannya?, masih belum begitu jelas informasi tentang ini. Hal lain yang menarik dari FSR adalah Open Source, dimana developer dapat menggunakannya secara bebas pada game mereka, berbeda dengan NVIDIA yang cukup ketat dengan DLSS untuk developer.
 
-Jadi apakah FSR cukup kuat untuk menandingi DLSS? sampaikan komentar kalian dibawah.
+Jadi apakah FSR cukup kuat untuk menandingi DLSS? jangan ragu sampaikan komentar kalian dibawah.
