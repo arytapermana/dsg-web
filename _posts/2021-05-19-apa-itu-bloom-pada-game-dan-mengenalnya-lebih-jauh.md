@@ -1,17 +1,17 @@
 ---
+layout: post
+author: sal
+date: 2021-05-19T08:41:16.000+08:00
 title: Apa Itu Bloom Pada Game dan Mengenalnya Lebih Jauh
-date: 2021-05-19 08:41:16 +08:00
 categories:
 - Info
 tags:
 - Bloom
 - Settings Graphics
-layout: post
-author: sal
 image: https://ik.imagekit.io/dsg/thumb__kjQzTnj4.jpg
-tldr: https://disekitargame.com/story/apa-itu-bloom-pada-video-game/
----
+tldr: https://stories.nws.ai/1288500888/apa-itu-bloom-pada-video-game/
 
+---
 PC master race, mereka semua pasti ingin berjalan dengan graphics tertinggi dan dan minimal 60fps, tapi tidak selamanya seperti itu, kalian pasti melakukan tweaking settings graphics pada game dan tidak semua orang mengetahui tujuan beberapa pengaturan tersebut, dan salah satunya adalah pengaturan bloom!, efek satu ini digunakan pada pencahayaan video game agar lebih menarik dan realistic.
 
 Bloom adalah sebuah effect cahaya yang cukup signifikan mengubah hasil visual game menjadi lebih baik atau buruk, tapi kenapa begitu cukup signifikan mengubah visual dan juga performa, jadi kami akan membahasnya lebih mendalam.
