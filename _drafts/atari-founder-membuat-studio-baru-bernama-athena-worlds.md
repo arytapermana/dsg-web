@@ -17,3 +17,5 @@ Founder dari Atari yaitu game klasiknya Pong dan Asteroids yang juga salah satu 
 Atari's Jane Whitetakker creator dari Athena Worlds juga membawa berapa orang lainnya seperti, Emily Amphlett yaitu senior program manager dari Unity, Sandeep Raithatha salah satu director dari King, serta beberapa direksi eksekutif dari EA, Blizzard dan Konami.
 
 Teknologi yang ada nantinya akan digunakan dalam membuat beberapa IP untuk PC, Xbox, PlayStation, Nintendo bahkan Mobile. Software dan tools tersebut juga berlisensi untuk publisher lain dengan tujuan mengurangi waktu development dan biaya. apakah Atari akan kembali seperti dulu?
+
+Source: [gameindustry.biz](https://www.gamesindustry.biz/articles/2021-06-02-atari-founder-launches-new-games-studio-athena-worlds)
