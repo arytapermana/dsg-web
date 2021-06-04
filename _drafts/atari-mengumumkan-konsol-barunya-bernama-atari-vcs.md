@@ -17,4 +17,4 @@ Terlepas dari berita Atari Founder yang membangun studio game baru bernama [Athe
 
 Atari VCS mungkin kali ini hadir lebih cepat dari yang diperkirakan, yaitu bulan ini! 15 Juni. Atari VCS terinspirasi dari desain Atari 2600, kembali ke masa sebagai perusaan yang melegenda. Atari berharap konsol ini dapat berjalan tidak hanya untuk game klasik tetapi modern games serta multimedia lainnya yang dapat menjadi perhatian gamer serta developer game itu sendiri.
 
-Atari VCS akan hadir dengam harga $299.99 dengan All-in system bundle yaitu Black Wallnut atau Onyx, jika di bundle dengan classic controller dan juga controller barunya berkisar di $399.99, walaupuncontrollernya juga dijual terpisah yaitu $59.99. apakah kalian tertarik?
+Atari VCS akan hadir dengam harga $299.99 dengan All-in system bundle yaitu Black Wallnut atau Onyx, jika di bundle dengan classic controller dan juga controller barunya berkisar di $399.99, walaupun controllernya juga dijual terpisah yaitu $59.99. apakah kalian tertarik?
