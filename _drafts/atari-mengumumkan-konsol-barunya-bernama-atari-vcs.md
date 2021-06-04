@@ -13,7 +13,7 @@ image: https://ik.imagekit.io/dsg/onyx1_dyCZGHV5OhO.jpg
 tldr: ''
 
 ---
-Terlepas dari berita Atari Founder yang membangun studio game baru bernama Athena World, kali ini sudah sejal lama Atari mengerjakan konsol baru miliknya yang dilansir dari Game Informer bahwa Atari telah mengumumkan konsol barunya bernama Atari VCS. Sebelumnya konsol ini hadir pada acara Developer Conferences di tahun 2018 dan masih dalam bentuk hybrid dan sama sekali tidak ada informasi kapan konsol tersebut hadir waktu itu
+Terlepas dari berita Atari Founder yang membangun studio game baru bernama [Athena World](https://disekitargame.com/atari-founder-membuat-studio-baru-bernama-athena-worlds/), kali ini sudah sejal lama Atari mengerjakan konsol baru miliknya yang dilansir dari Game Informer bahwa Atari telah mengumumkan konsol barunya bernama Atari VCS. Sebelumnya konsol ini hadir pada acara Developer Conferences di tahun 2018 dan masih dalam bentuk hybrid dan sama sekali tidak ada informasi kapan konsol tersebut hadir waktu itu
 
 Atari VCS mungkin kali ini hadir lebih cepat dari yang diperkirakan, yaitu bulan ini! yaitu 15 Juni. Atari VCS terinspirasi dari desain Atari 2600, kembali ke masa sebagai perusaan yang melegenda. Atari berharap konsol ini dapat berjalan tidak hanya untuk game klasik tetapi modern games serta multimedia lainnya yang dapat menjadi perhatian gamer serta developer game itu sendiri.
 
