@@ -13,7 +13,7 @@ image: https://ik.imagekit.io/dsg/Battlefield-6-Reveal-Event-May-6-Leak-Rumor_1_
 tldr: ''
 
 ---
-Belum saja EA resmi menampilkan trailer pertamanya telah banyak berita bocor mengenai game terbaru dari EA satu ini, Battlefield. Entah apakah ini strategi internal dari EA yang sengaja membocorkannya untuk membangun hype atau murni kesalahan tim sehingga data yang ada dapat bocor begitu saja.
+Belum saja EA resmi menampilkan trailer pertamanya, telah banyak berita bocor mengenai game terbaru dari EA satu ini, Battlefield. Entah apakah ini strategi internal dari EA yang sengaja membocorkannya untuk membangun hype atau murni kesalahan tim sehingga data yang ada dapat bocor begitu saja.
 
 ![](https://ik.imagekit.io/dsg/image_hM4MMZRoz.png)
 
