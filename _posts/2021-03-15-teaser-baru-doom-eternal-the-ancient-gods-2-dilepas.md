@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Teaser Baru Doom Eternal The Ancient Gods 2 Dilepas
+date: 2021-03-15 00:00:00 +08:00
 categories:
 - News
 tags:
 - Bethesda Softwork
 - Doom
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Doom_Eternal_Ancient_Gods_2BFyq__He.jpg
-
 ---
+
 Sejak diakusisinya Bethesda Softwork oleh Microsoft proyek game terbaru mereka dipastikan ekslusif. Untungnya apa yang sempat diumumkan sebelumnya akan tetap rilis untuk multi-platform, salah satunya dlc kedua dari Doom Eternal.
 
 Pertempuran sang demon slayer akan terus berlanjut, sebuah teaser baru memperlihatkan Doom Guy yang kini harus menghadapi ancaman sebelumnya yang semakin liar.

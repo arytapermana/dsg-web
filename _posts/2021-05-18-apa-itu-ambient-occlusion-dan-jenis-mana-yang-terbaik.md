@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sal
-date: 2021-05-18 00:43:17 +0800
+date: 2021-05-18T00:43:17.000+08:00
 title: Apa Itu Ambient Occlusion dan Jenis Mana yang Terbaik?
 categories:
 - Info
@@ -9,7 +9,7 @@ tags:
 - Settings Graphics
 - Ambient Occlusion
 image: https://ik.imagekit.io/dsg/thumb_CwNRkAFzy.jpg
-tldr: https://disekitargame.com/story/apa-itu-ambient-occlusion/
+tldr: https://stories.nws.ai/1288500888/apa-itu-ambient-occlusion/
 
 ---
 Ambient oclusion atau disingkat ao adalah teknik shading atau rendering yang melakukan kalkulasi bagaimana setiap point pada scene menerima cahaya di sekelilingnya, contoh ini seperti sebuah graphics 3d tabung yang menerima cahaya dan melakukan kalkulasi sebagaimana banyak cahaya dapat masuk ke tabung tersebut, semakin dalam tabung tersebut maka semakin berkurang cahaya yang didapat. Teknik ini di implementasikan pertama kali oleh Crytek yaitu CryEngine 2.

@@ -1,6 +1,6 @@
 ---
 title: LoveKami -Divinity Stage- Juga Rilis Untuk Switch
-date: 2020-11-20 00:00:00 Z
+date: 2020-11-20 08:00:00 +08:00
 categories:
 - News
 tags:

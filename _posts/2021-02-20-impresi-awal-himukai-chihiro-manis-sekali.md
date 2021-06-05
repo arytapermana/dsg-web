@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Impresi Awal Himukai Chihiro Trial - Manis Sekali
+date: 2021-02-20 00:00:00 +08:00
 categories:
 - Impression
 tags:
 - Himukai Chihiro
 - Smile
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/_________________xqO8B9UHbq_YBdcMr1Xt1R.jpg
-
 ---
+
 Mendekati pergantian bulan menjadi tanggalan terbaik dalam merilis VN ke pasaran. Tidak terlalu padat, beberapa lebih memilih melepas demo ke publik demi menarik minat kedepannya. Smile developer sekaligus publisher vn merilis gambaran awal dari karya terbarunya - Himukai Chihiro wa Shigoto ga Tsuzukanai.
 
 ![](https://ik.imagekit.io/dsg/_________________FJAWHBZQb1_HsgeZRjp0.jpg)

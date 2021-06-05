@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: 'Perang Besar DOOM Eternal: The Ancient of Gods 2 Dimulai'
+date: 2021-03-17 00:00:00 +08:00
 categories:
 - News
 tags:
 - Bethesda Softwork
 - Doom
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Doom_Eternal_Ancient_Gods_2_6HgJ5XfOtSq.jpg
-
 ---
+
 Tidak ada kesenangan lebih nikmat membantai para iblis lengkap dengan musik metal mengiringi sepanjang permainan. Seperti yang dikonfirmasi sebelumnya bahwa ini akan menjadi sekuel terbesar untuk standalone dari franchise Doom.
 
 Setelah kemarin Bethesda Softwork merilis sebuah teaser, kini trailer penuh dari Doom Eternal: The Ancient of Gods Part 2 dirilis. Dari trailer memperlihatkan kelanjutan cerita dari seri pertama, perang besar dengan para iblis semakin berkobar. Selain latar tempat, musik, senjata, dan varian musik baru juga diperlihatkan.

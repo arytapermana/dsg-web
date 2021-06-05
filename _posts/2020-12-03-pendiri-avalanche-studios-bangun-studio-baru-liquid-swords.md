@@ -1,6 +1,6 @@
 ---
 title: Pendiri Avalanche Studios Bangun Studio Baru — Liquid Swords
-date: 2020-12-03 00:00:00 Z
+date: 2020-12-03 08:00:00 +08:00
 layout: post
 author: john
 image: https://ik.imagekit.io/dsg/Just_Cause_4_lSqOIpBqUwe.jpg

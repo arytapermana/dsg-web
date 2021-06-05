@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Gran Turismo 7 Tawarkan Pengalaman Klasik Visual Modern
+date: 2021-02-01 00:00:00 +08:00
 categories:
 - News
 tags:
 - SIE
 - Gran Turismo
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Gran_Turismo_BKC7KT_tGodA.jpg
-
 ---
+
 Perkembangan video game dari sekadar visual kini gameplay mulai mengikuti seiring berjalannya waktu menjadi lebih realistik. Tetapi ada juga yang mengharapkan nuasa klasik rasa modern karena sudah nyaman ataupun bernostalgia. Harapan tersebut akan terwujud pada game simulasi balapan mobil Gran Turismo 7 nanti.
 
 Presiden developer Polyphony Digital Kazunori Yamauchi lewat interview yang dilakukan oleh media Octane, bahwa seri terbaru ini akan mengembalikan kembali sensasi berkendara dari GT1-4.

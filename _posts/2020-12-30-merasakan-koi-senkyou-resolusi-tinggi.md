@@ -1,6 +1,6 @@
 ---
 title: Merasakan Sensasi Koi Senkyou Dengan Resolusi Tinggi
-date: 2020-12-30 00:00:00 Z
+date: 2020-12-30 08:00:00 +08:00
 categories:
 - Testing
 tags:

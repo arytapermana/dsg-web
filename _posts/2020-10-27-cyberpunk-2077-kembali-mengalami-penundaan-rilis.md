@@ -1,6 +1,6 @@
 ---
 title: Cyberpunk 2077 Kembali Mengalami Penundaan Rilis
-date: 2020-10-27 00:00:00 Z
+date: 2020-10-27 08:00:00 +08:00
 categories:
 - Game
 - News

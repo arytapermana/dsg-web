@@ -1,14 +1,15 @@
 ---
-layout: post
-author: john
 title: Judgment Remastered Untuk Konsol Next-Gen
+date: 2021-02-01 00:00:00 +08:00
 categories:
 - News
 tags:
 - SEGA
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Judgment_gOkbjVKNLfrF.jpg
-
 ---
+
 Saat ini konsol next-gen sudah bisa dinikmati oleh para gamers. Teknologi baru mendorong limitasi dari game sebelumnya kini berjalan optimal menjadi alasan kuat sebagaian developer memberikan update ataupun sekalian merilis versi remaster untuk pengalaman visual lebih signifikan.
 
 Judgment sebuah game beat 'em up karya developer Ryu Ga Gotoku Studio dan publisher Sega akan dirilis kembali dalam bentuk remaster untuk konsol next-gen. Sebelumnya game ini hanya untuk platform PS4 dengan dual-dub juga. Versi remaster menawarkan peningkatan visual dengan 60 fps, waktu loading berkat bantuan SSD, dan dlc sebelumnya. 

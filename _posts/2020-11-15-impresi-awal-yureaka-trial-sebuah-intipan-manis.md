@@ -1,6 +1,6 @@
 ---
 title: Impresi Awal Yureaka Trial - Sebuah Intipan Manis
-date: 2020-11-15 00:00:00 Z
+date: 2020-11-15 08:00:00 +08:00
 categories:
 - Visual Novel
 - Impression

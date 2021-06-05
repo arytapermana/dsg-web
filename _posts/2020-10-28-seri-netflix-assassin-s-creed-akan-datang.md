@@ -1,6 +1,6 @@
 ---
 title: Seri Netflix Assassin's Creed Akan Datang
-date: 2020-10-28 00:00:00 Z
+date: 2020-10-28 08:00:00 +08:00
 categories:
 - News
 tags:

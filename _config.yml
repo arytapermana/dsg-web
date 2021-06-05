@@ -1,22 +1,25 @@
 ---
 title: Disekitar Game
-timezone: Asia/Makassar
+timezone: Asia/Shanghai
 collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
   stories:
     title: Stories
     output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Disekitar Game
-description: Disekitar Game adalah media informasi digital yang menyajikan edukasi, berita, rumor, tips & trik, serta berbagai topik menarik seputar game. Kami berusaha memberikan pandangan terbaik serta konten yang menarik dan informatif untuk menambah wawasan pemirsa mengenai dunia teknologi khususnya pada industri game.
+description: Disekitar Game adalah media informasi digital yang menyajikan edukasi,
+  berita, rumor, tips & trik, serta berbagai topik menarik seputar game. Kami berusaha
+  memberikan pandangan terbaik serta konten yang menarik dan informatif untuk menambah
+  wawasan pemirsa mengenai dunia teknologi khususnya pada industri game.
 logo: assets/images/logo-1-min.gif
 favicon: assets/images/dsg-logo-icon-1.png
 url: https://disekitargame.com
-baseurl: ''
+baseurl: 
 google_analytics: G-3ZND91CGZD
 disqus: disekitar-game
 mailchimp-list: https://space.us3.list-manage.com/subscribe?u=119b8c921721eaa747d4230ea&id=d8f6b5e860
@@ -32,15 +35,15 @@ authors:
     gravatar: 01bcc0368a8e3c305e2b497d369fbee2
     email: kadekarya4@gmail.com
     web: https://disekitargame.com/authors/arya/
-    twitter:
+    twitter: 
     description: Founder
   john:
     name: angga
     display_name: Dimaru Permana
     gravatar: db72fc2b17acc4c0cdba7bff28eb30c8
-    email:
+    email: 
     web: https://disekitargame.com/authors/angga/
-    twitter:
+    twitter: 
     description: Founder
 plugins:
 - jekyll-paginate
@@ -50,7 +53,7 @@ plugins:
 - jekyll-archives
 - jekyll-figure
 jekyll-archives:
-  enabled:
+  enabled: 
   layout: archive
   permalinks:
     category: "/category/:name/"
@@ -86,8 +89,8 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
 adsense: disabled
-adsense-data-ad-client  : ca-pub-3412143450191416
-adsense-data-ad-slot: '1363087678'
+adsense-data-ad-client: ca-pub-3412143450191416
+adsense-data-ad-slot: 1363087678
 lazyimages: enabled
 authorbox: disabled
 sass:
@@ -100,6 +103,6 @@ exclude:
 - Gemfile
 - Gemfile.lock
 algolia:
-   application_id: E0LFP6WLUR
-   index_name: disekitargame.com
-   search_only_api_key: f8ee8c243a1ff62b972716eeb16494ac
+  application_id: E0LFP6WLUR
+  index_name: disekitargame.com
+  search_only_api_key: f8ee8c243a1ff62b972716eeb16494ac

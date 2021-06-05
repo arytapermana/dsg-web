@@ -1,6 +1,6 @@
 ---
 title: Tampilan Pertama Tom Holland Sebagai Nathan Drake Pada Uncharted Movie
-date: 2020-10-22 00:00:00 Z
+date: 2020-10-22 08:00:00 +08:00
 categories:
 - News
 tags:

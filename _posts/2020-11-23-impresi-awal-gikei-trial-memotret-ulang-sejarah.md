@@ -1,6 +1,6 @@
 ---
 title: Impresi Awal Gikei Trial - Memotret Ulang Sejarah
-date: 2020-11-23 00:00:00 Z
+date: 2020-11-23 08:00:00 +08:00
 categories:
 - Impression
 tags:

@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Paradise Lost Rilis Trailer Lore Game
+date: 2021-02-11 00:00:00 +08:00
 categories:
 - News
 tags:
 - PolyAmorous
 - All in! Games
 - Paradise Lost
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Paradise_Lost_TaRichd6_vu.jpg
-
 ---
+
 Alternative History menjadi salah satu cerita menarik untuk dieksplorasi. Kebebasan membangun cerita dan dunianya memiliki pasar tersendiri. Paradise Lost menawarkan kisah bagaimana jika perang dunia 2 Nazi menang.
 
 Trailer terbarunya sendiri mengenalkan perjalanan perang dunia 2 di dunia alternatif, dimana Nazi menjelang kekalahannya ia meluncurkan nuklir yang menyebabkan sebagian besar negara belahan dunia diselimuti radiasi.

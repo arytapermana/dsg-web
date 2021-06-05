@@ -1,12 +1,11 @@
 ---
+title: 10 Video Game Dengan Bad Ending Menarik
+date: 2021-05-30 18:55:12 +08:00
 layout: post
 author: john
-title: 10 Video Game Dengan Bad Ending Menarik
-categories: []
-tags: []
 image: https://ik.imagekit.io/dsg/Spec_Ops_The_Line_0-iMeadyw.jpg
-
 ---
+
 efwwewf
 
 wfewwfe

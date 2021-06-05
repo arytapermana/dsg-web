@@ -1,17 +1,17 @@
 ---
-layout: post
-author: sal
-date: 2021-04-25T18:11:41.000+08:00
 title: Mainkan PC Games Pada Smartphone Menggunakan Moonlight Game Streaming
+date: 2021-04-25 18:11:41 +08:00
 categories:
 - Info
 tags:
 - Nvidia
 - Game Streaming
 - PC Game
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/thumb-2_BcyZGp1yt.jpg
-
 ---
+
 Moonlight adalah software open source dan gratis yang dikembangkan oleh komunitas menggunakan protokol NVIDIA's GameStream untuk melakukan streaming dari game PC menuju smartphone untuk dapat dimainkan.
 
 > Perlu diingat Moonlight hanya bekerja pada GPU/Graphics Card NVIDIA jadi selain itu tidak dapat menggunakan software satu ini.

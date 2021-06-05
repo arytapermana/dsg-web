@@ -126,3 +126,36 @@ https://search.google.com/structured-data/testing-tool/u/0/
                   .style.display = "none";
     }
 </script>
+
+<script>
+    $(document).ready(function(e) {
+        $('.article-post img').attr('src');
+    });
+</script>
+
+<!-- add div class to every iframe -->
+<script>
+    $(".article-post .embed-container iframe").unwrap();
+    $( ".article-post iframe" ).wrap( '<div class="embed-container"></div>' );
+</script>
+
+<script>
+    $(document).ready(function() {
+        $(".article-post .glightbox img").unwrap();
+        $(".article-post img").each(function() {
+            var $this = $(this);
+            var src = $this.attr('src');
+            var a = $('<a/>').attr('href', src).addClass('glightbox');
+            $this.wrap(a);
+        });
+        const lightbox = GLightbox({
+            closeButton: true,
+            openEffect: 'fade',
+            closeEffect: 'fade',
+            zoomable: true,
+            touchNavigation: true,
+            closeOnOutsideClick: true,
+        });
+        // $('.article-post a').simpleLightbox({ /* options */ });
+    });
+</script>

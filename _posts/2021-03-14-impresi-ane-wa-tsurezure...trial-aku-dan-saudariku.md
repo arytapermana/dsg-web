@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Impresi Awal Ane wa Tsurezure...Trial - Dimanjakan
+date: 2021-03-14 00:00:00 +08:00
 categories:
 - Impression
 tags:
 - Atelier Kaguya
 - Ane wa Tsurezure
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/ana_4_vF4v9nUBR.jpg
-
 ---
+
 Menuju tanggal penjualan visual novel serempak yang biasanya diakan ketika pergantian bulan, beberapa publisher mulai melemparkan trial/demo untuk memikan gamers baru yang masih ragu ingin memilih apa. Dev/Pubs Atelier Kaguya yang dikenal dengan produk nukige-nya melepas trial karya barunya berjudul Ane wa Tsurezure Naru Mama ni \~Otouto no Ecchi na Osewa wa Ama-Ero JK Sisters ni Omakase!\~.
 
 Maka jangan heran bila game-nya sebagian besar ditunjukkan untuk pemain yang sudah berumur layak, tidak ada namanya all-age selama eksistensinya di industri visual novel. Tema yang meraka angkat kali adalah hubungan adik laki-laki dengan kakak perempuan.

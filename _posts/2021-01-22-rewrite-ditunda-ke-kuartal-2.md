@@ -1,6 +1,6 @@
 ---
 title: Rewrite+ Ditunda ke Kuartal 2
-date: 2021-01-22 00:00:00 Z
+date: 2021-01-22 08:00:00 +08:00
 categories:
 - News
 tags:

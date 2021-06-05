@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Forza Horizon 4 Tersedia Di Steam Maret Mendatang
+date: 2021-02-08 00:00:00 +08:00
 categories:
 - News
 tags:
 - Microsoft
 - Steam
 - Forza Horizon
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Forza_4_Steam_Edition_pBjN4t-uwOt.jpg
-
 ---
+
 Tidak mengherankan bila begitu banyak peminat dari franchise game simulasi arcade balapan mobil teranyar milik Microsoft - Forza Horizon. Dimana menjadi salah satu judul yang membuat konsol Xbox dan Microsoft Store laku selain berlangganan Gamepass. Menuju pasar yang lebih banyak, pihaknya mulai ekspansi kembali.
 
 Forza Horizon 4 game yang dikembangkan oleh PlayGround Games, 2018 lalu akan dirilis untuk Steam. Sebuah trailer pengumuman beserta review-review yang didapatkan diperlihatkan.

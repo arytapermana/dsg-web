@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Apex Legends Capai Total 100 Juta Pemain
+date: 2021-04-15 00:00:00 +08:00
 categories:
 - News
 tags:
 - EA
 - Respawn
 - Apex Legends
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/apex_legends_HXnI0-4P8Tg.jpg
-
 ---
+
 Tidak dipungkiri popularitas Apex Legends sebagai game battle-royale competitive yang unik menarik banyak perhatian para gamer casual, e-sport maupun streamer. Apalagi game-nya sendiri bersifat free-to-play dengan spesifikasi pc tidak terlalu berat. Saat ini game tersebut mendapatkan total pemain begitu fantastis.
 
 Game yang dikembangkan oleh Respawn Entertainment dan dipublikasikan oleh EA 4 Februari 2019 lalu itu telah mencapai total pemain sebanyak 100 juta lebih. Sebuah video ucapan terimakasih dilepas beserta kemungkinan event mendatang.

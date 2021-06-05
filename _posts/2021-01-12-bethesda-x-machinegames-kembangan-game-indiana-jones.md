@@ -1,6 +1,6 @@
 ---
 title: 'Bethesda x MachineGames Kembangan Game Indiana Jones '
-date: 2021-01-12 00:00:00 Z
+date: 2021-01-12 08:00:00 +08:00
 categories:
 - News
 tags:

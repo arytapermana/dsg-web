@@ -1,6 +1,6 @@
 ---
 title: Resident Evil Village Tetap Untuk Current-Gen, Rilis Berbarengan
-date: 2021-01-21 00:00:00 Z
+date: 2021-01-21 08:00:00 +08:00
 categories:
 - News
 tags:

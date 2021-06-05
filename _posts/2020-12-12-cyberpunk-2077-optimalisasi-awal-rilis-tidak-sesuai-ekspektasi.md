@@ -1,6 +1,6 @@
 ---
 title: " Cyberpunk 2077 Optimalisasi Awal Rilis Tidak Sesuai Ekspektasi"
-date: 2020-12-12 00:00:00 Z
+date: 2020-12-12 08:00:00 +08:00
 categories:
 - News
 tags:

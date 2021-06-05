@@ -1,6 +1,6 @@
 ---
 title: 'Trailer Rilis Call of Duty: Black Ops Cold War Diperlihatkan'
-date: 2020-10-26 00:00:00 Z
+date: 2020-10-26 08:00:00 +08:00
 categories:
 - Game
 - News

@@ -1,6 +1,6 @@
 ---
 title: Nekopara Vol. 4 Versi Konsol Rilis Akhir Bulan
-date: 2020-12-09 00:00:00 Z
+date: 2020-12-09 08:00:00 +08:00
 categories:
 - News
 tags:

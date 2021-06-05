@@ -1,6 +1,6 @@
 ---
 title: Game Emulator, Seberapa Legal?
-date: 2020-10-20 00:00:00 Z
+date: 2020-10-20 08:00:00 +08:00
 categories:
 - Info
 tags:

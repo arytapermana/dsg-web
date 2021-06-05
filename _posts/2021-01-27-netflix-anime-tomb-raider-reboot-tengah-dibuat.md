@@ -1,6 +1,6 @@
 ---
 title: Netflix Anime Tomb Raider Reboot Tengah Dibuat?
-date: 2021-01-27 00:00:00 Z
+date: 2021-01-27 08:00:00 +08:00
 categories:
 - News
 tags:

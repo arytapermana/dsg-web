@@ -1,15 +1,16 @@
 ---
-layout: post
-author: john
 title: Island Hadir Di Switch
+date: 2021-02-17 00:00:00 +08:00
 categories:
 - News
 tags:
 - Frontwing
 - Island
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Island_wPvUAwIWcC3.jpg
-
 ---
+
 Mari lupakan dulu adaptasi anime yang cukup mengecewakan, khususnya di mata para pemainnya. Versi visual novel lebih menawarkan pengalaman emosional dengan segudang flowchart cerita yang dapat mempengaruhi ending nantinya. Apalagi game ini sifatnya all-age sangat mudah sekali untuk hadir ke pasar konsol,
 
 Frontwing selaku developer dan publisher akan membawa game Island ini ke Switch untuk pasar Jepang dan Barat. Versi ini merupakan porting lansung dari versi PC jadi bisa dipastikan tidak ada perubahan signifikan bila sudah pernah memainkannya sebelumnya.

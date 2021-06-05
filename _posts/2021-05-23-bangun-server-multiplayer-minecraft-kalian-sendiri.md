@@ -1,18 +1,18 @@
 ---
-layout: post
-author: sal
-date: 2021-05-23T19:31:55.000+08:00
 title: Bangun Server Multiplayer Minecraft Kalian Sendiri
+date: 2021-05-23 19:31:55 +08:00
 categories:
 - Info
 tags:
 - Ngrok
 - Multiplayer
 - Minecraft
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/thumb_RSrSNhvh5.jpg
 tldr: https://disekitargame.com/stories/2021-05-23-bangun-server-multiplayer-minecraft-kalian-sendiri/
-
 ---
+
 Minecraft ketika Bermain bersama teman terkadang cukup sulit untuk video game satu ini, kalian perlu mencari server publik ataupun membeli server premium dari Minecraft yang biasa di sebut Minecraft Realms, walaupun hanya ingin bermain bersama teman kalian, hal ini terasa cukup susah.
 
 Teman kalian dan kalian sebenernya ketika berada pada satu jaringan yang sama kalian dapat membuat server sendiri dan membagikan ip serta port yang ada ke teman kalian, cukup mudah bukan, tapi bagaimana jika teman kalian berada di wilayah yang cukup jauh, maka jaringan internet diperlukan dan hal ini memerlukan sesuatu yang disebut port forward, yaitu membagikan alamat ip lokal yang ada untuk dapat diakses hingga ke internet. Jadi hal tersebut yang akan dibahas kali ini.
@@ -32,15 +32,12 @@ Jika sudah maka langkah pertama adalah dengan extract file Minecraft server yang
 
     java -jar server.jar --world m-server
 
-<a href="https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png" class="glightbox">
-<img src="https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png" alt="minecraft server" />
-</a>
+[![inecraft server](https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png)](https://ik.imagekit.io/dsg/m-server_aAVedRiqJ.png){: .glightbox}
+
 
 setelah memulai server maka pada log command line kalian akan melihat port yang digunakan oleh server, simpan port tersebut yang nantinya akan digunakan pada Ngrok.
 
-<a href="https://ik.imagekit.io/dsg/m-server-1_xmoCcluHo.png" class="glightbox">
-<img src="https://ik.imagekit.io/dsg/m-server-1_xmoCcluHo.png" alt="port minecraft" />
-</a>
+[![port minecraft](https://ik.imagekit.io/dsg/m-server-1_xmoCcluHo.png)](https://ik.imagekit.io/dsg/m-server-1_xmoCcluHo.png){: .glightbox}
 
 Setelah itu maka login pada akun Ngrok dan pada halaman awal akan disediakan pilihan mengunduhnya, lanjutkan tahapan hingga tahap dua saja yaitu sampai pada proeses menghubungkan akun.
 
@@ -48,9 +45,7 @@ aktifkan port forward lokal menuju server Ngrok dengan command berikut.
 
     ngrok tcp -region ap 25565
 
-<a href="https://ik.imagekit.io/dsg/m-server-2_1vxepPxJG.png" class="glightbox">
-<img src="https://ik.imagekit.io/dsg/m-server-2_1vxepPxJG.png" alt="ngrok server start" />
-</a>
+[![ngrok server start](https://ik.imagekit.io/dsg/m-server-2_1vxepPxJG.png)](https://ik.imagekit.io/dsg/m-server-2_1vxepPxJG.png){: .glightbox}
 
 Setelah itu maka copy bagian alamat tcp saja tanpa menyertakan tcp, seperti berikut.
 
@@ -58,9 +53,7 @@ Setelah itu maka copy bagian alamat tcp saja tanpa menyertakan tcp, seperti beri
 
 Simpan alamat ip tersebut kemudian masukan pada menu server di minecraft, saya sarankan kalian hanya menggunakan direct connection atau sekali konek karena Ngrok selalu mengubah alamat ataupun port yang digunakan setiap kali melakukan start server.
 
-<a href="https://ik.imagekit.io/dsg/m-server-3_hQYpbxa-I.png" class="glightbox">
-<img src="https://ik.imagekit.io/dsg/m-server-3_hQYpbxa-I.png" alt="minecraft direct connection" />
-</a>
+![minecraft direct connection](https://ik.imagekit.io/dsg/m-server-3_hQYpbxa-I.png)
 
 alamat tersebut juga yang kalian dapat bagikan ke teman kalian sehingga mereka dapat join server yang kalian buat sendiri. 
 

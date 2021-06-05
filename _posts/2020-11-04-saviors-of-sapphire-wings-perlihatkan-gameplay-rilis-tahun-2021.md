@@ -1,6 +1,6 @@
 ---
 title: Saviors of Sapphire Wings Perlihatkan Gameplay, Rilis Tahun 2021
-date: 2020-11-04 00:00:00 Z
+date: 2020-11-04 08:00:00 +08:00
 categories:
 - Game
 - News

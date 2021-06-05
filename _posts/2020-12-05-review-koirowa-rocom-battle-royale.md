@@ -1,6 +1,6 @@
 ---
 title: Review Koirowa - Rocom Battle Royale
-date: 2020-12-05 00:00:00 Z
+date: 2020-12-05 08:00:00 +08:00
 categories:
 - Review
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Review Hibikino - Tidak Hanya Berjualan
-date: 2020-12-02 00:00:00 Z
+date: 2020-12-02 08:00:00 +08:00
 categories:
 - Visual Novel
 - Review

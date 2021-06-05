@@ -1,6 +1,6 @@
 ---
 title: Penggalangan Dana Tokyo:Reconnect Penuhi Target
-date: 2021-01-13 00:00:00 Z
+date: 2021-01-13 08:00:00 +08:00
 categories:
 - News
 tags:

@@ -1,16 +1,17 @@
 ---
-layout: post
-author: john
 title: Beberapa Developer Game PS Vita Tidak Menyangka PSN Vita Tutup
+date: 2021-04-03 00:00:00 +08:00
 categories:
 - News
 tags:
 - Sony Interactive Entertainment
 - PSN
 - PS Vita
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/PS_Vita_ir4B7_iADj.jpg
-
 ---
+
 Konsol lawas dari PlayStation seperti PS3 dan PSP sudah banyak ditinggalkan developer untuk merilis game mereka disana, tidak heran bila store game ditutup. Berbeda dengan PS Vita meskipun tidak diproduksi tetapi masih ada banyak dev, yang melirik platform satu ini merasa kecewa karena juga ikut ditutup store game-nya oleh Sony.
 
 ![](https://ik.imagekit.io/dsg/HABROXIA_2_WAFL78zMa.jpg)

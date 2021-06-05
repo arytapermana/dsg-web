@@ -1,6 +1,6 @@
 ---
 title: Impresi Awal Hibikinosan Trial - Memahami Industri VN Bekerja
-date: 2020-10-23 00:00:00 Z
+date: 2020-10-23 08:00:00 +08:00
 categories:
 - Impression
 - Visual Novel

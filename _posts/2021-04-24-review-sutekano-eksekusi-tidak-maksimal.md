@@ -1,17 +1,17 @@
 ---
-layout: post
-author: john
-date: 2021-04-24 21:19:14 +0800
 title: Review Sutekano - Eksekusi Tidak Maksimal
+date: 2021-04-24 21:19:14 +08:00
 categories:
 - Review
 tags:
 - Sushi_Soft
 - Sutekano
 - Hikari Field
+layout: post
+author: john
 image: https://ik.imagekit.io/dsg/Sutekina-12_etH8Qq1efeT.jpg
-
 ---
+
 Apa yang membuatnya dilirik adalah bagaimana kisah seorang yang memiliki penyakit mental menjalani kehidupan romansa sesama jenis (yuri). Namun, pandangan langsung kandas karena user review dari platform Steam game mostly negatif.
 
 Suteki na Kanojo no Tsukurikata yang dikembangan oleh sushi_soft, dev. yang sama dari game Kirakira Stars Idol Project dengan review positif. Lantas, mengapa karya barunya tidak demikian? Berikut ulasannya.

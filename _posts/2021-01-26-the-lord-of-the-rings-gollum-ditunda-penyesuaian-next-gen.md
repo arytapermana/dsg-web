@@ -1,6 +1,6 @@
 ---
 title: 'The Lord of the Rings: Gollum Ditunda, Penyesuaian Next-Gen'
-date: 2021-01-26 00:00:00 Z
+date: 2021-01-26 08:00:00 +08:00
 categories:
 - News
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sal
-date: 2021-05-20 08:43:30 +0800
+date: 2021-05-20T08:43:30.000+08:00
 title: Mengapa Harga GPU Semakin Mahal dan Tidak Stabil?
 categories:
 - Info
@@ -9,7 +9,7 @@ tags:
 - Graphics Card
 - GPU
 image: https://ik.imagekit.io/dsg/thumb_Un_vTDSzP.jpg
-tldr: https://disekitargame.com/story/mengapa-harga-gpu-semakin-mahal/
+tldr: https://stories.nws.ai/1288500888/mengapa-harga-gpu-semakin-mahal/
 
 ---
 Kita tahu harga hardware terutama graphics card sangat tidak masuk akal belakangan ini bahkan tidak hanya graphics cards tetapi bahkan merambat ke berbagai hardware lainnya. Tapi apakah semua ini disebabkan oleh Cryptocurrency atau miner? Tentu ya, maksudnya ya… tidak juga…

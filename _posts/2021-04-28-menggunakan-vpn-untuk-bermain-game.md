@@ -1,16 +1,16 @@
 ---
-layout: post
-author: sal
-date: 2021-04-28 22:54:33 +0800
 title: Haruskah Menggunakan VPN Untuk Bermain Game?
+date: 2021-04-28 22:54:33 +08:00
 categories:
 - Info
 tags:
 - Insurgency Sandstorm
 - VPN
+layout: post
+author: sal
 image: https://ik.imagekit.io/dsg/thumb_zXqBpC_Ew.jpg
-
 ---
+
 Ketika berbicara VPN maka tidak jauh akan masalah privasi, VPN kita ketahui biasa digunakan banyak orang untuk berselancar di dunia web secara anonim dan menembus firewal ISP, tapi bagaimana jadinya jika VPN digunakan untuk bermain game?.
 
 Tidak sedikit berbagai layanan VPN melakukan "propaganda" bahwa VPN dibutuhkan untuk bermain game tapi kenyataannya, yup kalian membutuhkanya!, _really!?_, tapi "relatif" dengan tujuan kalian.
