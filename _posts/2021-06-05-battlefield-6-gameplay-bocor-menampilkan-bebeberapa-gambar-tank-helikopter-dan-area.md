@@ -23,4 +23,4 @@ Belum saja EA resmi menampilkan trailer pertamanya telah banyak berita bocor men
 
 ![](https://ik.imagekit.io/dsg/image_3__kPRuytOHi.png)
 
-Pada gambar yang diambil dari gameplay Battlefield 6, disebarkan oleh akun Battlefield News, menampilkan screenshoot dari gameplaynya, terlihat terdapat beberapa perubahan dari seri battlefield sebelumnya, UI yang lebih artistik, beberapa kendaraan modern baru yang tidak ada pada seri Battlefield 4 sebelumnya. terdapat sensor hitam pada gambar, belum jelas apakah sebenarnya maksud dari hal tersebut. hype?
+Pada gambar yang diambil dari gameplay Battlefield 6, disebarkan oleh akun [Battlefield News](https://twitter.com/NewzBattlefield), menampilkan screenshoot dari gameplaynya, terlihat terdapat beberapa perubahan dari seri battlefield sebelumnya, UI yang lebih artistik, beberapa kendaraan modern baru yang tidak ada pada seri Battlefield 4 sebelumnya. terdapat sensor hitam pada gambar, belum jelas apakah sebenarnya maksud dari hal tersebut. hype?
