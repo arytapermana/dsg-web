@@ -11,3 +11,4 @@ image: https://ik.imagekit.io/dsg/E3CuYHxXEAEBc40_s9hPgvXfa.jpeg
 tldr: ''
 
 ---
+Sebelumnya beberapa konten kreator mendapatkan DM di twitternya seperti [LIRIK](https://mobile.twitter.com/LIRIK/status/1400811217837596673), [JackFrags](https://mobile.twitter.com/jackfrags/status/1400809954563563525), [Westie](https://mobile.twitter.com/MrProWestie/status/1400810853981691912) dan [DustelBox](https://mobile.twitter.com/DustelBox/status/1400812958238658572)
