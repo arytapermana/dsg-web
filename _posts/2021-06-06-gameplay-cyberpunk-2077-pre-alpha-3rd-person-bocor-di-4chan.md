@@ -3,9 +3,12 @@ layout: post
 author: sal
 date: 2021-06-06 22:00:24 +0800
 title: " Gameplay Cyberpunk 2077 Pre-Alpha 3rd Person Bocor di 4chan"
-categories: []
-tags: []
-image: ''
+categories:
+- News
+tags:
+- Leak
+- Cyberpunk 2077
+image: https://ik.imagekit.io/dsg/image_1__tAJ5kQng2pF.png
 tldr: ''
 
 ---
