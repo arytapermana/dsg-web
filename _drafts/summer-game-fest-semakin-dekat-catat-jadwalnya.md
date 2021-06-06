@@ -11,8 +11,8 @@ image: https://ik.imagekit.io/dsg/image_1___zV7f3Cyf.png
 tldr: ''
 
 ---
-Summer Game Fest semakin dekat nih, apa kalian sudah tahu jadwalnya? yuk catat jadwal Summer Game Fest tahun ini, berikut detailnya ya.
+Summer Game Fest adalah serangkaian acara festival game yang tahun ini diadakan bergandengan dengan Amazon Prime Gaming, tahu-tahu sudah  semakin dekat nih, apa kalian sudah tahu jadwalnya? yuk catat jadwal Summer Game Fest tahun ini, berikut detailnya ya.
 
 ![](https://ik.imagekit.io/dsg/image_3__XMDQeB_hf.png)
 
-Summer Game Fest adalah serangkaian acara festival game yang tahun ini diadakan bergandengan dengan Amazon Prime Gaming, cukup banyak developer dan publisher yang hadir pada tahun ini, seperti PlayStation yang terbilang absen pada E3 tahun lalu, jadi jangan sampai ketinggalan ya!
+Cukup banyak developer dan publisher yang hadir pada tahun ini, seperti PlayStation yang terbilang absen pada E3 tahun lalu, jadi jangan sampai ketinggalan ya!
