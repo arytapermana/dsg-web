@@ -15,6 +15,6 @@ Cyberpunk yang cukup lama telah dikerjakan kali ini terlihat video Pre-Alpha dar
 
 ![](https://ik.imagekit.io/dsg/2_4DDyzjqCb.jpg)
 
-Hal ini entah apakah ada hubungannya dengan hacker yang berhasil mencuri source code dari Cyberpunk 2077 itu sendiri atau tidak, tapi dari yang terlihat sepertinya cukup adah kaitannya. sebelumnya CD Project tidak lama setelah rilisnya The Witcher 3 telah menyiapkan project game baru, versi prototipe terlihat seperti The Witcher yang menggunakan 3rd person tetapi akhirnya pada E3 2018 diumumkan bahwa game tersebut adalah first person, jadi bagaimana menurut kalian?
+Hal ini entah apakah ada hubungannya dengan hacker yang berhasil mencuri source code dari Cyberpunk 2077 itu sendiri atau tidak, tapi dari yang terlihat sepertinya cukup ada kaitannya. sebelumnya CD Project tidak lama setelah rilisnya The Witcher 3 telah menyiapkan project game baru, versi prototipe terlihat seperti The Witcher yang menggunakan 3rd person tetapi akhirnya pada E3 2018 diumumkan bahwa game tersebut adalah first person, jadi bagaimana menurut kalian?
 
 Source: [Toisthe](https://www.toisthe.com/2021/06/cyberpunk-2077-leaked-gameplay-leaks.html)
