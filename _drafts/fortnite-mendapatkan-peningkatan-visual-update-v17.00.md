@@ -21,6 +21,8 @@ Fortnite pada update selanjutnya yaitu versi V17.00 tepatnya, mendapatkan pening
 * NVMe Solid State Drive
 * Windows 10 64-bit
 
+![](https://ik.imagekit.io/dsg/image_LAfKxy3SSxI.png)
+
 Settings tersebut berjalan untuk graphics preset Epic, untuk Medium dan Low tetap dapat menjalankannya pada minimum requirements. Perubahan yang terjadi pada kualitas visualnya adalah seperti badai, efek awan termasuk juga simulasi smoke serta liquid, yang berarti akan lebih keren pada saat terjadi ledakan, api, dan Slurp effects.
 
 jadi apakah PC kalian masih kuat nantinya menjalan game satu ini pada settings High atau Epic? berikan pendapat kalian pada kolom komentar!
