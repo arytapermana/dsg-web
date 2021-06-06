@@ -12,7 +12,7 @@ image: https://ik.imagekit.io/dsg/image_1__tAJ5kQng2pF.png
 tldr: ''
 
 ---
-Cyberpunk yang cukup lama telah dikerjakan kali ini terlihat video Pre-Alpha dari gamenya di tahun 2013 menggunakan mode third person tersebar di internet, pada video menampilkan gameplay dari game yang masih sangat awal pada saat itu, berikut [link](https://streamable.com/pvbylo) dari video tersebut, jika tidak dapat diakses mungkin kaian memerlukan VPN.
+Cyberpunk yang cukup lama telah dikerjakan kali ini terlihat video Pre-Alpha dari gamenya di tahun 2013 menggunakan mode third person tersebar di internet, pada video menampilkan gameplay dari game yang masih sangat awal pada saat itu, berikut [link](https://streamable.com/pvbylo) dari video tersebut, jika tidak dapat diakses mungkin kalian memerlukan VPN.
 
 ![](https://ik.imagekit.io/dsg/1_Vq4RTyPEd.jpg)
 
