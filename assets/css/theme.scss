@@ -921,6 +921,10 @@ a[href^="https://embedsocial.com"]  {
     background: none;
     padding-right: 0;
 }
+a[href^="https://twitter.com/"]  {
+    background: none;
+    padding-right: 0;
+}
 
 //ripple effect
 .ripple-container{
