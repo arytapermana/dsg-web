@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sal
-date: 2021-06-06 21:41:37 +0800
+date: 2021-06-06T21:41:37.000+08:00
 title: Minecraft Dungeons Mencapai 11 Juta Pemain
 categories:
 - News
@@ -15,4 +15,4 @@ Pada perayaan ulang tahunnya yang pertama, Minecraft Dungeons merayakan pencapai
 
 ![](https://ik.imagekit.io/dsg/image_1__ksvzy3vLT.png)
 
-Minecraft Dungeons adalahs seri Minecraft yang mengusung nuansa game dungeons sebagaimana biasanya, hanya yang unik adalah bagaimana tema Minecraft didalamnya memberikan nuansa yang cukup menarik, jadi apakah kalian tertarik?
+Minecraft Dungeons adalah seri Minecraft yang mengusung nuansa game dungeons sebagaimana biasanya, hanya yang unik adalah bagaimana tema Minecraft didalamnya memberikan nuansa yang cukup menarik, jadi apakah kalian tertarik?
