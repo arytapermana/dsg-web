@@ -20,4 +20,6 @@ Fidelity FX terbilang cukup baik digunakan untuk para developer dikarenakan kine
 
 Sebelumnya AMD mengumumkan Fidelity FX Super Resolution pada acara Computex dimana hal tersebut cukup menjadi alternative yang bersaing dengan DLSS milik NVIDIA dikarenakan dapat berjalan di GPU AMD yang telah ada bahkan GTX juga, serta dapat berjalan pada processor CPU AMD.
 
+![](https://ik.imagekit.io/dsg/image_2__bLPGJsiAC1L.png)
+
 Walau pada presentasi tersebut tidak terlihat fitur Super Resolution, tapi dengan ditambahkannya Fidelity FX pada development kit Xbox Series X S bukan tidak mungkin nanti di saat setelah peluncuran fitur Super Resolutin Microsoft akan menambahakan fitur tersebut karena merupakan bagian dari Fidelity FX juga.
