@@ -2,7 +2,7 @@
 layout: post
 author: sal
 date: 2021-06-08 08:08:34 +0800
-title: 'Prince of Persia: The Sands of Time Remake Akan Hadir 2020'
+title: 'Prince of Persia: The Sands of Time Remake Akan Hadir 2022'
 categories:
 - News
 tags:
