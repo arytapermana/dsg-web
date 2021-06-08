@@ -2,7 +2,7 @@
 layout: post
 author: sal
 date: 2021-06-09 06:25:46 +0800
-title: AMD FidelityFX Memasuki Xbox Series X|S
+title: AMD FidelityFX Memasuki Xbox Series X|S, Super Resolution Juga?
 categories:
 - News
 tags:
