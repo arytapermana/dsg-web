@@ -12,7 +12,7 @@ image: https://ik.imagekit.io/dsg/image_BNR7DtfgD2.png
 tldr: ''
 
 ---
-Prince of Persia: The Sands of Time Remake telah diumumkan tidak akan rilis tahun ini dan juga tidak akan hadir pada acara Ubisoft Forward tahun ini, developer team menyampaikan hal tersebut pada tweetnya mengenai hal tersebut.
+Prince of Persia: The Sands of Time Remake telah diumumkan tidak akan tampil tahun ini dan juga tidak akan hadir pada acara Ubisoft Forward tahun ini, developer team menyampaikan hal tersebut pada tweetnya mengenai hal tersebut.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A message from the Prince of Persia: The Sands of Time Remake dev team: <a href="https://t.co/3B8tgUGkwl">pic.twitter.com/3B8tgUGkwl</a></p>&mdash; Prince of Persia (@princeofpersia) <a href="https://twitter.com/princeofpersia/status/1401924414975905792?ref_src=twsrc%5Etfw">June 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
