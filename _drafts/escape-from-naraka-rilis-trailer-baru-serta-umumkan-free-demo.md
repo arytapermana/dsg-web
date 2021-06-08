@@ -16,6 +16,6 @@ Escape from Naraka merilis sebuah trailer baru yang berkaitan dengan cerita dari
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y85HBqe8dcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Tidak hanya itu Xelo Digital yaitu developer dari Escape from Naraka itu sendiri juga mengumumkan [free demo ](https://store.steampowered.com/news/app/1390670/view/3034843434620696519)dari gamenya pada tanggal 16 hingga 22 Juni dimana hal tersebut termasuk rangkaian Steam Next Fest.
+Tidak hanya itu Xelo Digital yaitu developer dari Escape from Naraka itu sendiri juga mengumumkan [free demo](https://store.steampowered.com/news/app/1390670/view/3034843434620696519) dari gamenya pada tanggal 16 hingga 22 Juni dimana hal tersebut termasuk rangkaian Steam Next Fest.
 
 Escape from Naraka adalah adventure game yang mengusung tema runner first-person dimana melewati rintangan di dimensi "naraka", terkadang juga akan ada sedikit elemen puzzle pada game, jadi catat tanggal free demonya ya.
