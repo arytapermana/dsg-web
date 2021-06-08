@@ -12,7 +12,7 @@ image: https://ik.imagekit.io/dsg/image_q5mLyQt8MWo.png
 tldr: ''
 
 ---
-Microsoft dan AMD [mengumumkan](https://gpuopen.com/gsl-2021-xbox/) bahwa FidelityFX miliknya akan hadir pada Xbox series X|S Development Kit, hal ini akan memberikan fitur menarik bagi developer untuk menerapkan gamenya bersama dengena Fidelity FX seperti Variable Shading, Denoiser, Contrast Adaptive Sharpening hingga HDR Mapper. Pada presentasi yang diadakan Microsoft, tidak terlihat fitur yang cukup naik daun belakangan ini, yaitu Super Resolution tampil pada presentasi.
+Microsoft dan AMD mengumumkan bahwa FidelityFX miliknya akan [hadir pada Xbox series X|S Development Kit](https://gpuopen.com/gsl-2021-xbox/), hal ini akan memberikan fitur menarik bagi developer untuk menerapkan gamenya bersama dengena Fidelity FX seperti Variable Shading, Denoiser, Contrast Adaptive Sharpening hingga HDR Mapper. Pada presentasi yang diadakan Microsoft, tidak terlihat fitur yang cukup naik daun belakangan ini, yaitu Super Resolution tampil pada presentasi.
 
 ![](https://ik.imagekit.io/dsg/image_1__AgzZcSEAk.png)
 
