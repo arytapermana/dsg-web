@@ -921,6 +921,14 @@ a[href^="https://embedsocial.com"]  {
     background: none;
     padding-right: 0;
 }
+a[href^="https://twitter.com/"]  {
+    background: none;
+    padding-right: 0;
+}
+a[href^="https://stories.nws.ai/"]  {
+    background: none;
+    padding-right: 0;
+}
 
 //ripple effect
 .ripple-container{
@@ -1343,4 +1351,9 @@ div.inline { float:left; }
       padding-right: 0;
       padding-left: 0;
     }
+  }
+
+  //Comments Button
+  .comments .comments-button{
+      width: 100%;
   }

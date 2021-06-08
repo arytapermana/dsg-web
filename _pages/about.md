@@ -15,4 +15,6 @@ Say hi! by sending an email to **hai@disekitargame.com**, we are very enthusiast
 
 Thank you!
 
-**Tim**: [Arya Permana](https://www.instagram.com/arylupita/), [Angga Permana](https://www.instagram.com/angga_permana_41/), [Oka Mahendra](https://twitter.com/okamhdr), [Dandy Suartama](https://www.instagram.com/dandytama_/)
+
+**Tim**: [Arya Permana](https://www.instagram.com/arylupita/), [Angga Permana](https://www.instagram.com/angga_permana_41/), [Oka Mahendra](https://twitter.com/okamhdr), [Dandy Suartama](https://www.instagram.com/dandytama_/), [Aldi Wahyudi](https://www.instagram.com/aldi_w4hyudi/)
+
