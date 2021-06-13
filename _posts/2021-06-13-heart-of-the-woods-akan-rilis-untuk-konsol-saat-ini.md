@@ -2,7 +2,7 @@
 layout: post
 author: john
 date: 2021-06-13 08:15:48 +0800
-title: Heart of the Woods Akan Rilis Untuk Konsol Saat ini
+title: Heart of the Woods Akan Rilis Untuk Konsol Saat Ini
 categories:
 - News
 tags:
