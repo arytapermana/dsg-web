@@ -19,4 +19,4 @@ Tanpa diduga Eidos-Montréal yaitu developer bagian dari Square Enix mengumumkan
 
 Karakter yang ada pada seri movie nya hampir lengkap terlihat pada trailer kecuali Gamora yang terlihat berbeda pada game, belum ada informasi cukup jelas apakah itu Gamora atau berbeda karakter, tetapi karakter yang pasti player dapat mainkan adalah Star-Lord.
 
-Marvel’s Guardians of the Galaxy akan hadir pada Xbox Series X|S, Xbox One, PlayStation 5, PlayStation 4 dan PC, 26 Oktober 2021.
+Marvel’s Guardians of the Galaxy akan hadir pada Xbox Series X S, Xbox One, PlayStation 5, PlayStation 4 dan PC, 26 Oktober 2021.
