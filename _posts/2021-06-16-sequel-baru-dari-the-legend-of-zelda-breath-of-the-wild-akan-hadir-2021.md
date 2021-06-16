@@ -2,7 +2,7 @@
 layout: post
 author: sal
 date: 2021-06-16 04:25:15 +0800
-title: 'Sequel Baru Dari The Legend of Zelda: Breath of the Wild Akan Hadir 2021'
+title: 'Sequel Baru Dari The Legend of Zelda: Breath of the Wild Akan Hadir 2022'
 categories:
 - News
 tags:
