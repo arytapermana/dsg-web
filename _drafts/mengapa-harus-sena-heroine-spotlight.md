@@ -1,5 +1,5 @@
 ---
-title: Mengapa Harus Sena? - Heroine Spotlight
+title: Why Should Sena? - Heroine Spotlight
 date: 2021-01-31 12:07:42 +08:00
 categories:
 - Toplist
@@ -8,4 +8,4 @@ author: john
 image: https://ik.imagekit.io/dsg/Sena_iejc0t-KnLC.jpg
 ---
 
-Jika Anda sering memperhatikan isi grup VNL beberapa hari kebelakang, tidak mengherankan bila melihat postingan membahas seorang heroine sejuta umat bernama "Sena".
+If you've been paying attention to the contents of the VNL group in the past few days, it's not surprising to see a post about a million people heroine named "Sena".

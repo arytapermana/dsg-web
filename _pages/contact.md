@@ -1,12 +1,12 @@
 ---
-title: Kontak
+title: Contact
 permalink: "/contact/"
 layout: page
 comments: false
 ---
 
 <form action="https://formspree.io/f/xqkgqbpd" method="POST">    
-<p class="mb-4">Silakan kirim pesan Anda ke {{site.name}}. Kami akan membalas secepat yang kami bisa!</p>
+<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as we can!</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Nama*" required>
