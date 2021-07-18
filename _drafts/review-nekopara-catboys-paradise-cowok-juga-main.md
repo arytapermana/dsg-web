@@ -3,8 +3,12 @@ layout: post
 author: john
 date: 2021-07-18 12:32:37 +0800
 title: Review Nekopara Catboys Paradise - Cowok Juga Main
-categories: []
-tags: []
+categories:
+- Visual Novel
+- Review
+tags:
+- Sekai Projects
+- NEKO WORKs
 image: https://ik.imagekit.io/dsg/20210716005116_1_tQUgAsmE_.jpg
 tldr: ''
 
@@ -38,3 +42,26 @@ Tsundere memang merepotkan tapi imut, ya kalau beda jenis namun bagaimana kalau 
 Anda berperan sebagai cewek tanpa narasi, hanya mendengarkan percakapan dari para catboys. MC hanya berinteraksi layaknya manusia tanpa berbicara, semisal setuju akan mengganguk, jika kaget layar bergetar, jika bingung ada tanda "?", dan lain-lain. Seperti Nekopara lainnya cerita tidak terlalu berat, selalu santai dengan komedi.
 
 **Tidak Sekadar Tsundere**
+
+![](https://ik.imagekit.io/dsg/20210716003247_1_gnV7i5KM6.jpg)
+
+Common route terutama bagi gamers cowok sangat membuat wah kok begini? Memasuki route karakter, Anda mulai paham sedikit demi sedikit pesona dari setiap husbando yang ada. Anggap diri Anda seorang cewek yang dipenuhi sesuatu yang jarang didapatkan yaitu situasi harem, jauh dari sekadar blush dan blush.
+
+**Kesimpulan**
+
+![](https://ik.imagekit.io/dsg/20210716003745_1_tdwcyVXMM.jpg)
+
+Nekopara Catboys Paradise menjadi arah baru untuk menyenangkan gamers _sjw,_ eh maksud kami untuk gamers fujoshi. Terlepas mengusung nama Nekopara, pendekatannya berbeda walaupun elemen dalam membangun cerita sama seperti original.
+
+Keluhan dari vn ini adalah kurangnya konten yang sebenarnya berpotensi untuk menjual, walaupun memang gamenya gratis. Selain itu, patch sepertinya menjadi pertimbangan kedepan agar lebih menarik untuk dimainkan. Sementara mengapa para cowok juga main, walaupun sudah jelas targetnya untuk siapa ya apalagi kalau bukan rasa penasaran.
+
+Kelebihan:
+
+* Tetap minimalis
+* Tidak sekadar tsundere
+* Visual masih terjaga
+
+Kekurangan:
+
+* Kurang panjang
+* Percakapan yang terlalu "manusia" banget kurang profesional ketika membicarakan soal pekerjaan
